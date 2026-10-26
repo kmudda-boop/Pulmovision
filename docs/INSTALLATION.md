@@ -14,7 +14,7 @@ python3 -m http.server 8000
 
 Open <http://localhost:8000> in the browser. Stop the server with Ctrl+C.
 
-Opening `index.html` directly may work in some browsers, but serving it over HTTP is the recommended method.
+Opening `index.html` directly may work in some browsers, but serving it over HTTP is the recommended method. Make sure to open it in the code folder if it is not working.
 
 ## External resources
 
