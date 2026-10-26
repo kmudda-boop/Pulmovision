@@ -1,7 +1,0 @@
-field,type,allowed_values_or_range,units,meaning,importer_behavior
-id,string,Non-empty unique identifier within a split,none,Stable demonstration case identifier,Accepted as fallback for name; displayed as case name
-lobe,string,"RUL, RML, RLL, LUL, LLL",none,Lung lobe location code,Directly accepted; mapped to the application's five lobe indices
-diameter_mm,number,4 to 70 inclusive,mm,Illustrative lesion diameter input,Directly accepted; app clamps parsed diameter to 4-70
-hu,integer,-1000 to 300,HU,Illustrative mean attenuation input,Directly accepted; alias mean_hu also recognized
-spiculation,number,0 to 1 inclusive,unitless fraction,Illustrative spiculation input,Directly accepted; alias sp also recognized; app clamps to 0-1
-fev1_percent,number,0 to 200 inclusive,percent predicted,Illustrative FEV1 input,Directly accepted; alias fev1 also recognized
