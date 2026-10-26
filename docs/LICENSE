@@ -1,0 +1,13 @@
+PulmoVision repository licensing notice
+
+The original PulmoVision application and its embedded assets were supplied for
+this repository task without a verified copyright statement or license grant.
+The licensing status of third-party components and assets has not been
+independently established.
+
+This notice is not an open-source license and does not grant permission to
+redistribute, modify, sublicense, or commercially use the original application
+or third-party assets. Obtain authorization from the relevant rights holders
+before redistribution or reuse. The separately generated synthetic example
+datasets and utility scripts are provided without a claim that they are
+clinical data; no separate open-source license is granted by this notice.
