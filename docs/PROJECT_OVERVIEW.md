@@ -24,7 +24,3 @@ The page loads Three.js r128 from `https://cdnjs.cloudflare.com/ajax/libs/three.
 ## Data flow
 
 The file input and drag/drop handlers call the application's file-reading routine. JSON accepts an array, a `cases` array wrapper, or a single object. CSV uses a basic header-based parser. The imported fields are mapped to internal names and values in `addCase`. The supplied demonstration datasets use the fields accepted by that mapping.
-
-## Repository utilities
-
-The Python generator creates deterministic synthetic CSV/JSON pairs. The validator checks record counts, parsing, schema, numeric bounds, identifier uniqueness, pair equality, and split separation. Unit tests exercise the main dataset invariants.
