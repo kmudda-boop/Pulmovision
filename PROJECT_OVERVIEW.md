@@ -6,7 +6,7 @@ PulmoVision is delivered as a single self-contained HTML document. Its styles, a
 
 ## Source-confirmed interface areas
 
-- Patient-data import from JSON or CSV, template JSON download, and report JSON export.
+- Patient-data import from CSV.
 - Case selector and four-stage pipeline status display.
 - Visualization layers, breathing-rate and opacity controls, and breathing pause control.
 - Tumor rendering mode and color selection.
