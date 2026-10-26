@@ -1,105 +1,212 @@
 # PulmoVision
 
-PulmoVision is a browser-based thoracic and lung visualization prototype. This repository preserves the supplied single-page application and provides reproducible synthetic case files for exercising its JSON and CSV import workflow.
+PulmoVision is a browser-based thoracic and lung visualization application designed to explore lung anatomy, visualize pulmonary nodules, and interact with patient case data.
 
-## Features present in the supplied application
+The project combines a 3D lung visualization interface with case-file importing, diagnostic display elements, and interactive controls.
 
-The preserved source includes a Three.js lung visualization, interactive view controls, tumor appearance controls, a virtual bronchoscopy depth control, a four-stage pipeline display, a diagnostic summary, an illustrative Gompertz growth view, intervention selectors, proposed-solution and comparison areas, case-file import, a JSON template download, and a JSON report export.
+## Features
 
-These are descriptions of interface and source-code functionality, not claims of clinical validity. The pipeline display is a timed interface sequence; it should not be interpreted as a validated clinical processing pipeline.
+- Interactive 3D lung visualization powered by Three.js.
+- Lung and pulmonary nodule visualization.
+- Tumor appearance and visualization controls.
+- Virtual bronchoscopy depth control.
+- Interactive view controls.
+- Patient case selection and data importing.
+- CSV and JSON case-file support.
+- Diagnostic summary interface.
+- Four-stage processing pipeline display.
+- Illustrative Gompertz growth visualization.
+- Intervention selection controls.
+- Proposed solution and comparison sections.
+- JSON template download.
+- JSON report export.
 
-## Screenshots
+## Project Structure
 
-No screenshots are included. Add locally captured screenshots here when available.
-
-## Requirements
-
-- A modern desktop browser with WebGL support.
-- Python 3.9 or later for dataset generation, validation, and tests (standard library only).
-- Internet access for the externally hosted Three.js and Google Fonts resources used by the page. The embedded application data itself is stored in `index.html`.
-
-## Installation and launch
-
-1. Download or clone this repository.
-2. Open `index.html` in a modern browser, or serve the directory over HTTP:
-
-   ```bash
-   python3 -m http.server 8000
-   ```
-
-3. Visit <http://localhost:8000>.
-
-Serving over HTTP is recommended over opening the file directly. The page loads Three.js r128 from `cdnjs.cloudflare.com` and fonts from Google Fonts; those resources require network access unless separately made available.
-
-## Repository structure
+The repository is organized as follows:
 
 ```text
 PulmoVision/
-├── index.html
-├── README.md
-├── LICENSE
-├── .gitignore
+│
+├── code/
+│   └── PulmoVision_Final.html
+│
 ├── datasets/
 │   ├── README.md
-│   ├── patient_cases_trial.csv
-│   ├── patient_cases_trial.json
+│   ├── data_dictionary.csv
 │   ├── patient_cases_test.csv
 │   ├── patient_cases_test.json
-│   └── data_dictionary.csv
+│   ├── patient_cases_trial.csv
+│   └── patient_cases_trial.json
+│
 ├── docs/
-│   ├── INSTALLATION.md
 │   ├── DATA_FORMAT.md
+│   ├── INSTALLATION.md
+│   ├── LICENSE
 │   ├── LIMITATIONS.md
-│   ├── VALIDATION_REPORT.md
 │   └── PROJECT_OVERVIEW.md
-├── scripts/
-│   ├── generate_datasets.py
-│   └── validate_datasets.py
-└── tests/
-    └── test_datasets.py
+│
+└── README.md
 ```
 
-## Example datasets
+## Requirements
 
-| File pair | Records per file | Purpose |
-|---|---:|---|
-| `patient_cases_trial.csv` and `.json` | 1,200 | Example import and interface testing |
-| `patient_cases_test.csv` and `.json` | 1,200 | Separate example import and interface testing |
+- A modern web browser such as Google Chrome, Firefox, Safari, or Microsoft Edge.
+- WebGL support for 3D visualization.
+- An internet connection for externally hosted Three.js and Google Fonts resources.
+- Python 3 for running a local development server.
 
-The CSV and JSON files in each pair contain the same records in the same order. Trial and test identifiers use separate prefixes and do not overlap. These are synthetic demonstration fixtures generated for software testing; they are not patient records, measurements, or clinical observations.
+## Installation and Setup
 
-## Data schema
+### 1. Download the Repository
 
-The app's import code accepts `id` as a fallback for `name`, along with `lobe`, `diameter_mm`, `hu`, `spiculation`, and `fev1_percent`. It also recognizes aliases including `location`, `diameter`, `d`, `mean_hu`, `sp`, and `fev1`. The included files use the direct field names listed above. See [docs/DATA_FORMAT.md](docs/DATA_FORMAT.md) and [datasets/data_dictionary.csv](datasets/data_dictionary.csv).
-
-## Importing example files
-
-1. Launch PulmoVision.
-2. In the **Patient data** section, choose **Drop a case file** or click the file area.
-3. Select one of the included `.json` or `.csv` files.
-4. The application adds imported records to its case selector. Select a case as needed.
-
-The importer accepts a JSON array, an object with a `cases` array, or a single JSON case object. CSV files must have a header row. The supplied CSV fields contain no commas, matching the simple comma-splitting parser in the current source.
-
-## Regenerate and validate datasets
-
-From the repository root:
+Clone the repository:
 
 ```bash
-python3 scripts/generate_datasets.py
-python3 scripts/validate_datasets.py
-python3 -m unittest discover -s tests -v
+git clone YOUR_GITHUB_REPOSITORY_URL
 ```
 
-Generation uses a fixed seed (`20261026`) and writes 1,200 records to each split in both formats. Running the generator again recreates the same files.
+Alternatively, download the repository as a ZIP file from GitHub and extract it to your computer.
 
-## Contribution guidelines
+### 2. Open the Project Folder
 
-- Preserve the original application and embedded resources unless a change is necessary and documented.
-- Update the data dictionary and validation tests when changing the import schema.
-- Run the generator, validator, and unit tests before submitting changes.
-- Do not add patient-identifying information, credentials, or secrets.
+Navigate to the PulmoVision directory:
+
+```bash
+cd PulmoVision
+```
+
+### 3. Start a Local Server
+
+Run the following command:
+
+```bash
+python3 -m http.server 8000
+```
+
+### 4. Launch PulmoVision
+
+Open your web browser and visit:
+
+http://localhost:8000/code/PulmoVision_Final.html
+
+The application should now load in your browser.
+
+## Dataset Overview
+
+The `datasets/` directory contains the case files used to test the application's patient data import functionality.
+
+| Dataset | Format | Records |
+|---|---|---:|
+| Trial cases | CSV | 1,200 |
+| Trial cases | JSON | 1,200 |
+| Test cases | CSV | 1,200 |
+| Test cases | JSON | 1,200 |
+
+The CSV and JSON versions contain corresponding records.
+
+### Available Dataset Files
+
+- `patient_cases_trial.csv`
+- `patient_cases_trial.json`
+- `patient_cases_test.csv`
+- `patient_cases_test.json`
+- `data_dictionary.csv`
+
+The data dictionary describes the dataset fields, their meanings, and their expected formats.
+
+## Data Fields
+
+The case files use the following primary fields:
+
+| Field | Description |
+|---|---|
+| `id` | Unique case identifier |
+| `lobe` | Anatomical lung lobe |
+| `diameter_mm` | Nodule diameter in millimetres |
+| `hu` | Hounsfield unit measurement |
+| `spiculation` | Spiculation value |
+| `fev1_percent` | FEV1 percentage of predicted value |
+
+### Supported Lung Lobe Values
+
+- RUL — Right Upper Lobe
+- RML — Right Middle Lobe
+- RLL — Right Lower Lobe
+- LUL — Left Upper Lobe
+- LLL — Left Lower Lobe
+
+For additional information, refer to:
+
+- [Data Format](docs/DATA_FORMAT.md)
+- [Data Dictionary](datasets/data_dictionary.csv)
+
+## Importing Patient Cases
+
+PulmoVision supports importing case files through its patient data interface.
+
+To import a dataset:
+
+1. Launch PulmoVision in your browser.
+2. Locate the **Patient Data** section.
+3. Select the case-file upload area.
+4. Choose a CSV or JSON file from the `datasets/` directory.
+5. Select an imported case using the application's case selector.
+
+The application supports JSON arrays, JSON objects containing a `cases` array, individual JSON case objects, and CSV files with a header row.
+
+## Application Overview
+
+The application interface includes several visualization and interaction components:
+
+### 3D Lung Visualization
+Provides an interactive representation of lung anatomy and pulmonary nodules.
+
+### Patient Data Interface
+Allows users to import and select case files for visualization.
+
+### Diagnostic Summary
+Displays case-related information through the application's diagnostic interface.
+
+### Visualization Controls
+Provides controls for adjusting views, tumor appearance, and bronchoscopy depth.
+
+### Growth Visualization
+Includes an illustrative Gompertz growth model display.
+
+### Intervention Interface
+Contains intervention selectors and proposed-solution comparison sections.
+
+## Documentation
+
+Additional project documentation is available in the `docs/` directory.
+
+| Document | Description |
+|---|---|
+| `INSTALLATION.md` | Installation and application setup |
+| `DATA_FORMAT.md` | Dataset structure and supported fields |
+| `LIMITATIONS.md` | Current application limitations |
+| `PROJECT_OVERVIEW.md` | General project description |
+| `LICENSE` | Licensing information |
+
+## Development
+
+When making changes to PulmoVision:
+
+- Preserve the existing application functionality.
+- Maintain compatibility with the supported CSV and JSON formats.
+- Keep dataset field names consistent with the application import logic.
+- Update the data dictionary when dataset fields change.
+- Test the application after modifying its source code.
+- Keep documentation consistent with the current repository structure.
 
 ## License
 
-The supplied source did not include a verified license grant. The repository `LICENSE` file records this limitation and does not grant reuse rights. Confirm permissions with the relevant rights holders before redistribution or reuse.
+Refer to the `docs/LICENSE` file for licensing information.
+
+## Project
+
+**PulmoVision**
+
+Thoracic and Lung Visualization Application
+
