@@ -1,0 +1,9602 @@
+[
+  {
+    "id": "PV-TEST-0001",
+    "lobe": "RML",
+    "diameter_mm": 7.7,
+    "hu": -212,
+    "spiculation": 0.14,
+    "fev1_percent": 66.5
+  },
+  {
+    "id": "PV-TEST-0002",
+    "lobe": "RLL",
+    "diameter_mm": 23.6,
+    "hu": -167,
+    "spiculation": 0.92,
+    "fev1_percent": 43.6
+  },
+  {
+    "id": "PV-TEST-0003",
+    "lobe": "LUL",
+    "diameter_mm": 35.1,
+    "hu": 48,
+    "spiculation": 0.6,
+    "fev1_percent": 66.4
+  },
+  {
+    "id": "PV-TEST-0004",
+    "lobe": "LLL",
+    "diameter_mm": 22.3,
+    "hu": 96,
+    "spiculation": 0.61,
+    "fev1_percent": 87.6
+  },
+  {
+    "id": "PV-TEST-0005",
+    "lobe": "RLL",
+    "diameter_mm": 68.9,
+    "hu": -821,
+    "spiculation": 0.78,
+    "fev1_percent": 89.2
+  },
+  {
+    "id": "PV-TEST-0006",
+    "lobe": "RLL",
+    "diameter_mm": 67.4,
+    "hu": -429,
+    "spiculation": 0.82,
+    "fev1_percent": 111.0
+  },
+  {
+    "id": "PV-TEST-0007",
+    "lobe": "LUL",
+    "diameter_mm": 59.8,
+    "hu": -15,
+    "spiculation": 0.05,
+    "fev1_percent": 63.4
+  },
+  {
+    "id": "PV-TEST-0008",
+    "lobe": "LUL",
+    "diameter_mm": 25.9,
+    "hu": -348,
+    "spiculation": 0.05,
+    "fev1_percent": 80.9
+  },
+  {
+    "id": "PV-TEST-0009",
+    "lobe": "RUL",
+    "diameter_mm": 24.0,
+    "hu": -608,
+    "spiculation": 0.24,
+    "fev1_percent": 118.2
+  },
+  {
+    "id": "PV-TEST-0010",
+    "lobe": "LUL",
+    "diameter_mm": 13.7,
+    "hu": -664,
+    "spiculation": 0.41,
+    "fev1_percent": 48.0
+  },
+  {
+    "id": "PV-TEST-0011",
+    "lobe": "RML",
+    "diameter_mm": 69.7,
+    "hu": -595,
+    "spiculation": 0.71,
+    "fev1_percent": 126.3
+  },
+  {
+    "id": "PV-TEST-0012",
+    "lobe": "RLL",
+    "diameter_mm": 19.7,
+    "hu": -357,
+    "spiculation": 0.99,
+    "fev1_percent": 98.9
+  },
+  {
+    "id": "PV-TEST-0013",
+    "lobe": "RUL",
+    "diameter_mm": 27.8,
+    "hu": -614,
+    "spiculation": 0.4,
+    "fev1_percent": 78.7
+  },
+  {
+    "id": "PV-TEST-0014",
+    "lobe": "LLL",
+    "diameter_mm": 68.3,
+    "hu": -849,
+    "spiculation": 0.01,
+    "fev1_percent": 114.0
+  },
+  {
+    "id": "PV-TEST-0015",
+    "lobe": "RLL",
+    "diameter_mm": 25.6,
+    "hu": 24,
+    "spiculation": 0.98,
+    "fev1_percent": 55.2
+  },
+  {
+    "id": "PV-TEST-0016",
+    "lobe": "LLL",
+    "diameter_mm": 22.1,
+    "hu": -363,
+    "spiculation": 0.81,
+    "fev1_percent": 43.4
+  },
+  {
+    "id": "PV-TEST-0017",
+    "lobe": "RML",
+    "diameter_mm": 31.4,
+    "hu": 32,
+    "spiculation": 0.42,
+    "fev1_percent": 73.1
+  },
+  {
+    "id": "PV-TEST-0018",
+    "lobe": "RUL",
+    "diameter_mm": 31.5,
+    "hu": -470,
+    "spiculation": 0.83,
+    "fev1_percent": 126.3
+  },
+  {
+    "id": "PV-TEST-0019",
+    "lobe": "LLL",
+    "diameter_mm": 31.0,
+    "hu": -715,
+    "spiculation": 0.72,
+    "fev1_percent": 46.5
+  },
+  {
+    "id": "PV-TEST-0020",
+    "lobe": "LUL",
+    "diameter_mm": 63.4,
+    "hu": -373,
+    "spiculation": 0.65,
+    "fev1_percent": 50.7
+  },
+  {
+    "id": "PV-TEST-0021",
+    "lobe": "RUL",
+    "diameter_mm": 60.9,
+    "hu": -849,
+    "spiculation": 0.73,
+    "fev1_percent": 61.0
+  },
+  {
+    "id": "PV-TEST-0022",
+    "lobe": "RUL",
+    "diameter_mm": 24.7,
+    "hu": -555,
+    "spiculation": 0.14,
+    "fev1_percent": 102.0
+  },
+  {
+    "id": "PV-TEST-0023",
+    "lobe": "RUL",
+    "diameter_mm": 49.2,
+    "hu": -819,
+    "spiculation": 0.8,
+    "fev1_percent": 100.1
+  },
+  {
+    "id": "PV-TEST-0024",
+    "lobe": "LLL",
+    "diameter_mm": 31.8,
+    "hu": -738,
+    "spiculation": 0.95,
+    "fev1_percent": 110.6
+  },
+  {
+    "id": "PV-TEST-0025",
+    "lobe": "LLL",
+    "diameter_mm": 22.2,
+    "hu": -278,
+    "spiculation": 0.04,
+    "fev1_percent": 87.6
+  },
+  {
+    "id": "PV-TEST-0026",
+    "lobe": "RUL",
+    "diameter_mm": 34.8,
+    "hu": -618,
+    "spiculation": 0.25,
+    "fev1_percent": 36.7
+  },
+  {
+    "id": "PV-TEST-0027",
+    "lobe": "LUL",
+    "diameter_mm": 19.7,
+    "hu": -350,
+    "spiculation": 0.93,
+    "fev1_percent": 81.2
+  },
+  {
+    "id": "PV-TEST-0028",
+    "lobe": "RML",
+    "diameter_mm": 15.0,
+    "hu": -193,
+    "spiculation": 0.62,
+    "fev1_percent": 72.8
+  },
+  {
+    "id": "PV-TEST-0029",
+    "lobe": "LLL",
+    "diameter_mm": 29.2,
+    "hu": -383,
+    "spiculation": 0.41,
+    "fev1_percent": 45.1
+  },
+  {
+    "id": "PV-TEST-0030",
+    "lobe": "RML",
+    "diameter_mm": 57.9,
+    "hu": -623,
+    "spiculation": 0.0,
+    "fev1_percent": 121.5
+  },
+  {
+    "id": "PV-TEST-0031",
+    "lobe": "LUL",
+    "diameter_mm": 28.8,
+    "hu": -226,
+    "spiculation": 0.33,
+    "fev1_percent": 66.1
+  },
+  {
+    "id": "PV-TEST-0032",
+    "lobe": "RLL",
+    "diameter_mm": 40.2,
+    "hu": -13,
+    "spiculation": 0.34,
+    "fev1_percent": 36.0
+  },
+  {
+    "id": "PV-TEST-0033",
+    "lobe": "RLL",
+    "diameter_mm": 31.2,
+    "hu": -845,
+    "spiculation": 0.17,
+    "fev1_percent": 122.4
+  },
+  {
+    "id": "PV-TEST-0034",
+    "lobe": "LLL",
+    "diameter_mm": 20.9,
+    "hu": -144,
+    "spiculation": 0.28,
+    "fev1_percent": 124.3
+  },
+  {
+    "id": "PV-TEST-0035",
+    "lobe": "RUL",
+    "diameter_mm": 22.1,
+    "hu": -581,
+    "spiculation": 0.08,
+    "fev1_percent": 47.6
+  },
+  {
+    "id": "PV-TEST-0036",
+    "lobe": "RML",
+    "diameter_mm": 39.3,
+    "hu": -328,
+    "spiculation": 0.58,
+    "fev1_percent": 118.1
+  },
+  {
+    "id": "PV-TEST-0037",
+    "lobe": "RML",
+    "diameter_mm": 17.7,
+    "hu": 98,
+    "spiculation": 0.23,
+    "fev1_percent": 117.8
+  },
+  {
+    "id": "PV-TEST-0038",
+    "lobe": "RLL",
+    "diameter_mm": 61.1,
+    "hu": -192,
+    "spiculation": 0.8,
+    "fev1_percent": 113.9
+  },
+  {
+    "id": "PV-TEST-0039",
+    "lobe": "RUL",
+    "diameter_mm": 10.6,
+    "hu": -300,
+    "spiculation": 0.44,
+    "fev1_percent": 47.5
+  },
+  {
+    "id": "PV-TEST-0040",
+    "lobe": "LUL",
+    "diameter_mm": 48.4,
+    "hu": -257,
+    "spiculation": 0.52,
+    "fev1_percent": 86.5
+  },
+  {
+    "id": "PV-TEST-0041",
+    "lobe": "RML",
+    "diameter_mm": 51.6,
+    "hu": -594,
+    "spiculation": 0.48,
+    "fev1_percent": 47.7
+  },
+  {
+    "id": "PV-TEST-0042",
+    "lobe": "RML",
+    "diameter_mm": 24.0,
+    "hu": -224,
+    "spiculation": 0.64,
+    "fev1_percent": 44.6
+  },
+  {
+    "id": "PV-TEST-0043",
+    "lobe": "RUL",
+    "diameter_mm": 10.2,
+    "hu": -823,
+    "spiculation": 0.45,
+    "fev1_percent": 93.2
+  },
+  {
+    "id": "PV-TEST-0044",
+    "lobe": "RUL",
+    "diameter_mm": 51.4,
+    "hu": -522,
+    "spiculation": 0.0,
+    "fev1_percent": 91.0
+  },
+  {
+    "id": "PV-TEST-0045",
+    "lobe": "RUL",
+    "diameter_mm": 64.7,
+    "hu": -616,
+    "spiculation": 0.72,
+    "fev1_percent": 65.6
+  },
+  {
+    "id": "PV-TEST-0046",
+    "lobe": "RLL",
+    "diameter_mm": 40.1,
+    "hu": -537,
+    "spiculation": 0.73,
+    "fev1_percent": 85.5
+  },
+  {
+    "id": "PV-TEST-0047",
+    "lobe": "RML",
+    "diameter_mm": 67.6,
+    "hu": -819,
+    "spiculation": 0.72,
+    "fev1_percent": 99.1
+  },
+  {
+    "id": "PV-TEST-0048",
+    "lobe": "RLL",
+    "diameter_mm": 55.5,
+    "hu": 52,
+    "spiculation": 0.88,
+    "fev1_percent": 123.2
+  },
+  {
+    "id": "PV-TEST-0049",
+    "lobe": "LLL",
+    "diameter_mm": 8.5,
+    "hu": -51,
+    "spiculation": 0.95,
+    "fev1_percent": 80.7
+  },
+  {
+    "id": "PV-TEST-0050",
+    "lobe": "RUL",
+    "diameter_mm": 46.2,
+    "hu": -1,
+    "spiculation": 0.45,
+    "fev1_percent": 126.8
+  },
+  {
+    "id": "PV-TEST-0051",
+    "lobe": "RUL",
+    "diameter_mm": 58.9,
+    "hu": -40,
+    "spiculation": 0.26,
+    "fev1_percent": 38.1
+  },
+  {
+    "id": "PV-TEST-0052",
+    "lobe": "RLL",
+    "diameter_mm": 28.2,
+    "hu": -60,
+    "spiculation": 0.2,
+    "fev1_percent": 59.9
+  },
+  {
+    "id": "PV-TEST-0053",
+    "lobe": "RUL",
+    "diameter_mm": 33.9,
+    "hu": -6,
+    "spiculation": 0.27,
+    "fev1_percent": 94.6
+  },
+  {
+    "id": "PV-TEST-0054",
+    "lobe": "RML",
+    "diameter_mm": 14.4,
+    "hu": -166,
+    "spiculation": 0.55,
+    "fev1_percent": 113.7
+  },
+  {
+    "id": "PV-TEST-0055",
+    "lobe": "RLL",
+    "diameter_mm": 6.1,
+    "hu": -521,
+    "spiculation": 0.17,
+    "fev1_percent": 42.1
+  },
+  {
+    "id": "PV-TEST-0056",
+    "lobe": "LUL",
+    "diameter_mm": 32.5,
+    "hu": -198,
+    "spiculation": 0.24,
+    "fev1_percent": 85.4
+  },
+  {
+    "id": "PV-TEST-0057",
+    "lobe": "RUL",
+    "diameter_mm": 14.7,
+    "hu": -777,
+    "spiculation": 0.59,
+    "fev1_percent": 42.5
+  },
+  {
+    "id": "PV-TEST-0058",
+    "lobe": "LLL",
+    "diameter_mm": 26.5,
+    "hu": -317,
+    "spiculation": 0.69,
+    "fev1_percent": 125.7
+  },
+  {
+    "id": "PV-TEST-0059",
+    "lobe": "RUL",
+    "diameter_mm": 65.2,
+    "hu": -311,
+    "spiculation": 0.47,
+    "fev1_percent": 116.4
+  },
+  {
+    "id": "PV-TEST-0060",
+    "lobe": "LLL",
+    "diameter_mm": 36.9,
+    "hu": -4,
+    "spiculation": 0.83,
+    "fev1_percent": 41.3
+  },
+  {
+    "id": "PV-TEST-0061",
+    "lobe": "LUL",
+    "diameter_mm": 49.8,
+    "hu": -16,
+    "spiculation": 0.82,
+    "fev1_percent": 89.0
+  },
+  {
+    "id": "PV-TEST-0062",
+    "lobe": "RML",
+    "diameter_mm": 13.4,
+    "hu": -803,
+    "spiculation": 0.52,
+    "fev1_percent": 88.2
+  },
+  {
+    "id": "PV-TEST-0063",
+    "lobe": "RLL",
+    "diameter_mm": 20.1,
+    "hu": -131,
+    "spiculation": 0.18,
+    "fev1_percent": 89.8
+  },
+  {
+    "id": "PV-TEST-0064",
+    "lobe": "LUL",
+    "diameter_mm": 21.7,
+    "hu": -458,
+    "spiculation": 0.15,
+    "fev1_percent": 37.1
+  },
+  {
+    "id": "PV-TEST-0065",
+    "lobe": "LUL",
+    "diameter_mm": 49.2,
+    "hu": -128,
+    "spiculation": 0.6,
+    "fev1_percent": 66.0
+  },
+  {
+    "id": "PV-TEST-0066",
+    "lobe": "RML",
+    "diameter_mm": 62.6,
+    "hu": -378,
+    "spiculation": 0.29,
+    "fev1_percent": 116.3
+  },
+  {
+    "id": "PV-TEST-0067",
+    "lobe": "LUL",
+    "diameter_mm": 64.8,
+    "hu": -403,
+    "spiculation": 0.87,
+    "fev1_percent": 47.6
+  },
+  {
+    "id": "PV-TEST-0068",
+    "lobe": "RLL",
+    "diameter_mm": 62.7,
+    "hu": -749,
+    "spiculation": 0.71,
+    "fev1_percent": 73.4
+  },
+  {
+    "id": "PV-TEST-0069",
+    "lobe": "LUL",
+    "diameter_mm": 47.8,
+    "hu": -240,
+    "spiculation": 0.45,
+    "fev1_percent": 89.4
+  },
+  {
+    "id": "PV-TEST-0070",
+    "lobe": "RLL",
+    "diameter_mm": 23.9,
+    "hu": -548,
+    "spiculation": 0.9,
+    "fev1_percent": 84.5
+  },
+  {
+    "id": "PV-TEST-0071",
+    "lobe": "LUL",
+    "diameter_mm": 49.7,
+    "hu": 21,
+    "spiculation": 0.01,
+    "fev1_percent": 41.4
+  },
+  {
+    "id": "PV-TEST-0072",
+    "lobe": "RUL",
+    "diameter_mm": 19.3,
+    "hu": 82,
+    "spiculation": 0.65,
+    "fev1_percent": 101.3
+  },
+  {
+    "id": "PV-TEST-0073",
+    "lobe": "LUL",
+    "diameter_mm": 34.4,
+    "hu": -230,
+    "spiculation": 0.83,
+    "fev1_percent": 86.2
+  },
+  {
+    "id": "PV-TEST-0074",
+    "lobe": "RLL",
+    "diameter_mm": 47.2,
+    "hu": -516,
+    "spiculation": 0.92,
+    "fev1_percent": 102.8
+  },
+  {
+    "id": "PV-TEST-0075",
+    "lobe": "RUL",
+    "diameter_mm": 49.5,
+    "hu": -560,
+    "spiculation": 0.68,
+    "fev1_percent": 117.8
+  },
+  {
+    "id": "PV-TEST-0076",
+    "lobe": "LLL",
+    "diameter_mm": 4.2,
+    "hu": -715,
+    "spiculation": 0.68,
+    "fev1_percent": 76.1
+  },
+  {
+    "id": "PV-TEST-0077",
+    "lobe": "RLL",
+    "diameter_mm": 58.9,
+    "hu": 106,
+    "spiculation": 0.45,
+    "fev1_percent": 60.7
+  },
+  {
+    "id": "PV-TEST-0078",
+    "lobe": "RLL",
+    "diameter_mm": 12.9,
+    "hu": -671,
+    "spiculation": 0.81,
+    "fev1_percent": 110.6
+  },
+  {
+    "id": "PV-TEST-0079",
+    "lobe": "LUL",
+    "diameter_mm": 23.6,
+    "hu": -831,
+    "spiculation": 0.74,
+    "fev1_percent": 78.1
+  },
+  {
+    "id": "PV-TEST-0080",
+    "lobe": "RLL",
+    "diameter_mm": 39.5,
+    "hu": -292,
+    "spiculation": 0.02,
+    "fev1_percent": 59.3
+  },
+  {
+    "id": "PV-TEST-0081",
+    "lobe": "LUL",
+    "diameter_mm": 24.1,
+    "hu": -15,
+    "spiculation": 0.56,
+    "fev1_percent": 126.1
+  },
+  {
+    "id": "PV-TEST-0082",
+    "lobe": "LUL",
+    "diameter_mm": 7.9,
+    "hu": -72,
+    "spiculation": 0.05,
+    "fev1_percent": 49.8
+  },
+  {
+    "id": "PV-TEST-0083",
+    "lobe": "LLL",
+    "diameter_mm": 44.6,
+    "hu": -490,
+    "spiculation": 0.51,
+    "fev1_percent": 106.8
+  },
+  {
+    "id": "PV-TEST-0084",
+    "lobe": "LLL",
+    "diameter_mm": 67.8,
+    "hu": -371,
+    "spiculation": 0.72,
+    "fev1_percent": 86.8
+  },
+  {
+    "id": "PV-TEST-0085",
+    "lobe": "RLL",
+    "diameter_mm": 29.7,
+    "hu": -760,
+    "spiculation": 0.94,
+    "fev1_percent": 102.1
+  },
+  {
+    "id": "PV-TEST-0086",
+    "lobe": "LUL",
+    "diameter_mm": 62.8,
+    "hu": -239,
+    "spiculation": 0.5,
+    "fev1_percent": 39.0
+  },
+  {
+    "id": "PV-TEST-0087",
+    "lobe": "LLL",
+    "diameter_mm": 8.2,
+    "hu": -253,
+    "spiculation": 0.43,
+    "fev1_percent": 56.0
+  },
+  {
+    "id": "PV-TEST-0088",
+    "lobe": "RLL",
+    "diameter_mm": 29.1,
+    "hu": -683,
+    "spiculation": 0.92,
+    "fev1_percent": 113.5
+  },
+  {
+    "id": "PV-TEST-0089",
+    "lobe": "RML",
+    "diameter_mm": 21.6,
+    "hu": 105,
+    "spiculation": 0.81,
+    "fev1_percent": 79.0
+  },
+  {
+    "id": "PV-TEST-0090",
+    "lobe": "RLL",
+    "diameter_mm": 58.6,
+    "hu": -147,
+    "spiculation": 0.52,
+    "fev1_percent": 49.9
+  },
+  {
+    "id": "PV-TEST-0091",
+    "lobe": "RML",
+    "diameter_mm": 19.9,
+    "hu": -509,
+    "spiculation": 0.8,
+    "fev1_percent": 119.0
+  },
+  {
+    "id": "PV-TEST-0092",
+    "lobe": "LLL",
+    "diameter_mm": 68.1,
+    "hu": -141,
+    "spiculation": 0.35,
+    "fev1_percent": 51.2
+  },
+  {
+    "id": "PV-TEST-0093",
+    "lobe": "RLL",
+    "diameter_mm": 43.5,
+    "hu": -283,
+    "spiculation": 0.71,
+    "fev1_percent": 35.8
+  },
+  {
+    "id": "PV-TEST-0094",
+    "lobe": "RML",
+    "diameter_mm": 38.9,
+    "hu": -489,
+    "spiculation": 0.78,
+    "fev1_percent": 61.9
+  },
+  {
+    "id": "PV-TEST-0095",
+    "lobe": "LLL",
+    "diameter_mm": 24.2,
+    "hu": -522,
+    "spiculation": 0.51,
+    "fev1_percent": 63.9
+  },
+  {
+    "id": "PV-TEST-0096",
+    "lobe": "LUL",
+    "diameter_mm": 64.2,
+    "hu": -780,
+    "spiculation": 0.87,
+    "fev1_percent": 97.3
+  },
+  {
+    "id": "PV-TEST-0097",
+    "lobe": "LUL",
+    "diameter_mm": 44.7,
+    "hu": -23,
+    "spiculation": 0.84,
+    "fev1_percent": 81.5
+  },
+  {
+    "id": "PV-TEST-0098",
+    "lobe": "LLL",
+    "diameter_mm": 19.5,
+    "hu": -365,
+    "spiculation": 0.89,
+    "fev1_percent": 77.0
+  },
+  {
+    "id": "PV-TEST-0099",
+    "lobe": "RML",
+    "diameter_mm": 61.3,
+    "hu": 94,
+    "spiculation": 0.7,
+    "fev1_percent": 69.2
+  },
+  {
+    "id": "PV-TEST-0100",
+    "lobe": "LUL",
+    "diameter_mm": 31.9,
+    "hu": -405,
+    "spiculation": 0.1,
+    "fev1_percent": 109.7
+  },
+  {
+    "id": "PV-TEST-0101",
+    "lobe": "RLL",
+    "diameter_mm": 53.7,
+    "hu": -421,
+    "spiculation": 0.9,
+    "fev1_percent": 72.5
+  },
+  {
+    "id": "PV-TEST-0102",
+    "lobe": "LLL",
+    "diameter_mm": 5.0,
+    "hu": 108,
+    "spiculation": 0.63,
+    "fev1_percent": 78.9
+  },
+  {
+    "id": "PV-TEST-0103",
+    "lobe": "RUL",
+    "diameter_mm": 47.5,
+    "hu": -407,
+    "spiculation": 0.32,
+    "fev1_percent": 87.9
+  },
+  {
+    "id": "PV-TEST-0104",
+    "lobe": "LLL",
+    "diameter_mm": 66.5,
+    "hu": 120,
+    "spiculation": 0.38,
+    "fev1_percent": 83.2
+  },
+  {
+    "id": "PV-TEST-0105",
+    "lobe": "LUL",
+    "diameter_mm": 6.8,
+    "hu": -424,
+    "spiculation": 0.24,
+    "fev1_percent": 118.7
+  },
+  {
+    "id": "PV-TEST-0106",
+    "lobe": "LLL",
+    "diameter_mm": 22.1,
+    "hu": 16,
+    "spiculation": 0.07,
+    "fev1_percent": 68.0
+  },
+  {
+    "id": "PV-TEST-0107",
+    "lobe": "LUL",
+    "diameter_mm": 61.3,
+    "hu": -233,
+    "spiculation": 0.57,
+    "fev1_percent": 125.6
+  },
+  {
+    "id": "PV-TEST-0108",
+    "lobe": "LUL",
+    "diameter_mm": 56.9,
+    "hu": -247,
+    "spiculation": 0.24,
+    "fev1_percent": 61.4
+  },
+  {
+    "id": "PV-TEST-0109",
+    "lobe": "LUL",
+    "diameter_mm": 56.5,
+    "hu": -645,
+    "spiculation": 0.26,
+    "fev1_percent": 91.3
+  },
+  {
+    "id": "PV-TEST-0110",
+    "lobe": "RML",
+    "diameter_mm": 61.1,
+    "hu": 100,
+    "spiculation": 0.02,
+    "fev1_percent": 71.8
+  },
+  {
+    "id": "PV-TEST-0111",
+    "lobe": "LUL",
+    "diameter_mm": 39.8,
+    "hu": -311,
+    "spiculation": 0.04,
+    "fev1_percent": 96.9
+  },
+  {
+    "id": "PV-TEST-0112",
+    "lobe": "RUL",
+    "diameter_mm": 44.5,
+    "hu": -206,
+    "spiculation": 0.6,
+    "fev1_percent": 64.1
+  },
+  {
+    "id": "PV-TEST-0113",
+    "lobe": "LLL",
+    "diameter_mm": 31.1,
+    "hu": -775,
+    "spiculation": 0.17,
+    "fev1_percent": 68.4
+  },
+  {
+    "id": "PV-TEST-0114",
+    "lobe": "RUL",
+    "diameter_mm": 48.3,
+    "hu": -667,
+    "spiculation": 0.05,
+    "fev1_percent": 44.2
+  },
+  {
+    "id": "PV-TEST-0115",
+    "lobe": "RLL",
+    "diameter_mm": 38.8,
+    "hu": -659,
+    "spiculation": 0.78,
+    "fev1_percent": 97.0
+  },
+  {
+    "id": "PV-TEST-0116",
+    "lobe": "RLL",
+    "diameter_mm": 58.3,
+    "hu": -425,
+    "spiculation": 0.38,
+    "fev1_percent": 110.3
+  },
+  {
+    "id": "PV-TEST-0117",
+    "lobe": "RUL",
+    "diameter_mm": 46.1,
+    "hu": -52,
+    "spiculation": 0.67,
+    "fev1_percent": 108.2
+  },
+  {
+    "id": "PV-TEST-0118",
+    "lobe": "LLL",
+    "diameter_mm": 64.5,
+    "hu": -120,
+    "spiculation": 0.78,
+    "fev1_percent": 48.5
+  },
+  {
+    "id": "PV-TEST-0119",
+    "lobe": "LUL",
+    "diameter_mm": 53.3,
+    "hu": -830,
+    "spiculation": 0.82,
+    "fev1_percent": 49.9
+  },
+  {
+    "id": "PV-TEST-0120",
+    "lobe": "LLL",
+    "diameter_mm": 8.2,
+    "hu": -615,
+    "spiculation": 0.3,
+    "fev1_percent": 59.8
+  },
+  {
+    "id": "PV-TEST-0121",
+    "lobe": "RML",
+    "diameter_mm": 35.0,
+    "hu": -97,
+    "spiculation": 0.18,
+    "fev1_percent": 69.0
+  },
+  {
+    "id": "PV-TEST-0122",
+    "lobe": "RUL",
+    "diameter_mm": 38.0,
+    "hu": 114,
+    "spiculation": 0.28,
+    "fev1_percent": 92.7
+  },
+  {
+    "id": "PV-TEST-0123",
+    "lobe": "LLL",
+    "diameter_mm": 21.7,
+    "hu": -581,
+    "spiculation": 0.7,
+    "fev1_percent": 116.8
+  },
+  {
+    "id": "PV-TEST-0124",
+    "lobe": "LLL",
+    "diameter_mm": 53.6,
+    "hu": -451,
+    "spiculation": 0.37,
+    "fev1_percent": 125.1
+  },
+  {
+    "id": "PV-TEST-0125",
+    "lobe": "RLL",
+    "diameter_mm": 64.2,
+    "hu": -311,
+    "spiculation": 0.5,
+    "fev1_percent": 110.5
+  },
+  {
+    "id": "PV-TEST-0126",
+    "lobe": "RLL",
+    "diameter_mm": 64.5,
+    "hu": -308,
+    "spiculation": 0.19,
+    "fev1_percent": 112.0
+  },
+  {
+    "id": "PV-TEST-0127",
+    "lobe": "LLL",
+    "diameter_mm": 29.9,
+    "hu": -105,
+    "spiculation": 0.52,
+    "fev1_percent": 123.6
+  },
+  {
+    "id": "PV-TEST-0128",
+    "lobe": "RML",
+    "diameter_mm": 66.8,
+    "hu": 25,
+    "spiculation": 0.78,
+    "fev1_percent": 112.4
+  },
+  {
+    "id": "PV-TEST-0129",
+    "lobe": "RUL",
+    "diameter_mm": 23.4,
+    "hu": 24,
+    "spiculation": 0.66,
+    "fev1_percent": 63.5
+  },
+  {
+    "id": "PV-TEST-0130",
+    "lobe": "RLL",
+    "diameter_mm": 30.9,
+    "hu": -244,
+    "spiculation": 0.48,
+    "fev1_percent": 123.2
+  },
+  {
+    "id": "PV-TEST-0131",
+    "lobe": "RLL",
+    "diameter_mm": 55.8,
+    "hu": -800,
+    "spiculation": 0.86,
+    "fev1_percent": 114.9
+  },
+  {
+    "id": "PV-TEST-0132",
+    "lobe": "LUL",
+    "diameter_mm": 7.5,
+    "hu": 84,
+    "spiculation": 0.9,
+    "fev1_percent": 56.0
+  },
+  {
+    "id": "PV-TEST-0133",
+    "lobe": "LUL",
+    "diameter_mm": 52.2,
+    "hu": -393,
+    "spiculation": 0.2,
+    "fev1_percent": 81.6
+  },
+  {
+    "id": "PV-TEST-0134",
+    "lobe": "RLL",
+    "diameter_mm": 57.2,
+    "hu": 112,
+    "spiculation": 0.81,
+    "fev1_percent": 115.4
+  },
+  {
+    "id": "PV-TEST-0135",
+    "lobe": "LUL",
+    "diameter_mm": 65.5,
+    "hu": -755,
+    "spiculation": 0.77,
+    "fev1_percent": 38.5
+  },
+  {
+    "id": "PV-TEST-0136",
+    "lobe": "LUL",
+    "diameter_mm": 18.4,
+    "hu": 74,
+    "spiculation": 0.33,
+    "fev1_percent": 123.9
+  },
+  {
+    "id": "PV-TEST-0137",
+    "lobe": "LLL",
+    "diameter_mm": 25.5,
+    "hu": -162,
+    "spiculation": 0.37,
+    "fev1_percent": 91.2
+  },
+  {
+    "id": "PV-TEST-0138",
+    "lobe": "RUL",
+    "diameter_mm": 69.6,
+    "hu": -625,
+    "spiculation": 0.83,
+    "fev1_percent": 87.3
+  },
+  {
+    "id": "PV-TEST-0139",
+    "lobe": "LUL",
+    "diameter_mm": 67.8,
+    "hu": -649,
+    "spiculation": 0.18,
+    "fev1_percent": 64.1
+  },
+  {
+    "id": "PV-TEST-0140",
+    "lobe": "RUL",
+    "diameter_mm": 31.6,
+    "hu": 22,
+    "spiculation": 0.94,
+    "fev1_percent": 68.6
+  },
+  {
+    "id": "PV-TEST-0141",
+    "lobe": "LUL",
+    "diameter_mm": 62.0,
+    "hu": -310,
+    "spiculation": 0.16,
+    "fev1_percent": 81.1
+  },
+  {
+    "id": "PV-TEST-0142",
+    "lobe": "LUL",
+    "diameter_mm": 11.2,
+    "hu": -341,
+    "spiculation": 0.63,
+    "fev1_percent": 105.9
+  },
+  {
+    "id": "PV-TEST-0143",
+    "lobe": "RUL",
+    "diameter_mm": 5.8,
+    "hu": -397,
+    "spiculation": 0.35,
+    "fev1_percent": 125.5
+  },
+  {
+    "id": "PV-TEST-0144",
+    "lobe": "RLL",
+    "diameter_mm": 33.3,
+    "hu": -341,
+    "spiculation": 1.0,
+    "fev1_percent": 42.0
+  },
+  {
+    "id": "PV-TEST-0145",
+    "lobe": "LLL",
+    "diameter_mm": 52.4,
+    "hu": -501,
+    "spiculation": 0.93,
+    "fev1_percent": 120.5
+  },
+  {
+    "id": "PV-TEST-0146",
+    "lobe": "RML",
+    "diameter_mm": 36.4,
+    "hu": -45,
+    "spiculation": 0.5,
+    "fev1_percent": 88.9
+  },
+  {
+    "id": "PV-TEST-0147",
+    "lobe": "LUL",
+    "diameter_mm": 16.0,
+    "hu": -783,
+    "spiculation": 0.54,
+    "fev1_percent": 50.3
+  },
+  {
+    "id": "PV-TEST-0148",
+    "lobe": "RUL",
+    "diameter_mm": 15.6,
+    "hu": -453,
+    "spiculation": 0.03,
+    "fev1_percent": 52.7
+  },
+  {
+    "id": "PV-TEST-0149",
+    "lobe": "LLL",
+    "diameter_mm": 11.0,
+    "hu": -620,
+    "spiculation": 0.1,
+    "fev1_percent": 51.6
+  },
+  {
+    "id": "PV-TEST-0150",
+    "lobe": "LUL",
+    "diameter_mm": 48.7,
+    "hu": -8,
+    "spiculation": 0.57,
+    "fev1_percent": 50.6
+  },
+  {
+    "id": "PV-TEST-0151",
+    "lobe": "LLL",
+    "diameter_mm": 42.5,
+    "hu": -48,
+    "spiculation": 0.01,
+    "fev1_percent": 75.7
+  },
+  {
+    "id": "PV-TEST-0152",
+    "lobe": "RLL",
+    "diameter_mm": 4.2,
+    "hu": -515,
+    "spiculation": 0.31,
+    "fev1_percent": 53.0
+  },
+  {
+    "id": "PV-TEST-0153",
+    "lobe": "LUL",
+    "diameter_mm": 49.0,
+    "hu": 49,
+    "spiculation": 0.6,
+    "fev1_percent": 104.9
+  },
+  {
+    "id": "PV-TEST-0154",
+    "lobe": "RUL",
+    "diameter_mm": 39.5,
+    "hu": 51,
+    "spiculation": 0.33,
+    "fev1_percent": 112.8
+  },
+  {
+    "id": "PV-TEST-0155",
+    "lobe": "RML",
+    "diameter_mm": 49.7,
+    "hu": -497,
+    "spiculation": 0.87,
+    "fev1_percent": 118.8
+  },
+  {
+    "id": "PV-TEST-0156",
+    "lobe": "LLL",
+    "diameter_mm": 52.5,
+    "hu": -70,
+    "spiculation": 0.36,
+    "fev1_percent": 93.7
+  },
+  {
+    "id": "PV-TEST-0157",
+    "lobe": "RML",
+    "diameter_mm": 27.8,
+    "hu": -530,
+    "spiculation": 0.97,
+    "fev1_percent": 42.2
+  },
+  {
+    "id": "PV-TEST-0158",
+    "lobe": "LUL",
+    "diameter_mm": 46.2,
+    "hu": -779,
+    "spiculation": 0.36,
+    "fev1_percent": 75.5
+  },
+  {
+    "id": "PV-TEST-0159",
+    "lobe": "RLL",
+    "diameter_mm": 14.3,
+    "hu": -689,
+    "spiculation": 0.74,
+    "fev1_percent": 38.8
+  },
+  {
+    "id": "PV-TEST-0160",
+    "lobe": "RUL",
+    "diameter_mm": 54.1,
+    "hu": -420,
+    "spiculation": 0.85,
+    "fev1_percent": 58.8
+  },
+  {
+    "id": "PV-TEST-0161",
+    "lobe": "RML",
+    "diameter_mm": 6.2,
+    "hu": 45,
+    "spiculation": 0.26,
+    "fev1_percent": 36.6
+  },
+  {
+    "id": "PV-TEST-0162",
+    "lobe": "RML",
+    "diameter_mm": 4.3,
+    "hu": -363,
+    "spiculation": 0.86,
+    "fev1_percent": 75.0
+  },
+  {
+    "id": "PV-TEST-0163",
+    "lobe": "LUL",
+    "diameter_mm": 29.7,
+    "hu": -724,
+    "spiculation": 0.39,
+    "fev1_percent": 108.6
+  },
+  {
+    "id": "PV-TEST-0164",
+    "lobe": "RML",
+    "diameter_mm": 7.7,
+    "hu": -446,
+    "spiculation": 0.47,
+    "fev1_percent": 105.4
+  },
+  {
+    "id": "PV-TEST-0165",
+    "lobe": "RUL",
+    "diameter_mm": 4.1,
+    "hu": -341,
+    "spiculation": 0.85,
+    "fev1_percent": 97.1
+  },
+  {
+    "id": "PV-TEST-0166",
+    "lobe": "LLL",
+    "diameter_mm": 27.4,
+    "hu": -330,
+    "spiculation": 0.06,
+    "fev1_percent": 51.2
+  },
+  {
+    "id": "PV-TEST-0167",
+    "lobe": "RUL",
+    "diameter_mm": 29.5,
+    "hu": -405,
+    "spiculation": 0.05,
+    "fev1_percent": 95.8
+  },
+  {
+    "id": "PV-TEST-0168",
+    "lobe": "RUL",
+    "diameter_mm": 58.3,
+    "hu": -847,
+    "spiculation": 0.57,
+    "fev1_percent": 51.2
+  },
+  {
+    "id": "PV-TEST-0169",
+    "lobe": "RLL",
+    "diameter_mm": 43.1,
+    "hu": -523,
+    "spiculation": 0.32,
+    "fev1_percent": 122.4
+  },
+  {
+    "id": "PV-TEST-0170",
+    "lobe": "LUL",
+    "diameter_mm": 6.0,
+    "hu": -20,
+    "spiculation": 0.64,
+    "fev1_percent": 83.0
+  },
+  {
+    "id": "PV-TEST-0171",
+    "lobe": "LUL",
+    "diameter_mm": 53.3,
+    "hu": 101,
+    "spiculation": 0.48,
+    "fev1_percent": 113.3
+  },
+  {
+    "id": "PV-TEST-0172",
+    "lobe": "RML",
+    "diameter_mm": 61.6,
+    "hu": -264,
+    "spiculation": 0.23,
+    "fev1_percent": 76.1
+  },
+  {
+    "id": "PV-TEST-0173",
+    "lobe": "RLL",
+    "diameter_mm": 16.6,
+    "hu": -247,
+    "spiculation": 0.44,
+    "fev1_percent": 88.4
+  },
+  {
+    "id": "PV-TEST-0174",
+    "lobe": "RML",
+    "diameter_mm": 29.6,
+    "hu": -627,
+    "spiculation": 0.38,
+    "fev1_percent": 92.4
+  },
+  {
+    "id": "PV-TEST-0175",
+    "lobe": "RUL",
+    "diameter_mm": 34.8,
+    "hu": -401,
+    "spiculation": 0.03,
+    "fev1_percent": 46.1
+  },
+  {
+    "id": "PV-TEST-0176",
+    "lobe": "RLL",
+    "diameter_mm": 32.9,
+    "hu": -32,
+    "spiculation": 0.24,
+    "fev1_percent": 37.0
+  },
+  {
+    "id": "PV-TEST-0177",
+    "lobe": "RML",
+    "diameter_mm": 10.4,
+    "hu": -273,
+    "spiculation": 0.97,
+    "fev1_percent": 38.9
+  },
+  {
+    "id": "PV-TEST-0178",
+    "lobe": "RUL",
+    "diameter_mm": 8.0,
+    "hu": 103,
+    "spiculation": 0.84,
+    "fev1_percent": 127.6
+  },
+  {
+    "id": "PV-TEST-0179",
+    "lobe": "RLL",
+    "diameter_mm": 48.0,
+    "hu": -658,
+    "spiculation": 0.95,
+    "fev1_percent": 48.3
+  },
+  {
+    "id": "PV-TEST-0180",
+    "lobe": "LUL",
+    "diameter_mm": 39.7,
+    "hu": -746,
+    "spiculation": 0.52,
+    "fev1_percent": 83.2
+  },
+  {
+    "id": "PV-TEST-0181",
+    "lobe": "LUL",
+    "diameter_mm": 54.4,
+    "hu": -463,
+    "spiculation": 0.66,
+    "fev1_percent": 44.6
+  },
+  {
+    "id": "PV-TEST-0182",
+    "lobe": "RUL",
+    "diameter_mm": 13.3,
+    "hu": -491,
+    "spiculation": 0.38,
+    "fev1_percent": 102.0
+  },
+  {
+    "id": "PV-TEST-0183",
+    "lobe": "LUL",
+    "diameter_mm": 29.1,
+    "hu": -568,
+    "spiculation": 0.56,
+    "fev1_percent": 122.8
+  },
+  {
+    "id": "PV-TEST-0184",
+    "lobe": "RLL",
+    "diameter_mm": 48.0,
+    "hu": -538,
+    "spiculation": 0.18,
+    "fev1_percent": 49.8
+  },
+  {
+    "id": "PV-TEST-0185",
+    "lobe": "RUL",
+    "diameter_mm": 27.7,
+    "hu": -381,
+    "spiculation": 0.91,
+    "fev1_percent": 43.7
+  },
+  {
+    "id": "PV-TEST-0186",
+    "lobe": "RLL",
+    "diameter_mm": 32.2,
+    "hu": -751,
+    "spiculation": 0.35,
+    "fev1_percent": 58.5
+  },
+  {
+    "id": "PV-TEST-0187",
+    "lobe": "RUL",
+    "diameter_mm": 16.7,
+    "hu": -734,
+    "spiculation": 0.26,
+    "fev1_percent": 113.1
+  },
+  {
+    "id": "PV-TEST-0188",
+    "lobe": "LUL",
+    "diameter_mm": 66.2,
+    "hu": -383,
+    "spiculation": 0.59,
+    "fev1_percent": 74.2
+  },
+  {
+    "id": "PV-TEST-0189",
+    "lobe": "RML",
+    "diameter_mm": 4.6,
+    "hu": -579,
+    "spiculation": 0.91,
+    "fev1_percent": 77.4
+  },
+  {
+    "id": "PV-TEST-0190",
+    "lobe": "RUL",
+    "diameter_mm": 46.4,
+    "hu": -191,
+    "spiculation": 0.84,
+    "fev1_percent": 124.5
+  },
+  {
+    "id": "PV-TEST-0191",
+    "lobe": "LLL",
+    "diameter_mm": 64.9,
+    "hu": -559,
+    "spiculation": 0.44,
+    "fev1_percent": 107.6
+  },
+  {
+    "id": "PV-TEST-0192",
+    "lobe": "RUL",
+    "diameter_mm": 39.4,
+    "hu": -135,
+    "spiculation": 0.7,
+    "fev1_percent": 122.3
+  },
+  {
+    "id": "PV-TEST-0193",
+    "lobe": "RLL",
+    "diameter_mm": 10.3,
+    "hu": -325,
+    "spiculation": 0.97,
+    "fev1_percent": 101.8
+  },
+  {
+    "id": "PV-TEST-0194",
+    "lobe": "LLL",
+    "diameter_mm": 53.7,
+    "hu": -359,
+    "spiculation": 0.62,
+    "fev1_percent": 80.8
+  },
+  {
+    "id": "PV-TEST-0195",
+    "lobe": "RUL",
+    "diameter_mm": 69.9,
+    "hu": -463,
+    "spiculation": 0.2,
+    "fev1_percent": 121.6
+  },
+  {
+    "id": "PV-TEST-0196",
+    "lobe": "LLL",
+    "diameter_mm": 19.6,
+    "hu": -629,
+    "spiculation": 0.38,
+    "fev1_percent": 40.9
+  },
+  {
+    "id": "PV-TEST-0197",
+    "lobe": "RML",
+    "diameter_mm": 7.0,
+    "hu": -800,
+    "spiculation": 0.64,
+    "fev1_percent": 57.0
+  },
+  {
+    "id": "PV-TEST-0198",
+    "lobe": "RUL",
+    "diameter_mm": 51.5,
+    "hu": -27,
+    "spiculation": 0.43,
+    "fev1_percent": 74.7
+  },
+  {
+    "id": "PV-TEST-0199",
+    "lobe": "RUL",
+    "diameter_mm": 42.4,
+    "hu": -487,
+    "spiculation": 0.4,
+    "fev1_percent": 101.8
+  },
+  {
+    "id": "PV-TEST-0200",
+    "lobe": "RLL",
+    "diameter_mm": 45.3,
+    "hu": -734,
+    "spiculation": 0.77,
+    "fev1_percent": 109.1
+  },
+  {
+    "id": "PV-TEST-0201",
+    "lobe": "RUL",
+    "diameter_mm": 53.7,
+    "hu": -736,
+    "spiculation": 0.19,
+    "fev1_percent": 43.8
+  },
+  {
+    "id": "PV-TEST-0202",
+    "lobe": "LLL",
+    "diameter_mm": 57.5,
+    "hu": -829,
+    "spiculation": 0.7,
+    "fev1_percent": 61.8
+  },
+  {
+    "id": "PV-TEST-0203",
+    "lobe": "RLL",
+    "diameter_mm": 11.9,
+    "hu": -330,
+    "spiculation": 0.78,
+    "fev1_percent": 117.6
+  },
+  {
+    "id": "PV-TEST-0204",
+    "lobe": "RLL",
+    "diameter_mm": 29.5,
+    "hu": -10,
+    "spiculation": 0.92,
+    "fev1_percent": 96.9
+  },
+  {
+    "id": "PV-TEST-0205",
+    "lobe": "LLL",
+    "diameter_mm": 61.1,
+    "hu": -102,
+    "spiculation": 0.15,
+    "fev1_percent": 122.4
+  },
+  {
+    "id": "PV-TEST-0206",
+    "lobe": "LLL",
+    "diameter_mm": 25.0,
+    "hu": -660,
+    "spiculation": 0.51,
+    "fev1_percent": 78.9
+  },
+  {
+    "id": "PV-TEST-0207",
+    "lobe": "RML",
+    "diameter_mm": 6.1,
+    "hu": -87,
+    "spiculation": 0.21,
+    "fev1_percent": 114.1
+  },
+  {
+    "id": "PV-TEST-0208",
+    "lobe": "RLL",
+    "diameter_mm": 18.3,
+    "hu": -492,
+    "spiculation": 0.23,
+    "fev1_percent": 128.0
+  },
+  {
+    "id": "PV-TEST-0209",
+    "lobe": "RLL",
+    "diameter_mm": 46.7,
+    "hu": -554,
+    "spiculation": 0.69,
+    "fev1_percent": 127.2
+  },
+  {
+    "id": "PV-TEST-0210",
+    "lobe": "RML",
+    "diameter_mm": 35.3,
+    "hu": 2,
+    "spiculation": 0.82,
+    "fev1_percent": 44.0
+  },
+  {
+    "id": "PV-TEST-0211",
+    "lobe": "LUL",
+    "diameter_mm": 16.3,
+    "hu": -647,
+    "spiculation": 0.68,
+    "fev1_percent": 57.7
+  },
+  {
+    "id": "PV-TEST-0212",
+    "lobe": "RUL",
+    "diameter_mm": 44.0,
+    "hu": -290,
+    "spiculation": 0.37,
+    "fev1_percent": 92.6
+  },
+  {
+    "id": "PV-TEST-0213",
+    "lobe": "RUL",
+    "diameter_mm": 18.0,
+    "hu": -117,
+    "spiculation": 0.68,
+    "fev1_percent": 52.2
+  },
+  {
+    "id": "PV-TEST-0214",
+    "lobe": "RLL",
+    "diameter_mm": 47.8,
+    "hu": -731,
+    "spiculation": 0.7,
+    "fev1_percent": 57.0
+  },
+  {
+    "id": "PV-TEST-0215",
+    "lobe": "RLL",
+    "diameter_mm": 60.0,
+    "hu": 106,
+    "spiculation": 0.46,
+    "fev1_percent": 42.0
+  },
+  {
+    "id": "PV-TEST-0216",
+    "lobe": "LUL",
+    "diameter_mm": 44.0,
+    "hu": 0,
+    "spiculation": 0.5,
+    "fev1_percent": 47.4
+  },
+  {
+    "id": "PV-TEST-0217",
+    "lobe": "RUL",
+    "diameter_mm": 37.0,
+    "hu": -504,
+    "spiculation": 0.88,
+    "fev1_percent": 94.5
+  },
+  {
+    "id": "PV-TEST-0218",
+    "lobe": "LUL",
+    "diameter_mm": 58.2,
+    "hu": 49,
+    "spiculation": 0.25,
+    "fev1_percent": 51.7
+  },
+  {
+    "id": "PV-TEST-0219",
+    "lobe": "LLL",
+    "diameter_mm": 17.3,
+    "hu": 86,
+    "spiculation": 0.42,
+    "fev1_percent": 100.7
+  },
+  {
+    "id": "PV-TEST-0220",
+    "lobe": "LLL",
+    "diameter_mm": 16.4,
+    "hu": -184,
+    "spiculation": 0.46,
+    "fev1_percent": 124.2
+  },
+  {
+    "id": "PV-TEST-0221",
+    "lobe": "LLL",
+    "diameter_mm": 11.8,
+    "hu": -687,
+    "spiculation": 0.99,
+    "fev1_percent": 47.5
+  },
+  {
+    "id": "PV-TEST-0222",
+    "lobe": "RML",
+    "diameter_mm": 28.0,
+    "hu": -670,
+    "spiculation": 0.99,
+    "fev1_percent": 110.0
+  },
+  {
+    "id": "PV-TEST-0223",
+    "lobe": "RLL",
+    "diameter_mm": 38.4,
+    "hu": -181,
+    "spiculation": 0.2,
+    "fev1_percent": 111.3
+  },
+  {
+    "id": "PV-TEST-0224",
+    "lobe": "RML",
+    "diameter_mm": 24.3,
+    "hu": -661,
+    "spiculation": 0.35,
+    "fev1_percent": 97.6
+  },
+  {
+    "id": "PV-TEST-0225",
+    "lobe": "RLL",
+    "diameter_mm": 13.4,
+    "hu": -578,
+    "spiculation": 0.26,
+    "fev1_percent": 104.0
+  },
+  {
+    "id": "PV-TEST-0226",
+    "lobe": "RUL",
+    "diameter_mm": 38.5,
+    "hu": -46,
+    "spiculation": 0.17,
+    "fev1_percent": 109.6
+  },
+  {
+    "id": "PV-TEST-0227",
+    "lobe": "RUL",
+    "diameter_mm": 41.5,
+    "hu": 65,
+    "spiculation": 0.97,
+    "fev1_percent": 39.3
+  },
+  {
+    "id": "PV-TEST-0228",
+    "lobe": "RML",
+    "diameter_mm": 40.4,
+    "hu": -441,
+    "spiculation": 0.26,
+    "fev1_percent": 62.0
+  },
+  {
+    "id": "PV-TEST-0229",
+    "lobe": "RML",
+    "diameter_mm": 46.1,
+    "hu": -482,
+    "spiculation": 0.41,
+    "fev1_percent": 62.7
+  },
+  {
+    "id": "PV-TEST-0230",
+    "lobe": "RUL",
+    "diameter_mm": 62.4,
+    "hu": -273,
+    "spiculation": 0.36,
+    "fev1_percent": 63.4
+  },
+  {
+    "id": "PV-TEST-0231",
+    "lobe": "LLL",
+    "diameter_mm": 61.4,
+    "hu": -438,
+    "spiculation": 0.46,
+    "fev1_percent": 86.7
+  },
+  {
+    "id": "PV-TEST-0232",
+    "lobe": "LUL",
+    "diameter_mm": 19.1,
+    "hu": -621,
+    "spiculation": 0.72,
+    "fev1_percent": 46.2
+  },
+  {
+    "id": "PV-TEST-0233",
+    "lobe": "RUL",
+    "diameter_mm": 31.7,
+    "hu": -73,
+    "spiculation": 0.83,
+    "fev1_percent": 129.7
+  },
+  {
+    "id": "PV-TEST-0234",
+    "lobe": "RLL",
+    "diameter_mm": 33.9,
+    "hu": -740,
+    "spiculation": 0.22,
+    "fev1_percent": 123.0
+  },
+  {
+    "id": "PV-TEST-0235",
+    "lobe": "LUL",
+    "diameter_mm": 41.0,
+    "hu": -488,
+    "spiculation": 0.71,
+    "fev1_percent": 82.0
+  },
+  {
+    "id": "PV-TEST-0236",
+    "lobe": "RLL",
+    "diameter_mm": 52.7,
+    "hu": -720,
+    "spiculation": 0.77,
+    "fev1_percent": 35.4
+  },
+  {
+    "id": "PV-TEST-0237",
+    "lobe": "LUL",
+    "diameter_mm": 47.7,
+    "hu": -720,
+    "spiculation": 0.29,
+    "fev1_percent": 103.1
+  },
+  {
+    "id": "PV-TEST-0238",
+    "lobe": "RML",
+    "diameter_mm": 5.0,
+    "hu": -39,
+    "spiculation": 0.35,
+    "fev1_percent": 51.0
+  },
+  {
+    "id": "PV-TEST-0239",
+    "lobe": "RML",
+    "diameter_mm": 51.4,
+    "hu": -313,
+    "spiculation": 0.59,
+    "fev1_percent": 52.7
+  },
+  {
+    "id": "PV-TEST-0240",
+    "lobe": "RML",
+    "diameter_mm": 4.3,
+    "hu": -4,
+    "spiculation": 0.91,
+    "fev1_percent": 92.4
+  },
+  {
+    "id": "PV-TEST-0241",
+    "lobe": "RLL",
+    "diameter_mm": 54.1,
+    "hu": -292,
+    "spiculation": 0.04,
+    "fev1_percent": 92.8
+  },
+  {
+    "id": "PV-TEST-0242",
+    "lobe": "RUL",
+    "diameter_mm": 13.7,
+    "hu": -101,
+    "spiculation": 0.47,
+    "fev1_percent": 60.0
+  },
+  {
+    "id": "PV-TEST-0243",
+    "lobe": "RUL",
+    "diameter_mm": 41.2,
+    "hu": -371,
+    "spiculation": 0.84,
+    "fev1_percent": 121.1
+  },
+  {
+    "id": "PV-TEST-0244",
+    "lobe": "LLL",
+    "diameter_mm": 6.0,
+    "hu": -388,
+    "spiculation": 0.41,
+    "fev1_percent": 58.5
+  },
+  {
+    "id": "PV-TEST-0245",
+    "lobe": "RUL",
+    "diameter_mm": 9.6,
+    "hu": -784,
+    "spiculation": 0.6,
+    "fev1_percent": 66.4
+  },
+  {
+    "id": "PV-TEST-0246",
+    "lobe": "LLL",
+    "diameter_mm": 43.2,
+    "hu": -536,
+    "spiculation": 0.99,
+    "fev1_percent": 46.8
+  },
+  {
+    "id": "PV-TEST-0247",
+    "lobe": "RML",
+    "diameter_mm": 51.2,
+    "hu": -430,
+    "spiculation": 0.11,
+    "fev1_percent": 102.3
+  },
+  {
+    "id": "PV-TEST-0248",
+    "lobe": "LLL",
+    "diameter_mm": 61.1,
+    "hu": -6,
+    "spiculation": 0.63,
+    "fev1_percent": 93.9
+  },
+  {
+    "id": "PV-TEST-0249",
+    "lobe": "RML",
+    "diameter_mm": 67.0,
+    "hu": 108,
+    "spiculation": 0.41,
+    "fev1_percent": 35.0
+  },
+  {
+    "id": "PV-TEST-0250",
+    "lobe": "RLL",
+    "diameter_mm": 43.7,
+    "hu": -46,
+    "spiculation": 0.05,
+    "fev1_percent": 98.1
+  },
+  {
+    "id": "PV-TEST-0251",
+    "lobe": "LLL",
+    "diameter_mm": 9.4,
+    "hu": -791,
+    "spiculation": 0.31,
+    "fev1_percent": 66.6
+  },
+  {
+    "id": "PV-TEST-0252",
+    "lobe": "RLL",
+    "diameter_mm": 11.8,
+    "hu": -394,
+    "spiculation": 0.17,
+    "fev1_percent": 55.1
+  },
+  {
+    "id": "PV-TEST-0253",
+    "lobe": "LUL",
+    "diameter_mm": 22.6,
+    "hu": -241,
+    "spiculation": 0.96,
+    "fev1_percent": 88.9
+  },
+  {
+    "id": "PV-TEST-0254",
+    "lobe": "RUL",
+    "diameter_mm": 47.0,
+    "hu": -352,
+    "spiculation": 0.75,
+    "fev1_percent": 125.5
+  },
+  {
+    "id": "PV-TEST-0255",
+    "lobe": "LLL",
+    "diameter_mm": 50.3,
+    "hu": -295,
+    "spiculation": 0.18,
+    "fev1_percent": 84.5
+  },
+  {
+    "id": "PV-TEST-0256",
+    "lobe": "RLL",
+    "diameter_mm": 36.4,
+    "hu": -201,
+    "spiculation": 0.08,
+    "fev1_percent": 55.7
+  },
+  {
+    "id": "PV-TEST-0257",
+    "lobe": "RML",
+    "diameter_mm": 51.1,
+    "hu": -166,
+    "spiculation": 0.89,
+    "fev1_percent": 109.0
+  },
+  {
+    "id": "PV-TEST-0258",
+    "lobe": "RUL",
+    "diameter_mm": 16.1,
+    "hu": -23,
+    "spiculation": 0.5,
+    "fev1_percent": 116.2
+  },
+  {
+    "id": "PV-TEST-0259",
+    "lobe": "RLL",
+    "diameter_mm": 55.9,
+    "hu": -142,
+    "spiculation": 0.35,
+    "fev1_percent": 129.2
+  },
+  {
+    "id": "PV-TEST-0260",
+    "lobe": "RML",
+    "diameter_mm": 20.0,
+    "hu": -642,
+    "spiculation": 0.87,
+    "fev1_percent": 40.8
+  },
+  {
+    "id": "PV-TEST-0261",
+    "lobe": "LUL",
+    "diameter_mm": 15.0,
+    "hu": 12,
+    "spiculation": 0.21,
+    "fev1_percent": 102.5
+  },
+  {
+    "id": "PV-TEST-0262",
+    "lobe": "LUL",
+    "diameter_mm": 6.8,
+    "hu": -613,
+    "spiculation": 0.06,
+    "fev1_percent": 50.2
+  },
+  {
+    "id": "PV-TEST-0263",
+    "lobe": "LUL",
+    "diameter_mm": 19.3,
+    "hu": -153,
+    "spiculation": 0.77,
+    "fev1_percent": 87.2
+  },
+  {
+    "id": "PV-TEST-0264",
+    "lobe": "RML",
+    "diameter_mm": 52.4,
+    "hu": 5,
+    "spiculation": 0.5,
+    "fev1_percent": 49.6
+  },
+  {
+    "id": "PV-TEST-0265",
+    "lobe": "LUL",
+    "diameter_mm": 43.3,
+    "hu": -448,
+    "spiculation": 0.1,
+    "fev1_percent": 52.8
+  },
+  {
+    "id": "PV-TEST-0266",
+    "lobe": "LLL",
+    "diameter_mm": 15.5,
+    "hu": -242,
+    "spiculation": 0.06,
+    "fev1_percent": 44.2
+  },
+  {
+    "id": "PV-TEST-0267",
+    "lobe": "LUL",
+    "diameter_mm": 26.5,
+    "hu": -733,
+    "spiculation": 0.21,
+    "fev1_percent": 74.4
+  },
+  {
+    "id": "PV-TEST-0268",
+    "lobe": "LLL",
+    "diameter_mm": 53.8,
+    "hu": -377,
+    "spiculation": 0.41,
+    "fev1_percent": 107.4
+  },
+  {
+    "id": "PV-TEST-0269",
+    "lobe": "RML",
+    "diameter_mm": 36.2,
+    "hu": 77,
+    "spiculation": 0.58,
+    "fev1_percent": 44.5
+  },
+  {
+    "id": "PV-TEST-0270",
+    "lobe": "RUL",
+    "diameter_mm": 69.8,
+    "hu": -823,
+    "spiculation": 0.46,
+    "fev1_percent": 65.8
+  },
+  {
+    "id": "PV-TEST-0271",
+    "lobe": "RML",
+    "diameter_mm": 47.9,
+    "hu": -811,
+    "spiculation": 0.9,
+    "fev1_percent": 63.3
+  },
+  {
+    "id": "PV-TEST-0272",
+    "lobe": "RLL",
+    "diameter_mm": 32.3,
+    "hu": -555,
+    "spiculation": 0.07,
+    "fev1_percent": 122.6
+  },
+  {
+    "id": "PV-TEST-0273",
+    "lobe": "RLL",
+    "diameter_mm": 20.5,
+    "hu": -377,
+    "spiculation": 0.83,
+    "fev1_percent": 129.2
+  },
+  {
+    "id": "PV-TEST-0274",
+    "lobe": "LLL",
+    "diameter_mm": 9.4,
+    "hu": -81,
+    "spiculation": 0.04,
+    "fev1_percent": 97.5
+  },
+  {
+    "id": "PV-TEST-0275",
+    "lobe": "RML",
+    "diameter_mm": 50.7,
+    "hu": -122,
+    "spiculation": 0.51,
+    "fev1_percent": 91.4
+  },
+  {
+    "id": "PV-TEST-0276",
+    "lobe": "RUL",
+    "diameter_mm": 59.5,
+    "hu": -76,
+    "spiculation": 0.16,
+    "fev1_percent": 98.1
+  },
+  {
+    "id": "PV-TEST-0277",
+    "lobe": "LUL",
+    "diameter_mm": 24.2,
+    "hu": -141,
+    "spiculation": 0.36,
+    "fev1_percent": 73.2
+  },
+  {
+    "id": "PV-TEST-0278",
+    "lobe": "RUL",
+    "diameter_mm": 44.3,
+    "hu": -61,
+    "spiculation": 0.42,
+    "fev1_percent": 37.5
+  },
+  {
+    "id": "PV-TEST-0279",
+    "lobe": "LLL",
+    "diameter_mm": 57.2,
+    "hu": -107,
+    "spiculation": 0.77,
+    "fev1_percent": 48.8
+  },
+  {
+    "id": "PV-TEST-0280",
+    "lobe": "RML",
+    "diameter_mm": 56.3,
+    "hu": -188,
+    "spiculation": 0.21,
+    "fev1_percent": 73.2
+  },
+  {
+    "id": "PV-TEST-0281",
+    "lobe": "RML",
+    "diameter_mm": 18.3,
+    "hu": -481,
+    "spiculation": 0.53,
+    "fev1_percent": 103.4
+  },
+  {
+    "id": "PV-TEST-0282",
+    "lobe": "RUL",
+    "diameter_mm": 62.4,
+    "hu": 105,
+    "spiculation": 0.84,
+    "fev1_percent": 57.9
+  },
+  {
+    "id": "PV-TEST-0283",
+    "lobe": "LLL",
+    "diameter_mm": 53.4,
+    "hu": -218,
+    "spiculation": 0.36,
+    "fev1_percent": 78.2
+  },
+  {
+    "id": "PV-TEST-0284",
+    "lobe": "LUL",
+    "diameter_mm": 33.0,
+    "hu": -213,
+    "spiculation": 0.55,
+    "fev1_percent": 125.1
+  },
+  {
+    "id": "PV-TEST-0285",
+    "lobe": "RLL",
+    "diameter_mm": 44.8,
+    "hu": 8,
+    "spiculation": 0.77,
+    "fev1_percent": 83.2
+  },
+  {
+    "id": "PV-TEST-0286",
+    "lobe": "RUL",
+    "diameter_mm": 16.0,
+    "hu": 94,
+    "spiculation": 0.36,
+    "fev1_percent": 52.8
+  },
+  {
+    "id": "PV-TEST-0287",
+    "lobe": "LUL",
+    "diameter_mm": 54.2,
+    "hu": -221,
+    "spiculation": 0.98,
+    "fev1_percent": 111.1
+  },
+  {
+    "id": "PV-TEST-0288",
+    "lobe": "RUL",
+    "diameter_mm": 67.0,
+    "hu": -373,
+    "spiculation": 0.56,
+    "fev1_percent": 44.9
+  },
+  {
+    "id": "PV-TEST-0289",
+    "lobe": "RLL",
+    "diameter_mm": 59.9,
+    "hu": 44,
+    "spiculation": 0.18,
+    "fev1_percent": 97.8
+  },
+  {
+    "id": "PV-TEST-0290",
+    "lobe": "RLL",
+    "diameter_mm": 16.5,
+    "hu": -132,
+    "spiculation": 0.4,
+    "fev1_percent": 36.4
+  },
+  {
+    "id": "PV-TEST-0291",
+    "lobe": "LUL",
+    "diameter_mm": 20.4,
+    "hu": -148,
+    "spiculation": 0.65,
+    "fev1_percent": 53.8
+  },
+  {
+    "id": "PV-TEST-0292",
+    "lobe": "RML",
+    "diameter_mm": 14.3,
+    "hu": -661,
+    "spiculation": 0.83,
+    "fev1_percent": 57.4
+  },
+  {
+    "id": "PV-TEST-0293",
+    "lobe": "RML",
+    "diameter_mm": 62.4,
+    "hu": -480,
+    "spiculation": 0.0,
+    "fev1_percent": 51.9
+  },
+  {
+    "id": "PV-TEST-0294",
+    "lobe": "RML",
+    "diameter_mm": 24.2,
+    "hu": -816,
+    "spiculation": 0.07,
+    "fev1_percent": 126.6
+  },
+  {
+    "id": "PV-TEST-0295",
+    "lobe": "RLL",
+    "diameter_mm": 11.4,
+    "hu": -832,
+    "spiculation": 0.63,
+    "fev1_percent": 52.1
+  },
+  {
+    "id": "PV-TEST-0296",
+    "lobe": "LUL",
+    "diameter_mm": 18.5,
+    "hu": -111,
+    "spiculation": 0.96,
+    "fev1_percent": 122.6
+  },
+  {
+    "id": "PV-TEST-0297",
+    "lobe": "LUL",
+    "diameter_mm": 8.2,
+    "hu": -548,
+    "spiculation": 0.97,
+    "fev1_percent": 74.9
+  },
+  {
+    "id": "PV-TEST-0298",
+    "lobe": "RUL",
+    "diameter_mm": 13.0,
+    "hu": -745,
+    "spiculation": 0.11,
+    "fev1_percent": 110.8
+  },
+  {
+    "id": "PV-TEST-0299",
+    "lobe": "RUL",
+    "diameter_mm": 28.5,
+    "hu": -643,
+    "spiculation": 0.72,
+    "fev1_percent": 106.2
+  },
+  {
+    "id": "PV-TEST-0300",
+    "lobe": "RLL",
+    "diameter_mm": 31.2,
+    "hu": -656,
+    "spiculation": 0.18,
+    "fev1_percent": 86.1
+  },
+  {
+    "id": "PV-TEST-0301",
+    "lobe": "LUL",
+    "diameter_mm": 48.9,
+    "hu": -759,
+    "spiculation": 0.33,
+    "fev1_percent": 71.2
+  },
+  {
+    "id": "PV-TEST-0302",
+    "lobe": "RLL",
+    "diameter_mm": 69.9,
+    "hu": -301,
+    "spiculation": 0.17,
+    "fev1_percent": 83.0
+  },
+  {
+    "id": "PV-TEST-0303",
+    "lobe": "RLL",
+    "diameter_mm": 11.0,
+    "hu": -483,
+    "spiculation": 0.57,
+    "fev1_percent": 106.1
+  },
+  {
+    "id": "PV-TEST-0304",
+    "lobe": "RML",
+    "diameter_mm": 32.2,
+    "hu": 98,
+    "spiculation": 0.86,
+    "fev1_percent": 102.7
+  },
+  {
+    "id": "PV-TEST-0305",
+    "lobe": "LLL",
+    "diameter_mm": 18.7,
+    "hu": -399,
+    "spiculation": 0.86,
+    "fev1_percent": 43.5
+  },
+  {
+    "id": "PV-TEST-0306",
+    "lobe": "LLL",
+    "diameter_mm": 42.9,
+    "hu": -172,
+    "spiculation": 0.79,
+    "fev1_percent": 96.4
+  },
+  {
+    "id": "PV-TEST-0307",
+    "lobe": "LLL",
+    "diameter_mm": 39.2,
+    "hu": -758,
+    "spiculation": 0.97,
+    "fev1_percent": 124.2
+  },
+  {
+    "id": "PV-TEST-0308",
+    "lobe": "RML",
+    "diameter_mm": 49.4,
+    "hu": -393,
+    "spiculation": 0.09,
+    "fev1_percent": 80.4
+  },
+  {
+    "id": "PV-TEST-0309",
+    "lobe": "LUL",
+    "diameter_mm": 43.7,
+    "hu": 38,
+    "spiculation": 0.11,
+    "fev1_percent": 63.9
+  },
+  {
+    "id": "PV-TEST-0310",
+    "lobe": "RML",
+    "diameter_mm": 15.3,
+    "hu": -149,
+    "spiculation": 0.22,
+    "fev1_percent": 74.1
+  },
+  {
+    "id": "PV-TEST-0311",
+    "lobe": "RUL",
+    "diameter_mm": 20.5,
+    "hu": -509,
+    "spiculation": 0.81,
+    "fev1_percent": 98.6
+  },
+  {
+    "id": "PV-TEST-0312",
+    "lobe": "RLL",
+    "diameter_mm": 52.7,
+    "hu": -446,
+    "spiculation": 0.88,
+    "fev1_percent": 86.2
+  },
+  {
+    "id": "PV-TEST-0313",
+    "lobe": "LUL",
+    "diameter_mm": 7.1,
+    "hu": -476,
+    "spiculation": 0.48,
+    "fev1_percent": 45.4
+  },
+  {
+    "id": "PV-TEST-0314",
+    "lobe": "RLL",
+    "diameter_mm": 51.5,
+    "hu": -561,
+    "spiculation": 0.49,
+    "fev1_percent": 124.9
+  },
+  {
+    "id": "PV-TEST-0315",
+    "lobe": "LUL",
+    "diameter_mm": 66.5,
+    "hu": -620,
+    "spiculation": 0.66,
+    "fev1_percent": 64.6
+  },
+  {
+    "id": "PV-TEST-0316",
+    "lobe": "RLL",
+    "diameter_mm": 54.6,
+    "hu": -618,
+    "spiculation": 0.07,
+    "fev1_percent": 118.8
+  },
+  {
+    "id": "PV-TEST-0317",
+    "lobe": "RML",
+    "diameter_mm": 53.4,
+    "hu": -353,
+    "spiculation": 0.4,
+    "fev1_percent": 35.9
+  },
+  {
+    "id": "PV-TEST-0318",
+    "lobe": "LLL",
+    "diameter_mm": 4.7,
+    "hu": -358,
+    "spiculation": 0.42,
+    "fev1_percent": 79.7
+  },
+  {
+    "id": "PV-TEST-0319",
+    "lobe": "RML",
+    "diameter_mm": 57.0,
+    "hu": -408,
+    "spiculation": 0.12,
+    "fev1_percent": 120.0
+  },
+  {
+    "id": "PV-TEST-0320",
+    "lobe": "RML",
+    "diameter_mm": 64.3,
+    "hu": -242,
+    "spiculation": 0.17,
+    "fev1_percent": 128.2
+  },
+  {
+    "id": "PV-TEST-0321",
+    "lobe": "LUL",
+    "diameter_mm": 20.2,
+    "hu": -96,
+    "spiculation": 0.4,
+    "fev1_percent": 112.0
+  },
+  {
+    "id": "PV-TEST-0322",
+    "lobe": "RUL",
+    "diameter_mm": 38.7,
+    "hu": -143,
+    "spiculation": 0.56,
+    "fev1_percent": 38.0
+  },
+  {
+    "id": "PV-TEST-0323",
+    "lobe": "RUL",
+    "diameter_mm": 59.8,
+    "hu": -180,
+    "spiculation": 0.22,
+    "fev1_percent": 125.8
+  },
+  {
+    "id": "PV-TEST-0324",
+    "lobe": "RML",
+    "diameter_mm": 51.6,
+    "hu": -11,
+    "spiculation": 0.48,
+    "fev1_percent": 56.1
+  },
+  {
+    "id": "PV-TEST-0325",
+    "lobe": "RUL",
+    "diameter_mm": 40.2,
+    "hu": 12,
+    "spiculation": 0.05,
+    "fev1_percent": 45.7
+  },
+  {
+    "id": "PV-TEST-0326",
+    "lobe": "RML",
+    "diameter_mm": 6.4,
+    "hu": -608,
+    "spiculation": 0.56,
+    "fev1_percent": 115.1
+  },
+  {
+    "id": "PV-TEST-0327",
+    "lobe": "RLL",
+    "diameter_mm": 61.9,
+    "hu": -266,
+    "spiculation": 0.3,
+    "fev1_percent": 81.4
+  },
+  {
+    "id": "PV-TEST-0328",
+    "lobe": "LLL",
+    "diameter_mm": 41.8,
+    "hu": -809,
+    "spiculation": 0.99,
+    "fev1_percent": 105.0
+  },
+  {
+    "id": "PV-TEST-0329",
+    "lobe": "LUL",
+    "diameter_mm": 47.5,
+    "hu": -321,
+    "spiculation": 0.42,
+    "fev1_percent": 99.4
+  },
+  {
+    "id": "PV-TEST-0330",
+    "lobe": "RLL",
+    "diameter_mm": 42.1,
+    "hu": -19,
+    "spiculation": 0.1,
+    "fev1_percent": 77.7
+  },
+  {
+    "id": "PV-TEST-0331",
+    "lobe": "RLL",
+    "diameter_mm": 16.1,
+    "hu": -32,
+    "spiculation": 0.6,
+    "fev1_percent": 39.5
+  },
+  {
+    "id": "PV-TEST-0332",
+    "lobe": "LUL",
+    "diameter_mm": 65.8,
+    "hu": -278,
+    "spiculation": 0.23,
+    "fev1_percent": 90.0
+  },
+  {
+    "id": "PV-TEST-0333",
+    "lobe": "LLL",
+    "diameter_mm": 24.2,
+    "hu": -364,
+    "spiculation": 0.58,
+    "fev1_percent": 76.0
+  },
+  {
+    "id": "PV-TEST-0334",
+    "lobe": "RLL",
+    "diameter_mm": 50.7,
+    "hu": -122,
+    "spiculation": 0.61,
+    "fev1_percent": 121.4
+  },
+  {
+    "id": "PV-TEST-0335",
+    "lobe": "RUL",
+    "diameter_mm": 59.6,
+    "hu": -558,
+    "spiculation": 0.62,
+    "fev1_percent": 125.7
+  },
+  {
+    "id": "PV-TEST-0336",
+    "lobe": "LUL",
+    "diameter_mm": 64.7,
+    "hu": 44,
+    "spiculation": 0.74,
+    "fev1_percent": 105.5
+  },
+  {
+    "id": "PV-TEST-0337",
+    "lobe": "RML",
+    "diameter_mm": 32.5,
+    "hu": -798,
+    "spiculation": 0.17,
+    "fev1_percent": 75.4
+  },
+  {
+    "id": "PV-TEST-0338",
+    "lobe": "LLL",
+    "diameter_mm": 41.3,
+    "hu": -270,
+    "spiculation": 0.16,
+    "fev1_percent": 93.4
+  },
+  {
+    "id": "PV-TEST-0339",
+    "lobe": "LLL",
+    "diameter_mm": 17.5,
+    "hu": -660,
+    "spiculation": 0.29,
+    "fev1_percent": 57.0
+  },
+  {
+    "id": "PV-TEST-0340",
+    "lobe": "RLL",
+    "diameter_mm": 28.9,
+    "hu": -420,
+    "spiculation": 0.25,
+    "fev1_percent": 36.4
+  },
+  {
+    "id": "PV-TEST-0341",
+    "lobe": "LLL",
+    "diameter_mm": 40.1,
+    "hu": -474,
+    "spiculation": 0.26,
+    "fev1_percent": 113.1
+  },
+  {
+    "id": "PV-TEST-0342",
+    "lobe": "RUL",
+    "diameter_mm": 53.1,
+    "hu": -703,
+    "spiculation": 0.83,
+    "fev1_percent": 76.2
+  },
+  {
+    "id": "PV-TEST-0343",
+    "lobe": "RUL",
+    "diameter_mm": 17.6,
+    "hu": -716,
+    "spiculation": 0.57,
+    "fev1_percent": 125.1
+  },
+  {
+    "id": "PV-TEST-0344",
+    "lobe": "RML",
+    "diameter_mm": 61.0,
+    "hu": -44,
+    "spiculation": 0.16,
+    "fev1_percent": 42.8
+  },
+  {
+    "id": "PV-TEST-0345",
+    "lobe": "RML",
+    "diameter_mm": 44.0,
+    "hu": -811,
+    "spiculation": 0.56,
+    "fev1_percent": 45.1
+  },
+  {
+    "id": "PV-TEST-0346",
+    "lobe": "RML",
+    "diameter_mm": 20.9,
+    "hu": -348,
+    "spiculation": 0.8,
+    "fev1_percent": 60.6
+  },
+  {
+    "id": "PV-TEST-0347",
+    "lobe": "RLL",
+    "diameter_mm": 34.2,
+    "hu": -621,
+    "spiculation": 0.36,
+    "fev1_percent": 57.1
+  },
+  {
+    "id": "PV-TEST-0348",
+    "lobe": "LLL",
+    "diameter_mm": 10.3,
+    "hu": -235,
+    "spiculation": 0.42,
+    "fev1_percent": 51.8
+  },
+  {
+    "id": "PV-TEST-0349",
+    "lobe": "RLL",
+    "diameter_mm": 50.7,
+    "hu": -387,
+    "spiculation": 0.33,
+    "fev1_percent": 67.5
+  },
+  {
+    "id": "PV-TEST-0350",
+    "lobe": "LUL",
+    "diameter_mm": 61.9,
+    "hu": -540,
+    "spiculation": 0.66,
+    "fev1_percent": 79.0
+  },
+  {
+    "id": "PV-TEST-0351",
+    "lobe": "RLL",
+    "diameter_mm": 64.6,
+    "hu": -218,
+    "spiculation": 0.92,
+    "fev1_percent": 44.7
+  },
+  {
+    "id": "PV-TEST-0352",
+    "lobe": "LLL",
+    "diameter_mm": 36.7,
+    "hu": -539,
+    "spiculation": 0.1,
+    "fev1_percent": 99.6
+  },
+  {
+    "id": "PV-TEST-0353",
+    "lobe": "RML",
+    "diameter_mm": 43.6,
+    "hu": -195,
+    "spiculation": 0.33,
+    "fev1_percent": 119.1
+  },
+  {
+    "id": "PV-TEST-0354",
+    "lobe": "LUL",
+    "diameter_mm": 68.2,
+    "hu": -417,
+    "spiculation": 0.01,
+    "fev1_percent": 130.0
+  },
+  {
+    "id": "PV-TEST-0355",
+    "lobe": "RML",
+    "diameter_mm": 60.3,
+    "hu": -263,
+    "spiculation": 0.82,
+    "fev1_percent": 67.8
+  },
+  {
+    "id": "PV-TEST-0356",
+    "lobe": "RLL",
+    "diameter_mm": 57.9,
+    "hu": -240,
+    "spiculation": 0.59,
+    "fev1_percent": 76.5
+  },
+  {
+    "id": "PV-TEST-0357",
+    "lobe": "LLL",
+    "diameter_mm": 4.2,
+    "hu": -422,
+    "spiculation": 0.82,
+    "fev1_percent": 37.9
+  },
+  {
+    "id": "PV-TEST-0358",
+    "lobe": "RUL",
+    "diameter_mm": 43.5,
+    "hu": 89,
+    "spiculation": 0.76,
+    "fev1_percent": 73.5
+  },
+  {
+    "id": "PV-TEST-0359",
+    "lobe": "LLL",
+    "diameter_mm": 40.9,
+    "hu": -143,
+    "spiculation": 0.07,
+    "fev1_percent": 115.5
+  },
+  {
+    "id": "PV-TEST-0360",
+    "lobe": "LLL",
+    "diameter_mm": 47.3,
+    "hu": -525,
+    "spiculation": 0.46,
+    "fev1_percent": 58.8
+  },
+  {
+    "id": "PV-TEST-0361",
+    "lobe": "RUL",
+    "diameter_mm": 62.8,
+    "hu": -384,
+    "spiculation": 0.73,
+    "fev1_percent": 117.9
+  },
+  {
+    "id": "PV-TEST-0362",
+    "lobe": "RLL",
+    "diameter_mm": 43.4,
+    "hu": -663,
+    "spiculation": 0.5,
+    "fev1_percent": 51.6
+  },
+  {
+    "id": "PV-TEST-0363",
+    "lobe": "RUL",
+    "diameter_mm": 47.6,
+    "hu": 99,
+    "spiculation": 0.65,
+    "fev1_percent": 35.1
+  },
+  {
+    "id": "PV-TEST-0364",
+    "lobe": "RUL",
+    "diameter_mm": 66.7,
+    "hu": -370,
+    "spiculation": 0.6,
+    "fev1_percent": 64.6
+  },
+  {
+    "id": "PV-TEST-0365",
+    "lobe": "LUL",
+    "diameter_mm": 19.2,
+    "hu": 2,
+    "spiculation": 0.86,
+    "fev1_percent": 38.9
+  },
+  {
+    "id": "PV-TEST-0366",
+    "lobe": "RLL",
+    "diameter_mm": 23.9,
+    "hu": 20,
+    "spiculation": 0.03,
+    "fev1_percent": 90.7
+  },
+  {
+    "id": "PV-TEST-0367",
+    "lobe": "RLL",
+    "diameter_mm": 13.1,
+    "hu": -744,
+    "spiculation": 0.97,
+    "fev1_percent": 62.4
+  },
+  {
+    "id": "PV-TEST-0368",
+    "lobe": "LLL",
+    "diameter_mm": 32.0,
+    "hu": 71,
+    "spiculation": 0.87,
+    "fev1_percent": 92.7
+  },
+  {
+    "id": "PV-TEST-0369",
+    "lobe": "LLL",
+    "diameter_mm": 40.9,
+    "hu": -386,
+    "spiculation": 0.1,
+    "fev1_percent": 59.4
+  },
+  {
+    "id": "PV-TEST-0370",
+    "lobe": "LLL",
+    "diameter_mm": 10.4,
+    "hu": -712,
+    "spiculation": 0.58,
+    "fev1_percent": 99.8
+  },
+  {
+    "id": "PV-TEST-0371",
+    "lobe": "LLL",
+    "diameter_mm": 65.1,
+    "hu": -819,
+    "spiculation": 0.6,
+    "fev1_percent": 56.5
+  },
+  {
+    "id": "PV-TEST-0372",
+    "lobe": "RLL",
+    "diameter_mm": 18.7,
+    "hu": -407,
+    "spiculation": 0.21,
+    "fev1_percent": 44.0
+  },
+  {
+    "id": "PV-TEST-0373",
+    "lobe": "RLL",
+    "diameter_mm": 19.9,
+    "hu": -456,
+    "spiculation": 0.91,
+    "fev1_percent": 98.4
+  },
+  {
+    "id": "PV-TEST-0374",
+    "lobe": "LLL",
+    "diameter_mm": 49.4,
+    "hu": -334,
+    "spiculation": 0.25,
+    "fev1_percent": 107.1
+  },
+  {
+    "id": "PV-TEST-0375",
+    "lobe": "RUL",
+    "diameter_mm": 17.8,
+    "hu": -530,
+    "spiculation": 0.37,
+    "fev1_percent": 85.4
+  },
+  {
+    "id": "PV-TEST-0376",
+    "lobe": "RUL",
+    "diameter_mm": 16.5,
+    "hu": -450,
+    "spiculation": 0.18,
+    "fev1_percent": 110.1
+  },
+  {
+    "id": "PV-TEST-0377",
+    "lobe": "LLL",
+    "diameter_mm": 5.9,
+    "hu": -691,
+    "spiculation": 0.29,
+    "fev1_percent": 57.0
+  },
+  {
+    "id": "PV-TEST-0378",
+    "lobe": "RLL",
+    "diameter_mm": 52.7,
+    "hu": -453,
+    "spiculation": 0.79,
+    "fev1_percent": 99.0
+  },
+  {
+    "id": "PV-TEST-0379",
+    "lobe": "RML",
+    "diameter_mm": 26.8,
+    "hu": -605,
+    "spiculation": 0.8,
+    "fev1_percent": 99.9
+  },
+  {
+    "id": "PV-TEST-0380",
+    "lobe": "RML",
+    "diameter_mm": 54.5,
+    "hu": -789,
+    "spiculation": 0.78,
+    "fev1_percent": 49.2
+  },
+  {
+    "id": "PV-TEST-0381",
+    "lobe": "LUL",
+    "diameter_mm": 17.4,
+    "hu": -149,
+    "spiculation": 0.45,
+    "fev1_percent": 67.7
+  },
+  {
+    "id": "PV-TEST-0382",
+    "lobe": "RUL",
+    "diameter_mm": 57.7,
+    "hu": -338,
+    "spiculation": 0.41,
+    "fev1_percent": 125.9
+  },
+  {
+    "id": "PV-TEST-0383",
+    "lobe": "LUL",
+    "diameter_mm": 21.7,
+    "hu": -27,
+    "spiculation": 0.14,
+    "fev1_percent": 40.2
+  },
+  {
+    "id": "PV-TEST-0384",
+    "lobe": "RML",
+    "diameter_mm": 9.1,
+    "hu": 57,
+    "spiculation": 0.18,
+    "fev1_percent": 73.9
+  },
+  {
+    "id": "PV-TEST-0385",
+    "lobe": "LLL",
+    "diameter_mm": 24.4,
+    "hu": -276,
+    "spiculation": 0.31,
+    "fev1_percent": 62.8
+  },
+  {
+    "id": "PV-TEST-0386",
+    "lobe": "RLL",
+    "diameter_mm": 23.8,
+    "hu": -294,
+    "spiculation": 0.7,
+    "fev1_percent": 59.8
+  },
+  {
+    "id": "PV-TEST-0387",
+    "lobe": "LUL",
+    "diameter_mm": 14.6,
+    "hu": 2,
+    "spiculation": 0.42,
+    "fev1_percent": 96.3
+  },
+  {
+    "id": "PV-TEST-0388",
+    "lobe": "RLL",
+    "diameter_mm": 38.5,
+    "hu": -18,
+    "spiculation": 0.6,
+    "fev1_percent": 91.8
+  },
+  {
+    "id": "PV-TEST-0389",
+    "lobe": "LUL",
+    "diameter_mm": 25.0,
+    "hu": -786,
+    "spiculation": 0.13,
+    "fev1_percent": 104.3
+  },
+  {
+    "id": "PV-TEST-0390",
+    "lobe": "RUL",
+    "diameter_mm": 33.8,
+    "hu": -806,
+    "spiculation": 0.07,
+    "fev1_percent": 92.3
+  },
+  {
+    "id": "PV-TEST-0391",
+    "lobe": "RML",
+    "diameter_mm": 55.9,
+    "hu": -850,
+    "spiculation": 0.97,
+    "fev1_percent": 115.1
+  },
+  {
+    "id": "PV-TEST-0392",
+    "lobe": "RLL",
+    "diameter_mm": 22.3,
+    "hu": -506,
+    "spiculation": 0.7,
+    "fev1_percent": 80.0
+  },
+  {
+    "id": "PV-TEST-0393",
+    "lobe": "RLL",
+    "diameter_mm": 37.7,
+    "hu": -434,
+    "spiculation": 0.48,
+    "fev1_percent": 112.5
+  },
+  {
+    "id": "PV-TEST-0394",
+    "lobe": "LUL",
+    "diameter_mm": 49.6,
+    "hu": -125,
+    "spiculation": 0.78,
+    "fev1_percent": 118.7
+  },
+  {
+    "id": "PV-TEST-0395",
+    "lobe": "RML",
+    "diameter_mm": 7.3,
+    "hu": -139,
+    "spiculation": 0.95,
+    "fev1_percent": 117.7
+  },
+  {
+    "id": "PV-TEST-0396",
+    "lobe": "LUL",
+    "diameter_mm": 26.1,
+    "hu": -343,
+    "spiculation": 1.0,
+    "fev1_percent": 109.2
+  },
+  {
+    "id": "PV-TEST-0397",
+    "lobe": "RUL",
+    "diameter_mm": 17.3,
+    "hu": -512,
+    "spiculation": 0.1,
+    "fev1_percent": 35.2
+  },
+  {
+    "id": "PV-TEST-0398",
+    "lobe": "LLL",
+    "diameter_mm": 35.6,
+    "hu": 27,
+    "spiculation": 0.58,
+    "fev1_percent": 41.2
+  },
+  {
+    "id": "PV-TEST-0399",
+    "lobe": "RML",
+    "diameter_mm": 48.3,
+    "hu": 100,
+    "spiculation": 0.64,
+    "fev1_percent": 105.7
+  },
+  {
+    "id": "PV-TEST-0400",
+    "lobe": "RUL",
+    "diameter_mm": 29.8,
+    "hu": 66,
+    "spiculation": 0.45,
+    "fev1_percent": 117.3
+  },
+  {
+    "id": "PV-TEST-0401",
+    "lobe": "LUL",
+    "diameter_mm": 16.1,
+    "hu": 110,
+    "spiculation": 0.4,
+    "fev1_percent": 74.8
+  },
+  {
+    "id": "PV-TEST-0402",
+    "lobe": "RUL",
+    "diameter_mm": 57.8,
+    "hu": -475,
+    "spiculation": 0.69,
+    "fev1_percent": 76.0
+  },
+  {
+    "id": "PV-TEST-0403",
+    "lobe": "LUL",
+    "diameter_mm": 18.8,
+    "hu": -243,
+    "spiculation": 0.42,
+    "fev1_percent": 128.8
+  },
+  {
+    "id": "PV-TEST-0404",
+    "lobe": "LLL",
+    "diameter_mm": 15.6,
+    "hu": -102,
+    "spiculation": 0.59,
+    "fev1_percent": 108.5
+  },
+  {
+    "id": "PV-TEST-0405",
+    "lobe": "RUL",
+    "diameter_mm": 43.1,
+    "hu": -321,
+    "spiculation": 0.52,
+    "fev1_percent": 125.8
+  },
+  {
+    "id": "PV-TEST-0406",
+    "lobe": "LLL",
+    "diameter_mm": 47.3,
+    "hu": -797,
+    "spiculation": 0.81,
+    "fev1_percent": 41.1
+  },
+  {
+    "id": "PV-TEST-0407",
+    "lobe": "RUL",
+    "diameter_mm": 63.4,
+    "hu": -573,
+    "spiculation": 0.87,
+    "fev1_percent": 80.6
+  },
+  {
+    "id": "PV-TEST-0408",
+    "lobe": "RML",
+    "diameter_mm": 33.9,
+    "hu": -460,
+    "spiculation": 0.37,
+    "fev1_percent": 120.5
+  },
+  {
+    "id": "PV-TEST-0409",
+    "lobe": "LLL",
+    "diameter_mm": 37.5,
+    "hu": -825,
+    "spiculation": 0.47,
+    "fev1_percent": 119.2
+  },
+  {
+    "id": "PV-TEST-0410",
+    "lobe": "RML",
+    "diameter_mm": 17.7,
+    "hu": -582,
+    "spiculation": 0.25,
+    "fev1_percent": 45.5
+  },
+  {
+    "id": "PV-TEST-0411",
+    "lobe": "RML",
+    "diameter_mm": 40.7,
+    "hu": -618,
+    "spiculation": 0.7,
+    "fev1_percent": 74.6
+  },
+  {
+    "id": "PV-TEST-0412",
+    "lobe": "RML",
+    "diameter_mm": 18.3,
+    "hu": -184,
+    "spiculation": 0.52,
+    "fev1_percent": 65.3
+  },
+  {
+    "id": "PV-TEST-0413",
+    "lobe": "RUL",
+    "diameter_mm": 44.8,
+    "hu": -802,
+    "spiculation": 0.78,
+    "fev1_percent": 126.8
+  },
+  {
+    "id": "PV-TEST-0414",
+    "lobe": "RLL",
+    "diameter_mm": 46.0,
+    "hu": -234,
+    "spiculation": 0.78,
+    "fev1_percent": 64.0
+  },
+  {
+    "id": "PV-TEST-0415",
+    "lobe": "LUL",
+    "diameter_mm": 67.4,
+    "hu": -740,
+    "spiculation": 0.39,
+    "fev1_percent": 46.6
+  },
+  {
+    "id": "PV-TEST-0416",
+    "lobe": "LUL",
+    "diameter_mm": 41.4,
+    "hu": -774,
+    "spiculation": 0.32,
+    "fev1_percent": 123.1
+  },
+  {
+    "id": "PV-TEST-0417",
+    "lobe": "LUL",
+    "diameter_mm": 34.5,
+    "hu": -346,
+    "spiculation": 0.74,
+    "fev1_percent": 111.4
+  },
+  {
+    "id": "PV-TEST-0418",
+    "lobe": "LUL",
+    "diameter_mm": 67.2,
+    "hu": -187,
+    "spiculation": 0.42,
+    "fev1_percent": 65.0
+  },
+  {
+    "id": "PV-TEST-0419",
+    "lobe": "LUL",
+    "diameter_mm": 38.5,
+    "hu": -176,
+    "spiculation": 0.51,
+    "fev1_percent": 99.2
+  },
+  {
+    "id": "PV-TEST-0420",
+    "lobe": "RML",
+    "diameter_mm": 5.7,
+    "hu": 16,
+    "spiculation": 0.14,
+    "fev1_percent": 116.9
+  },
+  {
+    "id": "PV-TEST-0421",
+    "lobe": "LUL",
+    "diameter_mm": 52.2,
+    "hu": -337,
+    "spiculation": 0.13,
+    "fev1_percent": 109.2
+  },
+  {
+    "id": "PV-TEST-0422",
+    "lobe": "LLL",
+    "diameter_mm": 14.7,
+    "hu": -845,
+    "spiculation": 0.16,
+    "fev1_percent": 128.6
+  },
+  {
+    "id": "PV-TEST-0423",
+    "lobe": "RUL",
+    "diameter_mm": 26.1,
+    "hu": -460,
+    "spiculation": 0.24,
+    "fev1_percent": 107.5
+  },
+  {
+    "id": "PV-TEST-0424",
+    "lobe": "RML",
+    "diameter_mm": 21.6,
+    "hu": -163,
+    "spiculation": 0.48,
+    "fev1_percent": 124.2
+  },
+  {
+    "id": "PV-TEST-0425",
+    "lobe": "LUL",
+    "diameter_mm": 20.5,
+    "hu": -191,
+    "spiculation": 0.66,
+    "fev1_percent": 129.5
+  },
+  {
+    "id": "PV-TEST-0426",
+    "lobe": "LUL",
+    "diameter_mm": 51.7,
+    "hu": -130,
+    "spiculation": 0.44,
+    "fev1_percent": 53.6
+  },
+  {
+    "id": "PV-TEST-0427",
+    "lobe": "LLL",
+    "diameter_mm": 17.0,
+    "hu": -25,
+    "spiculation": 0.41,
+    "fev1_percent": 106.8
+  },
+  {
+    "id": "PV-TEST-0428",
+    "lobe": "RML",
+    "diameter_mm": 52.1,
+    "hu": -238,
+    "spiculation": 0.79,
+    "fev1_percent": 113.5
+  },
+  {
+    "id": "PV-TEST-0429",
+    "lobe": "RLL",
+    "diameter_mm": 59.8,
+    "hu": -495,
+    "spiculation": 0.6,
+    "fev1_percent": 72.2
+  },
+  {
+    "id": "PV-TEST-0430",
+    "lobe": "LUL",
+    "diameter_mm": 68.2,
+    "hu": -238,
+    "spiculation": 0.55,
+    "fev1_percent": 56.8
+  },
+  {
+    "id": "PV-TEST-0431",
+    "lobe": "RUL",
+    "diameter_mm": 63.8,
+    "hu": -621,
+    "spiculation": 0.56,
+    "fev1_percent": 128.9
+  },
+  {
+    "id": "PV-TEST-0432",
+    "lobe": "RML",
+    "diameter_mm": 59.8,
+    "hu": -834,
+    "spiculation": 0.08,
+    "fev1_percent": 119.2
+  },
+  {
+    "id": "PV-TEST-0433",
+    "lobe": "RLL",
+    "diameter_mm": 22.7,
+    "hu": -377,
+    "spiculation": 0.72,
+    "fev1_percent": 68.8
+  },
+  {
+    "id": "PV-TEST-0434",
+    "lobe": "RLL",
+    "diameter_mm": 10.6,
+    "hu": -401,
+    "spiculation": 0.24,
+    "fev1_percent": 85.0
+  },
+  {
+    "id": "PV-TEST-0435",
+    "lobe": "RUL",
+    "diameter_mm": 43.0,
+    "hu": -184,
+    "spiculation": 0.27,
+    "fev1_percent": 89.3
+  },
+  {
+    "id": "PV-TEST-0436",
+    "lobe": "RLL",
+    "diameter_mm": 52.5,
+    "hu": -806,
+    "spiculation": 0.54,
+    "fev1_percent": 43.2
+  },
+  {
+    "id": "PV-TEST-0437",
+    "lobe": "RLL",
+    "diameter_mm": 16.1,
+    "hu": -687,
+    "spiculation": 0.76,
+    "fev1_percent": 59.3
+  },
+  {
+    "id": "PV-TEST-0438",
+    "lobe": "RML",
+    "diameter_mm": 62.2,
+    "hu": -500,
+    "spiculation": 0.2,
+    "fev1_percent": 63.8
+  },
+  {
+    "id": "PV-TEST-0439",
+    "lobe": "RML",
+    "diameter_mm": 16.8,
+    "hu": -349,
+    "spiculation": 0.35,
+    "fev1_percent": 67.6
+  },
+  {
+    "id": "PV-TEST-0440",
+    "lobe": "LUL",
+    "diameter_mm": 64.9,
+    "hu": -217,
+    "spiculation": 0.87,
+    "fev1_percent": 85.7
+  },
+  {
+    "id": "PV-TEST-0441",
+    "lobe": "RLL",
+    "diameter_mm": 10.5,
+    "hu": -662,
+    "spiculation": 0.19,
+    "fev1_percent": 44.1
+  },
+  {
+    "id": "PV-TEST-0442",
+    "lobe": "LLL",
+    "diameter_mm": 13.6,
+    "hu": -350,
+    "spiculation": 0.96,
+    "fev1_percent": 37.8
+  },
+  {
+    "id": "PV-TEST-0443",
+    "lobe": "RLL",
+    "diameter_mm": 64.3,
+    "hu": 93,
+    "spiculation": 0.19,
+    "fev1_percent": 65.3
+  },
+  {
+    "id": "PV-TEST-0444",
+    "lobe": "RML",
+    "diameter_mm": 29.1,
+    "hu": 76,
+    "spiculation": 0.24,
+    "fev1_percent": 81.1
+  },
+  {
+    "id": "PV-TEST-0445",
+    "lobe": "LLL",
+    "diameter_mm": 14.7,
+    "hu": -312,
+    "spiculation": 0.61,
+    "fev1_percent": 82.9
+  },
+  {
+    "id": "PV-TEST-0446",
+    "lobe": "LLL",
+    "diameter_mm": 44.0,
+    "hu": -355,
+    "spiculation": 0.06,
+    "fev1_percent": 65.3
+  },
+  {
+    "id": "PV-TEST-0447",
+    "lobe": "RML",
+    "diameter_mm": 25.9,
+    "hu": 117,
+    "spiculation": 0.46,
+    "fev1_percent": 67.2
+  },
+  {
+    "id": "PV-TEST-0448",
+    "lobe": "RLL",
+    "diameter_mm": 45.9,
+    "hu": -386,
+    "spiculation": 0.48,
+    "fev1_percent": 74.5
+  },
+  {
+    "id": "PV-TEST-0449",
+    "lobe": "LLL",
+    "diameter_mm": 48.1,
+    "hu": -635,
+    "spiculation": 0.25,
+    "fev1_percent": 46.1
+  },
+  {
+    "id": "PV-TEST-0450",
+    "lobe": "RML",
+    "diameter_mm": 11.1,
+    "hu": -584,
+    "spiculation": 0.1,
+    "fev1_percent": 59.2
+  },
+  {
+    "id": "PV-TEST-0451",
+    "lobe": "RML",
+    "diameter_mm": 10.3,
+    "hu": 105,
+    "spiculation": 0.93,
+    "fev1_percent": 128.8
+  },
+  {
+    "id": "PV-TEST-0452",
+    "lobe": "LUL",
+    "diameter_mm": 33.0,
+    "hu": 17,
+    "spiculation": 0.02,
+    "fev1_percent": 62.0
+  },
+  {
+    "id": "PV-TEST-0453",
+    "lobe": "LLL",
+    "diameter_mm": 33.2,
+    "hu": -28,
+    "spiculation": 0.28,
+    "fev1_percent": 73.9
+  },
+  {
+    "id": "PV-TEST-0454",
+    "lobe": "RLL",
+    "diameter_mm": 41.6,
+    "hu": -565,
+    "spiculation": 0.73,
+    "fev1_percent": 102.2
+  },
+  {
+    "id": "PV-TEST-0455",
+    "lobe": "RUL",
+    "diameter_mm": 10.7,
+    "hu": -734,
+    "spiculation": 0.43,
+    "fev1_percent": 68.9
+  },
+  {
+    "id": "PV-TEST-0456",
+    "lobe": "RML",
+    "diameter_mm": 22.3,
+    "hu": -146,
+    "spiculation": 0.88,
+    "fev1_percent": 117.7
+  },
+  {
+    "id": "PV-TEST-0457",
+    "lobe": "RUL",
+    "diameter_mm": 12.6,
+    "hu": -167,
+    "spiculation": 0.39,
+    "fev1_percent": 125.3
+  },
+  {
+    "id": "PV-TEST-0458",
+    "lobe": "RUL",
+    "diameter_mm": 53.3,
+    "hu": -482,
+    "spiculation": 0.72,
+    "fev1_percent": 46.1
+  },
+  {
+    "id": "PV-TEST-0459",
+    "lobe": "LLL",
+    "diameter_mm": 5.8,
+    "hu": -332,
+    "spiculation": 0.35,
+    "fev1_percent": 91.4
+  },
+  {
+    "id": "PV-TEST-0460",
+    "lobe": "LLL",
+    "diameter_mm": 66.2,
+    "hu": -247,
+    "spiculation": 0.03,
+    "fev1_percent": 75.3
+  },
+  {
+    "id": "PV-TEST-0461",
+    "lobe": "RML",
+    "diameter_mm": 51.0,
+    "hu": -239,
+    "spiculation": 1.0,
+    "fev1_percent": 90.0
+  },
+  {
+    "id": "PV-TEST-0462",
+    "lobe": "RUL",
+    "diameter_mm": 36.9,
+    "hu": -668,
+    "spiculation": 0.97,
+    "fev1_percent": 74.2
+  },
+  {
+    "id": "PV-TEST-0463",
+    "lobe": "LLL",
+    "diameter_mm": 15.9,
+    "hu": -184,
+    "spiculation": 0.5,
+    "fev1_percent": 69.7
+  },
+  {
+    "id": "PV-TEST-0464",
+    "lobe": "RUL",
+    "diameter_mm": 17.4,
+    "hu": -658,
+    "spiculation": 0.4,
+    "fev1_percent": 41.6
+  },
+  {
+    "id": "PV-TEST-0465",
+    "lobe": "RUL",
+    "diameter_mm": 39.2,
+    "hu": -23,
+    "spiculation": 0.21,
+    "fev1_percent": 82.8
+  },
+  {
+    "id": "PV-TEST-0466",
+    "lobe": "RML",
+    "diameter_mm": 49.6,
+    "hu": -66,
+    "spiculation": 0.3,
+    "fev1_percent": 116.4
+  },
+  {
+    "id": "PV-TEST-0467",
+    "lobe": "LLL",
+    "diameter_mm": 45.7,
+    "hu": -660,
+    "spiculation": 0.86,
+    "fev1_percent": 121.1
+  },
+  {
+    "id": "PV-TEST-0468",
+    "lobe": "RUL",
+    "diameter_mm": 9.1,
+    "hu": -594,
+    "spiculation": 0.3,
+    "fev1_percent": 47.2
+  },
+  {
+    "id": "PV-TEST-0469",
+    "lobe": "RML",
+    "diameter_mm": 19.2,
+    "hu": -162,
+    "spiculation": 0.52,
+    "fev1_percent": 98.5
+  },
+  {
+    "id": "PV-TEST-0470",
+    "lobe": "RUL",
+    "diameter_mm": 19.5,
+    "hu": -268,
+    "spiculation": 0.53,
+    "fev1_percent": 93.9
+  },
+  {
+    "id": "PV-TEST-0471",
+    "lobe": "LLL",
+    "diameter_mm": 13.9,
+    "hu": -507,
+    "spiculation": 0.21,
+    "fev1_percent": 58.0
+  },
+  {
+    "id": "PV-TEST-0472",
+    "lobe": "LLL",
+    "diameter_mm": 22.6,
+    "hu": 20,
+    "spiculation": 0.3,
+    "fev1_percent": 110.3
+  },
+  {
+    "id": "PV-TEST-0473",
+    "lobe": "RML",
+    "diameter_mm": 64.8,
+    "hu": -792,
+    "spiculation": 0.96,
+    "fev1_percent": 81.1
+  },
+  {
+    "id": "PV-TEST-0474",
+    "lobe": "RLL",
+    "diameter_mm": 9.7,
+    "hu": -561,
+    "spiculation": 0.29,
+    "fev1_percent": 56.7
+  },
+  {
+    "id": "PV-TEST-0475",
+    "lobe": "RUL",
+    "diameter_mm": 50.0,
+    "hu": -635,
+    "spiculation": 0.32,
+    "fev1_percent": 87.5
+  },
+  {
+    "id": "PV-TEST-0476",
+    "lobe": "RUL",
+    "diameter_mm": 27.5,
+    "hu": -784,
+    "spiculation": 0.35,
+    "fev1_percent": 74.5
+  },
+  {
+    "id": "PV-TEST-0477",
+    "lobe": "LUL",
+    "diameter_mm": 23.7,
+    "hu": -575,
+    "spiculation": 0.58,
+    "fev1_percent": 112.0
+  },
+  {
+    "id": "PV-TEST-0478",
+    "lobe": "LUL",
+    "diameter_mm": 55.3,
+    "hu": -765,
+    "spiculation": 0.14,
+    "fev1_percent": 129.3
+  },
+  {
+    "id": "PV-TEST-0479",
+    "lobe": "LLL",
+    "diameter_mm": 20.0,
+    "hu": 95,
+    "spiculation": 0.08,
+    "fev1_percent": 50.0
+  },
+  {
+    "id": "PV-TEST-0480",
+    "lobe": "RML",
+    "diameter_mm": 19.5,
+    "hu": -342,
+    "spiculation": 0.13,
+    "fev1_percent": 61.4
+  },
+  {
+    "id": "PV-TEST-0481",
+    "lobe": "LUL",
+    "diameter_mm": 32.4,
+    "hu": -204,
+    "spiculation": 0.13,
+    "fev1_percent": 115.7
+  },
+  {
+    "id": "PV-TEST-0482",
+    "lobe": "LLL",
+    "diameter_mm": 37.1,
+    "hu": -542,
+    "spiculation": 0.09,
+    "fev1_percent": 36.9
+  },
+  {
+    "id": "PV-TEST-0483",
+    "lobe": "RLL",
+    "diameter_mm": 18.0,
+    "hu": -54,
+    "spiculation": 0.49,
+    "fev1_percent": 61.4
+  },
+  {
+    "id": "PV-TEST-0484",
+    "lobe": "LUL",
+    "diameter_mm": 16.4,
+    "hu": -298,
+    "spiculation": 0.99,
+    "fev1_percent": 91.5
+  },
+  {
+    "id": "PV-TEST-0485",
+    "lobe": "RML",
+    "diameter_mm": 6.2,
+    "hu": -29,
+    "spiculation": 0.54,
+    "fev1_percent": 35.7
+  },
+  {
+    "id": "PV-TEST-0486",
+    "lobe": "LLL",
+    "diameter_mm": 24.3,
+    "hu": -541,
+    "spiculation": 0.48,
+    "fev1_percent": 61.7
+  },
+  {
+    "id": "PV-TEST-0487",
+    "lobe": "LUL",
+    "diameter_mm": 17.5,
+    "hu": -527,
+    "spiculation": 0.48,
+    "fev1_percent": 90.3
+  },
+  {
+    "id": "PV-TEST-0488",
+    "lobe": "RUL",
+    "diameter_mm": 38.7,
+    "hu": -105,
+    "spiculation": 0.8,
+    "fev1_percent": 38.5
+  },
+  {
+    "id": "PV-TEST-0489",
+    "lobe": "RUL",
+    "diameter_mm": 24.7,
+    "hu": -185,
+    "spiculation": 0.14,
+    "fev1_percent": 129.3
+  },
+  {
+    "id": "PV-TEST-0490",
+    "lobe": "LUL",
+    "diameter_mm": 56.4,
+    "hu": 47,
+    "spiculation": 0.93,
+    "fev1_percent": 49.6
+  },
+  {
+    "id": "PV-TEST-0491",
+    "lobe": "LUL",
+    "diameter_mm": 4.8,
+    "hu": -106,
+    "spiculation": 0.27,
+    "fev1_percent": 57.7
+  },
+  {
+    "id": "PV-TEST-0492",
+    "lobe": "RML",
+    "diameter_mm": 61.7,
+    "hu": -693,
+    "spiculation": 0.28,
+    "fev1_percent": 80.7
+  },
+  {
+    "id": "PV-TEST-0493",
+    "lobe": "RUL",
+    "diameter_mm": 61.1,
+    "hu": -618,
+    "spiculation": 0.23,
+    "fev1_percent": 121.5
+  },
+  {
+    "id": "PV-TEST-0494",
+    "lobe": "RLL",
+    "diameter_mm": 20.8,
+    "hu": -437,
+    "spiculation": 0.95,
+    "fev1_percent": 77.2
+  },
+  {
+    "id": "PV-TEST-0495",
+    "lobe": "RLL",
+    "diameter_mm": 11.9,
+    "hu": 4,
+    "spiculation": 0.42,
+    "fev1_percent": 120.4
+  },
+  {
+    "id": "PV-TEST-0496",
+    "lobe": "RLL",
+    "diameter_mm": 10.7,
+    "hu": -282,
+    "spiculation": 0.02,
+    "fev1_percent": 56.2
+  },
+  {
+    "id": "PV-TEST-0497",
+    "lobe": "RUL",
+    "diameter_mm": 49.9,
+    "hu": -662,
+    "spiculation": 0.13,
+    "fev1_percent": 93.2
+  },
+  {
+    "id": "PV-TEST-0498",
+    "lobe": "RLL",
+    "diameter_mm": 32.1,
+    "hu": -99,
+    "spiculation": 0.11,
+    "fev1_percent": 105.4
+  },
+  {
+    "id": "PV-TEST-0499",
+    "lobe": "RLL",
+    "diameter_mm": 45.2,
+    "hu": -848,
+    "spiculation": 0.27,
+    "fev1_percent": 111.4
+  },
+  {
+    "id": "PV-TEST-0500",
+    "lobe": "RUL",
+    "diameter_mm": 67.4,
+    "hu": 120,
+    "spiculation": 0.18,
+    "fev1_percent": 40.6
+  },
+  {
+    "id": "PV-TEST-0501",
+    "lobe": "LUL",
+    "diameter_mm": 39.1,
+    "hu": -3,
+    "spiculation": 0.58,
+    "fev1_percent": 38.3
+  },
+  {
+    "id": "PV-TEST-0502",
+    "lobe": "RML",
+    "diameter_mm": 6.7,
+    "hu": -287,
+    "spiculation": 0.56,
+    "fev1_percent": 61.5
+  },
+  {
+    "id": "PV-TEST-0503",
+    "lobe": "LUL",
+    "diameter_mm": 42.4,
+    "hu": -218,
+    "spiculation": 0.44,
+    "fev1_percent": 42.6
+  },
+  {
+    "id": "PV-TEST-0504",
+    "lobe": "RUL",
+    "diameter_mm": 16.7,
+    "hu": -350,
+    "spiculation": 0.86,
+    "fev1_percent": 103.7
+  },
+  {
+    "id": "PV-TEST-0505",
+    "lobe": "LUL",
+    "diameter_mm": 21.9,
+    "hu": -512,
+    "spiculation": 0.67,
+    "fev1_percent": 75.1
+  },
+  {
+    "id": "PV-TEST-0506",
+    "lobe": "LLL",
+    "diameter_mm": 43.1,
+    "hu": -75,
+    "spiculation": 0.98,
+    "fev1_percent": 125.2
+  },
+  {
+    "id": "PV-TEST-0507",
+    "lobe": "RLL",
+    "diameter_mm": 57.5,
+    "hu": -202,
+    "spiculation": 0.04,
+    "fev1_percent": 78.9
+  },
+  {
+    "id": "PV-TEST-0508",
+    "lobe": "LLL",
+    "diameter_mm": 40.2,
+    "hu": 89,
+    "spiculation": 0.32,
+    "fev1_percent": 102.5
+  },
+  {
+    "id": "PV-TEST-0509",
+    "lobe": "LLL",
+    "diameter_mm": 16.8,
+    "hu": -31,
+    "spiculation": 0.88,
+    "fev1_percent": 129.9
+  },
+  {
+    "id": "PV-TEST-0510",
+    "lobe": "RML",
+    "diameter_mm": 58.5,
+    "hu": -470,
+    "spiculation": 0.35,
+    "fev1_percent": 112.7
+  },
+  {
+    "id": "PV-TEST-0511",
+    "lobe": "RLL",
+    "diameter_mm": 15.1,
+    "hu": -747,
+    "spiculation": 0.82,
+    "fev1_percent": 69.7
+  },
+  {
+    "id": "PV-TEST-0512",
+    "lobe": "LUL",
+    "diameter_mm": 67.9,
+    "hu": -235,
+    "spiculation": 0.9,
+    "fev1_percent": 89.6
+  },
+  {
+    "id": "PV-TEST-0513",
+    "lobe": "LLL",
+    "diameter_mm": 46.7,
+    "hu": -589,
+    "spiculation": 0.76,
+    "fev1_percent": 67.3
+  },
+  {
+    "id": "PV-TEST-0514",
+    "lobe": "RLL",
+    "diameter_mm": 60.3,
+    "hu": -723,
+    "spiculation": 0.96,
+    "fev1_percent": 93.6
+  },
+  {
+    "id": "PV-TEST-0515",
+    "lobe": "RLL",
+    "diameter_mm": 53.7,
+    "hu": -709,
+    "spiculation": 0.64,
+    "fev1_percent": 36.5
+  },
+  {
+    "id": "PV-TEST-0516",
+    "lobe": "RLL",
+    "diameter_mm": 43.9,
+    "hu": -295,
+    "spiculation": 0.77,
+    "fev1_percent": 99.9
+  },
+  {
+    "id": "PV-TEST-0517",
+    "lobe": "RLL",
+    "diameter_mm": 35.5,
+    "hu": -318,
+    "spiculation": 0.05,
+    "fev1_percent": 35.4
+  },
+  {
+    "id": "PV-TEST-0518",
+    "lobe": "RLL",
+    "diameter_mm": 56.7,
+    "hu": -742,
+    "spiculation": 0.53,
+    "fev1_percent": 69.1
+  },
+  {
+    "id": "PV-TEST-0519",
+    "lobe": "RLL",
+    "diameter_mm": 49.2,
+    "hu": -264,
+    "spiculation": 0.49,
+    "fev1_percent": 60.3
+  },
+  {
+    "id": "PV-TEST-0520",
+    "lobe": "LLL",
+    "diameter_mm": 19.5,
+    "hu": -282,
+    "spiculation": 0.35,
+    "fev1_percent": 61.7
+  },
+  {
+    "id": "PV-TEST-0521",
+    "lobe": "LLL",
+    "diameter_mm": 66.2,
+    "hu": -490,
+    "spiculation": 0.34,
+    "fev1_percent": 68.3
+  },
+  {
+    "id": "PV-TEST-0522",
+    "lobe": "RUL",
+    "diameter_mm": 55.9,
+    "hu": -390,
+    "spiculation": 0.16,
+    "fev1_percent": 86.2
+  },
+  {
+    "id": "PV-TEST-0523",
+    "lobe": "RUL",
+    "diameter_mm": 20.9,
+    "hu": -786,
+    "spiculation": 0.7,
+    "fev1_percent": 61.0
+  },
+  {
+    "id": "PV-TEST-0524",
+    "lobe": "RML",
+    "diameter_mm": 35.2,
+    "hu": -75,
+    "spiculation": 0.57,
+    "fev1_percent": 38.5
+  },
+  {
+    "id": "PV-TEST-0525",
+    "lobe": "RML",
+    "diameter_mm": 41.7,
+    "hu": -770,
+    "spiculation": 0.57,
+    "fev1_percent": 101.7
+  },
+  {
+    "id": "PV-TEST-0526",
+    "lobe": "RML",
+    "diameter_mm": 22.3,
+    "hu": -272,
+    "spiculation": 0.52,
+    "fev1_percent": 91.3
+  },
+  {
+    "id": "PV-TEST-0527",
+    "lobe": "RML",
+    "diameter_mm": 41.6,
+    "hu": -335,
+    "spiculation": 0.76,
+    "fev1_percent": 107.4
+  },
+  {
+    "id": "PV-TEST-0528",
+    "lobe": "LLL",
+    "diameter_mm": 9.0,
+    "hu": -583,
+    "spiculation": 0.33,
+    "fev1_percent": 41.0
+  },
+  {
+    "id": "PV-TEST-0529",
+    "lobe": "RLL",
+    "diameter_mm": 6.5,
+    "hu": -43,
+    "spiculation": 0.37,
+    "fev1_percent": 36.0
+  },
+  {
+    "id": "PV-TEST-0530",
+    "lobe": "RLL",
+    "diameter_mm": 49.0,
+    "hu": -771,
+    "spiculation": 0.63,
+    "fev1_percent": 124.2
+  },
+  {
+    "id": "PV-TEST-0531",
+    "lobe": "RLL",
+    "diameter_mm": 26.5,
+    "hu": -413,
+    "spiculation": 0.26,
+    "fev1_percent": 70.8
+  },
+  {
+    "id": "PV-TEST-0532",
+    "lobe": "LLL",
+    "diameter_mm": 53.1,
+    "hu": -440,
+    "spiculation": 0.34,
+    "fev1_percent": 42.2
+  },
+  {
+    "id": "PV-TEST-0533",
+    "lobe": "LLL",
+    "diameter_mm": 4.4,
+    "hu": -274,
+    "spiculation": 0.74,
+    "fev1_percent": 43.4
+  },
+  {
+    "id": "PV-TEST-0534",
+    "lobe": "LUL",
+    "diameter_mm": 54.3,
+    "hu": -770,
+    "spiculation": 0.57,
+    "fev1_percent": 121.2
+  },
+  {
+    "id": "PV-TEST-0535",
+    "lobe": "RLL",
+    "diameter_mm": 26.1,
+    "hu": -175,
+    "spiculation": 0.2,
+    "fev1_percent": 41.8
+  },
+  {
+    "id": "PV-TEST-0536",
+    "lobe": "LUL",
+    "diameter_mm": 53.7,
+    "hu": -603,
+    "spiculation": 0.45,
+    "fev1_percent": 103.5
+  },
+  {
+    "id": "PV-TEST-0537",
+    "lobe": "LUL",
+    "diameter_mm": 57.7,
+    "hu": -848,
+    "spiculation": 0.55,
+    "fev1_percent": 104.6
+  },
+  {
+    "id": "PV-TEST-0538",
+    "lobe": "RUL",
+    "diameter_mm": 6.3,
+    "hu": -533,
+    "spiculation": 0.8,
+    "fev1_percent": 44.1
+  },
+  {
+    "id": "PV-TEST-0539",
+    "lobe": "RLL",
+    "diameter_mm": 12.9,
+    "hu": -707,
+    "spiculation": 0.74,
+    "fev1_percent": 70.0
+  },
+  {
+    "id": "PV-TEST-0540",
+    "lobe": "LLL",
+    "diameter_mm": 41.8,
+    "hu": -580,
+    "spiculation": 0.83,
+    "fev1_percent": 65.8
+  },
+  {
+    "id": "PV-TEST-0541",
+    "lobe": "RLL",
+    "diameter_mm": 18.0,
+    "hu": -384,
+    "spiculation": 0.4,
+    "fev1_percent": 108.6
+  },
+  {
+    "id": "PV-TEST-0542",
+    "lobe": "LUL",
+    "diameter_mm": 14.1,
+    "hu": 3,
+    "spiculation": 0.77,
+    "fev1_percent": 77.5
+  },
+  {
+    "id": "PV-TEST-0543",
+    "lobe": "RML",
+    "diameter_mm": 66.3,
+    "hu": 57,
+    "spiculation": 0.2,
+    "fev1_percent": 49.8
+  },
+  {
+    "id": "PV-TEST-0544",
+    "lobe": "RUL",
+    "diameter_mm": 47.7,
+    "hu": -458,
+    "spiculation": 0.9,
+    "fev1_percent": 63.0
+  },
+  {
+    "id": "PV-TEST-0545",
+    "lobe": "LUL",
+    "diameter_mm": 17.0,
+    "hu": -437,
+    "spiculation": 0.79,
+    "fev1_percent": 88.4
+  },
+  {
+    "id": "PV-TEST-0546",
+    "lobe": "RLL",
+    "diameter_mm": 67.5,
+    "hu": 24,
+    "spiculation": 0.97,
+    "fev1_percent": 40.5
+  },
+  {
+    "id": "PV-TEST-0547",
+    "lobe": "RUL",
+    "diameter_mm": 31.4,
+    "hu": -757,
+    "spiculation": 0.09,
+    "fev1_percent": 46.8
+  },
+  {
+    "id": "PV-TEST-0548",
+    "lobe": "RUL",
+    "diameter_mm": 56.7,
+    "hu": 91,
+    "spiculation": 0.34,
+    "fev1_percent": 65.0
+  },
+  {
+    "id": "PV-TEST-0549",
+    "lobe": "RML",
+    "diameter_mm": 4.2,
+    "hu": -73,
+    "spiculation": 0.09,
+    "fev1_percent": 71.7
+  },
+  {
+    "id": "PV-TEST-0550",
+    "lobe": "RLL",
+    "diameter_mm": 32.7,
+    "hu": -660,
+    "spiculation": 0.07,
+    "fev1_percent": 62.5
+  },
+  {
+    "id": "PV-TEST-0551",
+    "lobe": "RUL",
+    "diameter_mm": 57.0,
+    "hu": 104,
+    "spiculation": 0.69,
+    "fev1_percent": 66.2
+  },
+  {
+    "id": "PV-TEST-0552",
+    "lobe": "LUL",
+    "diameter_mm": 37.0,
+    "hu": -651,
+    "spiculation": 0.93,
+    "fev1_percent": 93.7
+  },
+  {
+    "id": "PV-TEST-0553",
+    "lobe": "LLL",
+    "diameter_mm": 12.3,
+    "hu": -154,
+    "spiculation": 0.89,
+    "fev1_percent": 60.9
+  },
+  {
+    "id": "PV-TEST-0554",
+    "lobe": "RUL",
+    "diameter_mm": 66.0,
+    "hu": -270,
+    "spiculation": 0.2,
+    "fev1_percent": 119.2
+  },
+  {
+    "id": "PV-TEST-0555",
+    "lobe": "LUL",
+    "diameter_mm": 18.7,
+    "hu": -645,
+    "spiculation": 0.2,
+    "fev1_percent": 97.0
+  },
+  {
+    "id": "PV-TEST-0556",
+    "lobe": "LLL",
+    "diameter_mm": 34.8,
+    "hu": -459,
+    "spiculation": 0.36,
+    "fev1_percent": 70.0
+  },
+  {
+    "id": "PV-TEST-0557",
+    "lobe": "RUL",
+    "diameter_mm": 65.5,
+    "hu": -540,
+    "spiculation": 0.2,
+    "fev1_percent": 81.6
+  },
+  {
+    "id": "PV-TEST-0558",
+    "lobe": "RLL",
+    "diameter_mm": 43.2,
+    "hu": -656,
+    "spiculation": 0.13,
+    "fev1_percent": 127.0
+  },
+  {
+    "id": "PV-TEST-0559",
+    "lobe": "RUL",
+    "diameter_mm": 27.2,
+    "hu": -299,
+    "spiculation": 0.88,
+    "fev1_percent": 59.2
+  },
+  {
+    "id": "PV-TEST-0560",
+    "lobe": "RUL",
+    "diameter_mm": 52.2,
+    "hu": -729,
+    "spiculation": 0.77,
+    "fev1_percent": 92.5
+  },
+  {
+    "id": "PV-TEST-0561",
+    "lobe": "RLL",
+    "diameter_mm": 50.0,
+    "hu": -244,
+    "spiculation": 0.76,
+    "fev1_percent": 42.5
+  },
+  {
+    "id": "PV-TEST-0562",
+    "lobe": "LLL",
+    "diameter_mm": 30.9,
+    "hu": -35,
+    "spiculation": 0.46,
+    "fev1_percent": 102.7
+  },
+  {
+    "id": "PV-TEST-0563",
+    "lobe": "RML",
+    "diameter_mm": 14.8,
+    "hu": -832,
+    "spiculation": 0.43,
+    "fev1_percent": 41.9
+  },
+  {
+    "id": "PV-TEST-0564",
+    "lobe": "RML",
+    "diameter_mm": 20.5,
+    "hu": 30,
+    "spiculation": 0.76,
+    "fev1_percent": 66.1
+  },
+  {
+    "id": "PV-TEST-0565",
+    "lobe": "LUL",
+    "diameter_mm": 56.8,
+    "hu": -734,
+    "spiculation": 0.14,
+    "fev1_percent": 63.3
+  },
+  {
+    "id": "PV-TEST-0566",
+    "lobe": "RUL",
+    "diameter_mm": 66.7,
+    "hu": 18,
+    "spiculation": 0.57,
+    "fev1_percent": 59.9
+  },
+  {
+    "id": "PV-TEST-0567",
+    "lobe": "LUL",
+    "diameter_mm": 8.5,
+    "hu": -617,
+    "spiculation": 0.14,
+    "fev1_percent": 117.8
+  },
+  {
+    "id": "PV-TEST-0568",
+    "lobe": "RUL",
+    "diameter_mm": 37.9,
+    "hu": -141,
+    "spiculation": 0.29,
+    "fev1_percent": 117.4
+  },
+  {
+    "id": "PV-TEST-0569",
+    "lobe": "LUL",
+    "diameter_mm": 28.4,
+    "hu": -696,
+    "spiculation": 0.9,
+    "fev1_percent": 125.5
+  },
+  {
+    "id": "PV-TEST-0570",
+    "lobe": "LUL",
+    "diameter_mm": 60.3,
+    "hu": -162,
+    "spiculation": 0.11,
+    "fev1_percent": 86.4
+  },
+  {
+    "id": "PV-TEST-0571",
+    "lobe": "LLL",
+    "diameter_mm": 70.0,
+    "hu": 49,
+    "spiculation": 0.39,
+    "fev1_percent": 69.1
+  },
+  {
+    "id": "PV-TEST-0572",
+    "lobe": "LLL",
+    "diameter_mm": 35.1,
+    "hu": 42,
+    "spiculation": 0.66,
+    "fev1_percent": 78.7
+  },
+  {
+    "id": "PV-TEST-0573",
+    "lobe": "LUL",
+    "diameter_mm": 21.4,
+    "hu": -451,
+    "spiculation": 0.06,
+    "fev1_percent": 127.5
+  },
+  {
+    "id": "PV-TEST-0574",
+    "lobe": "RLL",
+    "diameter_mm": 7.5,
+    "hu": -408,
+    "spiculation": 0.62,
+    "fev1_percent": 77.2
+  },
+  {
+    "id": "PV-TEST-0575",
+    "lobe": "RUL",
+    "diameter_mm": 38.4,
+    "hu": -166,
+    "spiculation": 0.28,
+    "fev1_percent": 127.2
+  },
+  {
+    "id": "PV-TEST-0576",
+    "lobe": "LLL",
+    "diameter_mm": 27.6,
+    "hu": 89,
+    "spiculation": 0.3,
+    "fev1_percent": 54.7
+  },
+  {
+    "id": "PV-TEST-0577",
+    "lobe": "LLL",
+    "diameter_mm": 33.3,
+    "hu": -495,
+    "spiculation": 0.07,
+    "fev1_percent": 107.4
+  },
+  {
+    "id": "PV-TEST-0578",
+    "lobe": "RML",
+    "diameter_mm": 69.9,
+    "hu": -422,
+    "spiculation": 0.55,
+    "fev1_percent": 67.7
+  },
+  {
+    "id": "PV-TEST-0579",
+    "lobe": "RUL",
+    "diameter_mm": 41.2,
+    "hu": -424,
+    "spiculation": 0.11,
+    "fev1_percent": 120.7
+  },
+  {
+    "id": "PV-TEST-0580",
+    "lobe": "RLL",
+    "diameter_mm": 18.0,
+    "hu": -16,
+    "spiculation": 0.43,
+    "fev1_percent": 36.6
+  },
+  {
+    "id": "PV-TEST-0581",
+    "lobe": "LUL",
+    "diameter_mm": 25.8,
+    "hu": -172,
+    "spiculation": 0.26,
+    "fev1_percent": 97.0
+  },
+  {
+    "id": "PV-TEST-0582",
+    "lobe": "RML",
+    "diameter_mm": 20.8,
+    "hu": -570,
+    "spiculation": 0.28,
+    "fev1_percent": 73.5
+  },
+  {
+    "id": "PV-TEST-0583",
+    "lobe": "LLL",
+    "diameter_mm": 7.3,
+    "hu": -390,
+    "spiculation": 0.68,
+    "fev1_percent": 103.9
+  },
+  {
+    "id": "PV-TEST-0584",
+    "lobe": "RLL",
+    "diameter_mm": 8.8,
+    "hu": -95,
+    "spiculation": 0.2,
+    "fev1_percent": 78.0
+  },
+  {
+    "id": "PV-TEST-0585",
+    "lobe": "RLL",
+    "diameter_mm": 34.3,
+    "hu": -579,
+    "spiculation": 0.97,
+    "fev1_percent": 68.3
+  },
+  {
+    "id": "PV-TEST-0586",
+    "lobe": "LLL",
+    "diameter_mm": 15.5,
+    "hu": -24,
+    "spiculation": 0.86,
+    "fev1_percent": 86.2
+  },
+  {
+    "id": "PV-TEST-0587",
+    "lobe": "RLL",
+    "diameter_mm": 33.8,
+    "hu": -377,
+    "spiculation": 0.42,
+    "fev1_percent": 49.2
+  },
+  {
+    "id": "PV-TEST-0588",
+    "lobe": "RLL",
+    "diameter_mm": 18.0,
+    "hu": -394,
+    "spiculation": 0.86,
+    "fev1_percent": 71.0
+  },
+  {
+    "id": "PV-TEST-0589",
+    "lobe": "RLL",
+    "diameter_mm": 52.1,
+    "hu": -780,
+    "spiculation": 0.6,
+    "fev1_percent": 97.7
+  },
+  {
+    "id": "PV-TEST-0590",
+    "lobe": "RUL",
+    "diameter_mm": 16.9,
+    "hu": -312,
+    "spiculation": 0.51,
+    "fev1_percent": 38.4
+  },
+  {
+    "id": "PV-TEST-0591",
+    "lobe": "LUL",
+    "diameter_mm": 58.7,
+    "hu": -141,
+    "spiculation": 0.49,
+    "fev1_percent": 103.2
+  },
+  {
+    "id": "PV-TEST-0592",
+    "lobe": "LLL",
+    "diameter_mm": 64.8,
+    "hu": -358,
+    "spiculation": 0.69,
+    "fev1_percent": 96.7
+  },
+  {
+    "id": "PV-TEST-0593",
+    "lobe": "RLL",
+    "diameter_mm": 50.3,
+    "hu": -434,
+    "spiculation": 0.98,
+    "fev1_percent": 83.0
+  },
+  {
+    "id": "PV-TEST-0594",
+    "lobe": "RML",
+    "diameter_mm": 30.7,
+    "hu": -131,
+    "spiculation": 0.95,
+    "fev1_percent": 53.1
+  },
+  {
+    "id": "PV-TEST-0595",
+    "lobe": "LUL",
+    "diameter_mm": 27.5,
+    "hu": -557,
+    "spiculation": 0.97,
+    "fev1_percent": 127.2
+  },
+  {
+    "id": "PV-TEST-0596",
+    "lobe": "LUL",
+    "diameter_mm": 68.5,
+    "hu": -772,
+    "spiculation": 0.63,
+    "fev1_percent": 114.5
+  },
+  {
+    "id": "PV-TEST-0597",
+    "lobe": "LUL",
+    "diameter_mm": 49.1,
+    "hu": -803,
+    "spiculation": 0.48,
+    "fev1_percent": 94.2
+  },
+  {
+    "id": "PV-TEST-0598",
+    "lobe": "LLL",
+    "diameter_mm": 58.7,
+    "hu": -30,
+    "spiculation": 0.93,
+    "fev1_percent": 84.6
+  },
+  {
+    "id": "PV-TEST-0599",
+    "lobe": "LLL",
+    "diameter_mm": 17.4,
+    "hu": 39,
+    "spiculation": 0.66,
+    "fev1_percent": 94.0
+  },
+  {
+    "id": "PV-TEST-0600",
+    "lobe": "RLL",
+    "diameter_mm": 35.1,
+    "hu": 26,
+    "spiculation": 0.4,
+    "fev1_percent": 55.1
+  },
+  {
+    "id": "PV-TEST-0601",
+    "lobe": "RML",
+    "diameter_mm": 21.8,
+    "hu": -257,
+    "spiculation": 0.13,
+    "fev1_percent": 86.0
+  },
+  {
+    "id": "PV-TEST-0602",
+    "lobe": "LLL",
+    "diameter_mm": 26.7,
+    "hu": 98,
+    "spiculation": 0.57,
+    "fev1_percent": 128.2
+  },
+  {
+    "id": "PV-TEST-0603",
+    "lobe": "RUL",
+    "diameter_mm": 54.4,
+    "hu": -360,
+    "spiculation": 0.92,
+    "fev1_percent": 119.0
+  },
+  {
+    "id": "PV-TEST-0604",
+    "lobe": "RLL",
+    "diameter_mm": 7.1,
+    "hu": -759,
+    "spiculation": 0.04,
+    "fev1_percent": 82.7
+  },
+  {
+    "id": "PV-TEST-0605",
+    "lobe": "RML",
+    "diameter_mm": 41.5,
+    "hu": -823,
+    "spiculation": 0.09,
+    "fev1_percent": 100.8
+  },
+  {
+    "id": "PV-TEST-0606",
+    "lobe": "RML",
+    "diameter_mm": 11.9,
+    "hu": -56,
+    "spiculation": 0.41,
+    "fev1_percent": 96.9
+  },
+  {
+    "id": "PV-TEST-0607",
+    "lobe": "RLL",
+    "diameter_mm": 45.2,
+    "hu": -422,
+    "spiculation": 0.88,
+    "fev1_percent": 78.5
+  },
+  {
+    "id": "PV-TEST-0608",
+    "lobe": "RUL",
+    "diameter_mm": 56.6,
+    "hu": 63,
+    "spiculation": 0.3,
+    "fev1_percent": 95.2
+  },
+  {
+    "id": "PV-TEST-0609",
+    "lobe": "LUL",
+    "diameter_mm": 68.3,
+    "hu": -441,
+    "spiculation": 0.86,
+    "fev1_percent": 92.9
+  },
+  {
+    "id": "PV-TEST-0610",
+    "lobe": "RUL",
+    "diameter_mm": 29.2,
+    "hu": -210,
+    "spiculation": 0.29,
+    "fev1_percent": 100.0
+  },
+  {
+    "id": "PV-TEST-0611",
+    "lobe": "LLL",
+    "diameter_mm": 5.4,
+    "hu": -239,
+    "spiculation": 0.79,
+    "fev1_percent": 53.3
+  },
+  {
+    "id": "PV-TEST-0612",
+    "lobe": "LUL",
+    "diameter_mm": 62.0,
+    "hu": -533,
+    "spiculation": 0.92,
+    "fev1_percent": 66.0
+  },
+  {
+    "id": "PV-TEST-0613",
+    "lobe": "RLL",
+    "diameter_mm": 11.9,
+    "hu": -441,
+    "spiculation": 0.1,
+    "fev1_percent": 128.8
+  },
+  {
+    "id": "PV-TEST-0614",
+    "lobe": "RUL",
+    "diameter_mm": 45.2,
+    "hu": 83,
+    "spiculation": 0.03,
+    "fev1_percent": 104.2
+  },
+  {
+    "id": "PV-TEST-0615",
+    "lobe": "RLL",
+    "diameter_mm": 58.6,
+    "hu": -470,
+    "spiculation": 0.69,
+    "fev1_percent": 129.8
+  },
+  {
+    "id": "PV-TEST-0616",
+    "lobe": "LLL",
+    "diameter_mm": 58.0,
+    "hu": -391,
+    "spiculation": 0.04,
+    "fev1_percent": 121.5
+  },
+  {
+    "id": "PV-TEST-0617",
+    "lobe": "RLL",
+    "diameter_mm": 27.0,
+    "hu": -439,
+    "spiculation": 0.67,
+    "fev1_percent": 54.5
+  },
+  {
+    "id": "PV-TEST-0618",
+    "lobe": "RML",
+    "diameter_mm": 16.7,
+    "hu": -207,
+    "spiculation": 0.31,
+    "fev1_percent": 105.1
+  },
+  {
+    "id": "PV-TEST-0619",
+    "lobe": "LUL",
+    "diameter_mm": 42.1,
+    "hu": 90,
+    "spiculation": 0.49,
+    "fev1_percent": 123.7
+  },
+  {
+    "id": "PV-TEST-0620",
+    "lobe": "RUL",
+    "diameter_mm": 21.6,
+    "hu": -845,
+    "spiculation": 0.98,
+    "fev1_percent": 52.4
+  },
+  {
+    "id": "PV-TEST-0621",
+    "lobe": "LLL",
+    "diameter_mm": 8.9,
+    "hu": -461,
+    "spiculation": 0.85,
+    "fev1_percent": 121.0
+  },
+  {
+    "id": "PV-TEST-0622",
+    "lobe": "RUL",
+    "diameter_mm": 27.5,
+    "hu": -552,
+    "spiculation": 0.93,
+    "fev1_percent": 94.1
+  },
+  {
+    "id": "PV-TEST-0623",
+    "lobe": "RML",
+    "diameter_mm": 9.1,
+    "hu": -41,
+    "spiculation": 0.46,
+    "fev1_percent": 100.9
+  },
+  {
+    "id": "PV-TEST-0624",
+    "lobe": "RML",
+    "diameter_mm": 31.5,
+    "hu": -46,
+    "spiculation": 0.92,
+    "fev1_percent": 69.2
+  },
+  {
+    "id": "PV-TEST-0625",
+    "lobe": "RUL",
+    "diameter_mm": 18.9,
+    "hu": -720,
+    "spiculation": 0.84,
+    "fev1_percent": 103.1
+  },
+  {
+    "id": "PV-TEST-0626",
+    "lobe": "RUL",
+    "diameter_mm": 15.2,
+    "hu": -819,
+    "spiculation": 0.9,
+    "fev1_percent": 78.5
+  },
+  {
+    "id": "PV-TEST-0627",
+    "lobe": "LLL",
+    "diameter_mm": 65.1,
+    "hu": -270,
+    "spiculation": 0.18,
+    "fev1_percent": 76.7
+  },
+  {
+    "id": "PV-TEST-0628",
+    "lobe": "RUL",
+    "diameter_mm": 30.1,
+    "hu": -474,
+    "spiculation": 0.49,
+    "fev1_percent": 86.3
+  },
+  {
+    "id": "PV-TEST-0629",
+    "lobe": "LUL",
+    "diameter_mm": 18.2,
+    "hu": -284,
+    "spiculation": 0.96,
+    "fev1_percent": 66.4
+  },
+  {
+    "id": "PV-TEST-0630",
+    "lobe": "RML",
+    "diameter_mm": 21.7,
+    "hu": -247,
+    "spiculation": 0.82,
+    "fev1_percent": 120.6
+  },
+  {
+    "id": "PV-TEST-0631",
+    "lobe": "LLL",
+    "diameter_mm": 50.3,
+    "hu": -134,
+    "spiculation": 0.43,
+    "fev1_percent": 108.8
+  },
+  {
+    "id": "PV-TEST-0632",
+    "lobe": "RUL",
+    "diameter_mm": 67.7,
+    "hu": -169,
+    "spiculation": 0.99,
+    "fev1_percent": 45.9
+  },
+  {
+    "id": "PV-TEST-0633",
+    "lobe": "RUL",
+    "diameter_mm": 36.2,
+    "hu": -433,
+    "spiculation": 0.75,
+    "fev1_percent": 37.7
+  },
+  {
+    "id": "PV-TEST-0634",
+    "lobe": "LUL",
+    "diameter_mm": 47.2,
+    "hu": -798,
+    "spiculation": 0.45,
+    "fev1_percent": 90.3
+  },
+  {
+    "id": "PV-TEST-0635",
+    "lobe": "RLL",
+    "diameter_mm": 58.5,
+    "hu": -79,
+    "spiculation": 0.87,
+    "fev1_percent": 127.2
+  },
+  {
+    "id": "PV-TEST-0636",
+    "lobe": "LLL",
+    "diameter_mm": 29.7,
+    "hu": -669,
+    "spiculation": 0.61,
+    "fev1_percent": 62.4
+  },
+  {
+    "id": "PV-TEST-0637",
+    "lobe": "RLL",
+    "diameter_mm": 25.7,
+    "hu": -710,
+    "spiculation": 0.9,
+    "fev1_percent": 95.2
+  },
+  {
+    "id": "PV-TEST-0638",
+    "lobe": "RLL",
+    "diameter_mm": 26.4,
+    "hu": 63,
+    "spiculation": 0.25,
+    "fev1_percent": 96.2
+  },
+  {
+    "id": "PV-TEST-0639",
+    "lobe": "RML",
+    "diameter_mm": 32.7,
+    "hu": -36,
+    "spiculation": 0.36,
+    "fev1_percent": 119.2
+  },
+  {
+    "id": "PV-TEST-0640",
+    "lobe": "LUL",
+    "diameter_mm": 19.0,
+    "hu": -476,
+    "spiculation": 0.96,
+    "fev1_percent": 70.2
+  },
+  {
+    "id": "PV-TEST-0641",
+    "lobe": "RML",
+    "diameter_mm": 14.7,
+    "hu": -837,
+    "spiculation": 0.76,
+    "fev1_percent": 52.4
+  },
+  {
+    "id": "PV-TEST-0642",
+    "lobe": "LLL",
+    "diameter_mm": 38.1,
+    "hu": -717,
+    "spiculation": 0.56,
+    "fev1_percent": 56.0
+  },
+  {
+    "id": "PV-TEST-0643",
+    "lobe": "LLL",
+    "diameter_mm": 34.4,
+    "hu": -320,
+    "spiculation": 0.06,
+    "fev1_percent": 58.7
+  },
+  {
+    "id": "PV-TEST-0644",
+    "lobe": "RLL",
+    "diameter_mm": 6.2,
+    "hu": -752,
+    "spiculation": 0.86,
+    "fev1_percent": 39.2
+  },
+  {
+    "id": "PV-TEST-0645",
+    "lobe": "RML",
+    "diameter_mm": 67.8,
+    "hu": -113,
+    "spiculation": 0.94,
+    "fev1_percent": 37.5
+  },
+  {
+    "id": "PV-TEST-0646",
+    "lobe": "LLL",
+    "diameter_mm": 9.1,
+    "hu": -191,
+    "spiculation": 0.97,
+    "fev1_percent": 123.9
+  },
+  {
+    "id": "PV-TEST-0647",
+    "lobe": "RLL",
+    "diameter_mm": 25.2,
+    "hu": -58,
+    "spiculation": 0.46,
+    "fev1_percent": 117.6
+  },
+  {
+    "id": "PV-TEST-0648",
+    "lobe": "LLL",
+    "diameter_mm": 40.7,
+    "hu": -309,
+    "spiculation": 0.65,
+    "fev1_percent": 112.3
+  },
+  {
+    "id": "PV-TEST-0649",
+    "lobe": "RML",
+    "diameter_mm": 8.5,
+    "hu": -296,
+    "spiculation": 0.47,
+    "fev1_percent": 43.2
+  },
+  {
+    "id": "PV-TEST-0650",
+    "lobe": "RUL",
+    "diameter_mm": 34.9,
+    "hu": -779,
+    "spiculation": 0.46,
+    "fev1_percent": 35.2
+  },
+  {
+    "id": "PV-TEST-0651",
+    "lobe": "RLL",
+    "diameter_mm": 38.8,
+    "hu": -554,
+    "spiculation": 0.98,
+    "fev1_percent": 125.6
+  },
+  {
+    "id": "PV-TEST-0652",
+    "lobe": "RML",
+    "diameter_mm": 25.7,
+    "hu": -59,
+    "spiculation": 0.55,
+    "fev1_percent": 69.3
+  },
+  {
+    "id": "PV-TEST-0653",
+    "lobe": "RUL",
+    "diameter_mm": 30.2,
+    "hu": 34,
+    "spiculation": 0.54,
+    "fev1_percent": 121.5
+  },
+  {
+    "id": "PV-TEST-0654",
+    "lobe": "RUL",
+    "diameter_mm": 31.4,
+    "hu": -12,
+    "spiculation": 0.97,
+    "fev1_percent": 46.0
+  },
+  {
+    "id": "PV-TEST-0655",
+    "lobe": "LLL",
+    "diameter_mm": 43.2,
+    "hu": -258,
+    "spiculation": 0.92,
+    "fev1_percent": 104.5
+  },
+  {
+    "id": "PV-TEST-0656",
+    "lobe": "RML",
+    "diameter_mm": 21.3,
+    "hu": -735,
+    "spiculation": 0.83,
+    "fev1_percent": 127.1
+  },
+  {
+    "id": "PV-TEST-0657",
+    "lobe": "RLL",
+    "diameter_mm": 56.2,
+    "hu": -14,
+    "spiculation": 0.22,
+    "fev1_percent": 79.5
+  },
+  {
+    "id": "PV-TEST-0658",
+    "lobe": "RUL",
+    "diameter_mm": 26.5,
+    "hu": -289,
+    "spiculation": 0.69,
+    "fev1_percent": 36.7
+  },
+  {
+    "id": "PV-TEST-0659",
+    "lobe": "RML",
+    "diameter_mm": 64.9,
+    "hu": -287,
+    "spiculation": 0.15,
+    "fev1_percent": 110.1
+  },
+  {
+    "id": "PV-TEST-0660",
+    "lobe": "RML",
+    "diameter_mm": 13.2,
+    "hu": -513,
+    "spiculation": 0.94,
+    "fev1_percent": 73.5
+  },
+  {
+    "id": "PV-TEST-0661",
+    "lobe": "RML",
+    "diameter_mm": 53.2,
+    "hu": -193,
+    "spiculation": 0.39,
+    "fev1_percent": 64.4
+  },
+  {
+    "id": "PV-TEST-0662",
+    "lobe": "LLL",
+    "diameter_mm": 69.3,
+    "hu": -339,
+    "spiculation": 0.02,
+    "fev1_percent": 115.6
+  },
+  {
+    "id": "PV-TEST-0663",
+    "lobe": "RUL",
+    "diameter_mm": 37.5,
+    "hu": -56,
+    "spiculation": 0.74,
+    "fev1_percent": 56.9
+  },
+  {
+    "id": "PV-TEST-0664",
+    "lobe": "LUL",
+    "diameter_mm": 38.1,
+    "hu": 101,
+    "spiculation": 0.49,
+    "fev1_percent": 52.4
+  },
+  {
+    "id": "PV-TEST-0665",
+    "lobe": "RUL",
+    "diameter_mm": 6.8,
+    "hu": -444,
+    "spiculation": 0.36,
+    "fev1_percent": 70.8
+  },
+  {
+    "id": "PV-TEST-0666",
+    "lobe": "LLL",
+    "diameter_mm": 9.1,
+    "hu": -595,
+    "spiculation": 0.01,
+    "fev1_percent": 77.4
+  },
+  {
+    "id": "PV-TEST-0667",
+    "lobe": "RLL",
+    "diameter_mm": 67.6,
+    "hu": 88,
+    "spiculation": 0.75,
+    "fev1_percent": 74.9
+  },
+  {
+    "id": "PV-TEST-0668",
+    "lobe": "RML",
+    "diameter_mm": 62.8,
+    "hu": -486,
+    "spiculation": 0.85,
+    "fev1_percent": 41.6
+  },
+  {
+    "id": "PV-TEST-0669",
+    "lobe": "RLL",
+    "diameter_mm": 33.1,
+    "hu": -377,
+    "spiculation": 0.47,
+    "fev1_percent": 45.3
+  },
+  {
+    "id": "PV-TEST-0670",
+    "lobe": "RLL",
+    "diameter_mm": 40.5,
+    "hu": -781,
+    "spiculation": 0.7,
+    "fev1_percent": 104.8
+  },
+  {
+    "id": "PV-TEST-0671",
+    "lobe": "LUL",
+    "diameter_mm": 5.8,
+    "hu": -45,
+    "spiculation": 0.8,
+    "fev1_percent": 55.7
+  },
+  {
+    "id": "PV-TEST-0672",
+    "lobe": "LLL",
+    "diameter_mm": 19.8,
+    "hu": -611,
+    "spiculation": 0.82,
+    "fev1_percent": 58.2
+  },
+  {
+    "id": "PV-TEST-0673",
+    "lobe": "LUL",
+    "diameter_mm": 37.2,
+    "hu": -358,
+    "spiculation": 0.95,
+    "fev1_percent": 100.2
+  },
+  {
+    "id": "PV-TEST-0674",
+    "lobe": "LUL",
+    "diameter_mm": 59.0,
+    "hu": -560,
+    "spiculation": 0.09,
+    "fev1_percent": 116.6
+  },
+  {
+    "id": "PV-TEST-0675",
+    "lobe": "LUL",
+    "diameter_mm": 50.0,
+    "hu": -732,
+    "spiculation": 0.89,
+    "fev1_percent": 43.6
+  },
+  {
+    "id": "PV-TEST-0676",
+    "lobe": "RML",
+    "diameter_mm": 36.9,
+    "hu": -547,
+    "spiculation": 0.79,
+    "fev1_percent": 61.7
+  },
+  {
+    "id": "PV-TEST-0677",
+    "lobe": "LLL",
+    "diameter_mm": 52.1,
+    "hu": -237,
+    "spiculation": 0.82,
+    "fev1_percent": 89.3
+  },
+  {
+    "id": "PV-TEST-0678",
+    "lobe": "LUL",
+    "diameter_mm": 28.1,
+    "hu": -513,
+    "spiculation": 0.22,
+    "fev1_percent": 90.9
+  },
+  {
+    "id": "PV-TEST-0679",
+    "lobe": "LLL",
+    "diameter_mm": 49.0,
+    "hu": -453,
+    "spiculation": 0.01,
+    "fev1_percent": 74.0
+  },
+  {
+    "id": "PV-TEST-0680",
+    "lobe": "LUL",
+    "diameter_mm": 52.4,
+    "hu": -319,
+    "spiculation": 0.74,
+    "fev1_percent": 89.5
+  },
+  {
+    "id": "PV-TEST-0681",
+    "lobe": "LLL",
+    "diameter_mm": 8.4,
+    "hu": -343,
+    "spiculation": 0.63,
+    "fev1_percent": 54.4
+  },
+  {
+    "id": "PV-TEST-0682",
+    "lobe": "RLL",
+    "diameter_mm": 41.3,
+    "hu": -23,
+    "spiculation": 0.9,
+    "fev1_percent": 49.2
+  },
+  {
+    "id": "PV-TEST-0683",
+    "lobe": "LUL",
+    "diameter_mm": 53.4,
+    "hu": -523,
+    "spiculation": 0.64,
+    "fev1_percent": 88.9
+  },
+  {
+    "id": "PV-TEST-0684",
+    "lobe": "LUL",
+    "diameter_mm": 6.4,
+    "hu": -652,
+    "spiculation": 0.34,
+    "fev1_percent": 115.1
+  },
+  {
+    "id": "PV-TEST-0685",
+    "lobe": "RUL",
+    "diameter_mm": 28.7,
+    "hu": -609,
+    "spiculation": 0.7,
+    "fev1_percent": 114.6
+  },
+  {
+    "id": "PV-TEST-0686",
+    "lobe": "LLL",
+    "diameter_mm": 28.6,
+    "hu": -511,
+    "spiculation": 0.35,
+    "fev1_percent": 111.2
+  },
+  {
+    "id": "PV-TEST-0687",
+    "lobe": "LLL",
+    "diameter_mm": 28.4,
+    "hu": 3,
+    "spiculation": 0.85,
+    "fev1_percent": 60.7
+  },
+  {
+    "id": "PV-TEST-0688",
+    "lobe": "RML",
+    "diameter_mm": 36.2,
+    "hu": -765,
+    "spiculation": 0.21,
+    "fev1_percent": 91.2
+  },
+  {
+    "id": "PV-TEST-0689",
+    "lobe": "RUL",
+    "diameter_mm": 48.6,
+    "hu": -621,
+    "spiculation": 0.99,
+    "fev1_percent": 41.8
+  },
+  {
+    "id": "PV-TEST-0690",
+    "lobe": "RLL",
+    "diameter_mm": 44.9,
+    "hu": -185,
+    "spiculation": 0.68,
+    "fev1_percent": 41.9
+  },
+  {
+    "id": "PV-TEST-0691",
+    "lobe": "LLL",
+    "diameter_mm": 52.6,
+    "hu": -157,
+    "spiculation": 0.09,
+    "fev1_percent": 116.6
+  },
+  {
+    "id": "PV-TEST-0692",
+    "lobe": "RML",
+    "diameter_mm": 26.3,
+    "hu": -834,
+    "spiculation": 0.99,
+    "fev1_percent": 93.9
+  },
+  {
+    "id": "PV-TEST-0693",
+    "lobe": "RML",
+    "diameter_mm": 9.3,
+    "hu": -525,
+    "spiculation": 0.04,
+    "fev1_percent": 47.0
+  },
+  {
+    "id": "PV-TEST-0694",
+    "lobe": "RUL",
+    "diameter_mm": 69.7,
+    "hu": -788,
+    "spiculation": 0.56,
+    "fev1_percent": 99.6
+  },
+  {
+    "id": "PV-TEST-0695",
+    "lobe": "LUL",
+    "diameter_mm": 20.9,
+    "hu": -772,
+    "spiculation": 0.62,
+    "fev1_percent": 36.3
+  },
+  {
+    "id": "PV-TEST-0696",
+    "lobe": "LLL",
+    "diameter_mm": 27.8,
+    "hu": -840,
+    "spiculation": 0.16,
+    "fev1_percent": 115.3
+  },
+  {
+    "id": "PV-TEST-0697",
+    "lobe": "RUL",
+    "diameter_mm": 11.8,
+    "hu": -109,
+    "spiculation": 0.25,
+    "fev1_percent": 36.4
+  },
+  {
+    "id": "PV-TEST-0698",
+    "lobe": "RLL",
+    "diameter_mm": 57.3,
+    "hu": -336,
+    "spiculation": 0.82,
+    "fev1_percent": 107.3
+  },
+  {
+    "id": "PV-TEST-0699",
+    "lobe": "RLL",
+    "diameter_mm": 54.3,
+    "hu": -601,
+    "spiculation": 0.58,
+    "fev1_percent": 85.1
+  },
+  {
+    "id": "PV-TEST-0700",
+    "lobe": "LLL",
+    "diameter_mm": 63.1,
+    "hu": -211,
+    "spiculation": 0.24,
+    "fev1_percent": 85.5
+  },
+  {
+    "id": "PV-TEST-0701",
+    "lobe": "LLL",
+    "diameter_mm": 51.4,
+    "hu": -37,
+    "spiculation": 0.6,
+    "fev1_percent": 93.5
+  },
+  {
+    "id": "PV-TEST-0702",
+    "lobe": "RLL",
+    "diameter_mm": 66.4,
+    "hu": -488,
+    "spiculation": 0.17,
+    "fev1_percent": 125.3
+  },
+  {
+    "id": "PV-TEST-0703",
+    "lobe": "RUL",
+    "diameter_mm": 10.2,
+    "hu": -158,
+    "spiculation": 0.57,
+    "fev1_percent": 119.7
+  },
+  {
+    "id": "PV-TEST-0704",
+    "lobe": "RML",
+    "diameter_mm": 64.1,
+    "hu": 34,
+    "spiculation": 0.97,
+    "fev1_percent": 73.8
+  },
+  {
+    "id": "PV-TEST-0705",
+    "lobe": "RML",
+    "diameter_mm": 38.3,
+    "hu": -127,
+    "spiculation": 0.14,
+    "fev1_percent": 37.9
+  },
+  {
+    "id": "PV-TEST-0706",
+    "lobe": "RML",
+    "diameter_mm": 58.9,
+    "hu": -672,
+    "spiculation": 0.22,
+    "fev1_percent": 69.3
+  },
+  {
+    "id": "PV-TEST-0707",
+    "lobe": "RUL",
+    "diameter_mm": 63.2,
+    "hu": -73,
+    "spiculation": 0.67,
+    "fev1_percent": 105.6
+  },
+  {
+    "id": "PV-TEST-0708",
+    "lobe": "LLL",
+    "diameter_mm": 24.8,
+    "hu": -702,
+    "spiculation": 0.18,
+    "fev1_percent": 61.9
+  },
+  {
+    "id": "PV-TEST-0709",
+    "lobe": "RUL",
+    "diameter_mm": 11.5,
+    "hu": -441,
+    "spiculation": 0.41,
+    "fev1_percent": 86.7
+  },
+  {
+    "id": "PV-TEST-0710",
+    "lobe": "RML",
+    "diameter_mm": 26.6,
+    "hu": -329,
+    "spiculation": 0.85,
+    "fev1_percent": 69.3
+  },
+  {
+    "id": "PV-TEST-0711",
+    "lobe": "RLL",
+    "diameter_mm": 26.6,
+    "hu": -244,
+    "spiculation": 0.39,
+    "fev1_percent": 82.8
+  },
+  {
+    "id": "PV-TEST-0712",
+    "lobe": "LUL",
+    "diameter_mm": 56.2,
+    "hu": -548,
+    "spiculation": 0.84,
+    "fev1_percent": 49.3
+  },
+  {
+    "id": "PV-TEST-0713",
+    "lobe": "RUL",
+    "diameter_mm": 16.5,
+    "hu": -821,
+    "spiculation": 0.55,
+    "fev1_percent": 62.6
+  },
+  {
+    "id": "PV-TEST-0714",
+    "lobe": "LLL",
+    "diameter_mm": 24.1,
+    "hu": 114,
+    "spiculation": 0.44,
+    "fev1_percent": 35.4
+  },
+  {
+    "id": "PV-TEST-0715",
+    "lobe": "LLL",
+    "diameter_mm": 30.7,
+    "hu": -489,
+    "spiculation": 0.43,
+    "fev1_percent": 85.1
+  },
+  {
+    "id": "PV-TEST-0716",
+    "lobe": "LUL",
+    "diameter_mm": 8.9,
+    "hu": -201,
+    "spiculation": 0.99,
+    "fev1_percent": 123.2
+  },
+  {
+    "id": "PV-TEST-0717",
+    "lobe": "LLL",
+    "diameter_mm": 38.4,
+    "hu": -359,
+    "spiculation": 0.67,
+    "fev1_percent": 102.6
+  },
+  {
+    "id": "PV-TEST-0718",
+    "lobe": "LLL",
+    "diameter_mm": 53.8,
+    "hu": -127,
+    "spiculation": 0.11,
+    "fev1_percent": 104.8
+  },
+  {
+    "id": "PV-TEST-0719",
+    "lobe": "LUL",
+    "diameter_mm": 61.6,
+    "hu": -251,
+    "spiculation": 0.15,
+    "fev1_percent": 91.7
+  },
+  {
+    "id": "PV-TEST-0720",
+    "lobe": "LUL",
+    "diameter_mm": 37.8,
+    "hu": -612,
+    "spiculation": 0.49,
+    "fev1_percent": 106.5
+  },
+  {
+    "id": "PV-TEST-0721",
+    "lobe": "LLL",
+    "diameter_mm": 39.1,
+    "hu": -556,
+    "spiculation": 0.37,
+    "fev1_percent": 44.8
+  },
+  {
+    "id": "PV-TEST-0722",
+    "lobe": "RLL",
+    "diameter_mm": 36.1,
+    "hu": -343,
+    "spiculation": 0.62,
+    "fev1_percent": 44.8
+  },
+  {
+    "id": "PV-TEST-0723",
+    "lobe": "RML",
+    "diameter_mm": 42.3,
+    "hu": -804,
+    "spiculation": 0.93,
+    "fev1_percent": 111.3
+  },
+  {
+    "id": "PV-TEST-0724",
+    "lobe": "LUL",
+    "diameter_mm": 20.5,
+    "hu": -41,
+    "spiculation": 0.4,
+    "fev1_percent": 117.5
+  },
+  {
+    "id": "PV-TEST-0725",
+    "lobe": "RLL",
+    "diameter_mm": 6.4,
+    "hu": -449,
+    "spiculation": 0.95,
+    "fev1_percent": 73.0
+  },
+  {
+    "id": "PV-TEST-0726",
+    "lobe": "RML",
+    "diameter_mm": 38.4,
+    "hu": -554,
+    "spiculation": 0.68,
+    "fev1_percent": 54.4
+  },
+  {
+    "id": "PV-TEST-0727",
+    "lobe": "LLL",
+    "diameter_mm": 68.7,
+    "hu": -137,
+    "spiculation": 0.48,
+    "fev1_percent": 118.7
+  },
+  {
+    "id": "PV-TEST-0728",
+    "lobe": "RUL",
+    "diameter_mm": 5.0,
+    "hu": -742,
+    "spiculation": 0.75,
+    "fev1_percent": 127.2
+  },
+  {
+    "id": "PV-TEST-0729",
+    "lobe": "RUL",
+    "diameter_mm": 22.0,
+    "hu": -110,
+    "spiculation": 0.69,
+    "fev1_percent": 71.9
+  },
+  {
+    "id": "PV-TEST-0730",
+    "lobe": "RLL",
+    "diameter_mm": 32.2,
+    "hu": -756,
+    "spiculation": 0.83,
+    "fev1_percent": 99.4
+  },
+  {
+    "id": "PV-TEST-0731",
+    "lobe": "LLL",
+    "diameter_mm": 34.4,
+    "hu": 79,
+    "spiculation": 0.78,
+    "fev1_percent": 78.2
+  },
+  {
+    "id": "PV-TEST-0732",
+    "lobe": "LUL",
+    "diameter_mm": 10.6,
+    "hu": 17,
+    "spiculation": 0.62,
+    "fev1_percent": 56.9
+  },
+  {
+    "id": "PV-TEST-0733",
+    "lobe": "RML",
+    "diameter_mm": 32.3,
+    "hu": 4,
+    "spiculation": 0.85,
+    "fev1_percent": 69.1
+  },
+  {
+    "id": "PV-TEST-0734",
+    "lobe": "LUL",
+    "diameter_mm": 14.1,
+    "hu": 23,
+    "spiculation": 0.42,
+    "fev1_percent": 103.7
+  },
+  {
+    "id": "PV-TEST-0735",
+    "lobe": "RLL",
+    "diameter_mm": 42.0,
+    "hu": -636,
+    "spiculation": 0.05,
+    "fev1_percent": 37.3
+  },
+  {
+    "id": "PV-TEST-0736",
+    "lobe": "RUL",
+    "diameter_mm": 62.9,
+    "hu": -763,
+    "spiculation": 0.2,
+    "fev1_percent": 88.8
+  },
+  {
+    "id": "PV-TEST-0737",
+    "lobe": "LUL",
+    "diameter_mm": 68.7,
+    "hu": -828,
+    "spiculation": 0.7,
+    "fev1_percent": 52.1
+  },
+  {
+    "id": "PV-TEST-0738",
+    "lobe": "RUL",
+    "diameter_mm": 50.0,
+    "hu": -577,
+    "spiculation": 0.11,
+    "fev1_percent": 51.7
+  },
+  {
+    "id": "PV-TEST-0739",
+    "lobe": "LUL",
+    "diameter_mm": 55.2,
+    "hu": -278,
+    "spiculation": 0.24,
+    "fev1_percent": 83.0
+  },
+  {
+    "id": "PV-TEST-0740",
+    "lobe": "LLL",
+    "diameter_mm": 57.8,
+    "hu": -695,
+    "spiculation": 0.45,
+    "fev1_percent": 129.8
+  },
+  {
+    "id": "PV-TEST-0741",
+    "lobe": "RML",
+    "diameter_mm": 55.3,
+    "hu": -821,
+    "spiculation": 0.88,
+    "fev1_percent": 77.0
+  },
+  {
+    "id": "PV-TEST-0742",
+    "lobe": "LLL",
+    "diameter_mm": 24.8,
+    "hu": -266,
+    "spiculation": 0.81,
+    "fev1_percent": 121.0
+  },
+  {
+    "id": "PV-TEST-0743",
+    "lobe": "LUL",
+    "diameter_mm": 51.2,
+    "hu": -208,
+    "spiculation": 0.69,
+    "fev1_percent": 53.8
+  },
+  {
+    "id": "PV-TEST-0744",
+    "lobe": "RUL",
+    "diameter_mm": 67.1,
+    "hu": -389,
+    "spiculation": 0.31,
+    "fev1_percent": 81.6
+  },
+  {
+    "id": "PV-TEST-0745",
+    "lobe": "LUL",
+    "diameter_mm": 28.8,
+    "hu": -221,
+    "spiculation": 0.08,
+    "fev1_percent": 110.9
+  },
+  {
+    "id": "PV-TEST-0746",
+    "lobe": "LUL",
+    "diameter_mm": 48.8,
+    "hu": -408,
+    "spiculation": 0.83,
+    "fev1_percent": 105.1
+  },
+  {
+    "id": "PV-TEST-0747",
+    "lobe": "RLL",
+    "diameter_mm": 53.4,
+    "hu": -502,
+    "spiculation": 0.09,
+    "fev1_percent": 83.6
+  },
+  {
+    "id": "PV-TEST-0748",
+    "lobe": "RUL",
+    "diameter_mm": 9.9,
+    "hu": -645,
+    "spiculation": 0.64,
+    "fev1_percent": 44.2
+  },
+  {
+    "id": "PV-TEST-0749",
+    "lobe": "RLL",
+    "diameter_mm": 33.6,
+    "hu": 70,
+    "spiculation": 0.75,
+    "fev1_percent": 64.1
+  },
+  {
+    "id": "PV-TEST-0750",
+    "lobe": "LUL",
+    "diameter_mm": 63.4,
+    "hu": -61,
+    "spiculation": 0.04,
+    "fev1_percent": 122.3
+  },
+  {
+    "id": "PV-TEST-0751",
+    "lobe": "LLL",
+    "diameter_mm": 68.0,
+    "hu": -752,
+    "spiculation": 0.75,
+    "fev1_percent": 51.7
+  },
+  {
+    "id": "PV-TEST-0752",
+    "lobe": "LLL",
+    "diameter_mm": 64.7,
+    "hu": -131,
+    "spiculation": 0.7,
+    "fev1_percent": 126.4
+  },
+  {
+    "id": "PV-TEST-0753",
+    "lobe": "RLL",
+    "diameter_mm": 37.7,
+    "hu": -815,
+    "spiculation": 0.24,
+    "fev1_percent": 99.6
+  },
+  {
+    "id": "PV-TEST-0754",
+    "lobe": "LLL",
+    "diameter_mm": 67.8,
+    "hu": -631,
+    "spiculation": 0.07,
+    "fev1_percent": 80.6
+  },
+  {
+    "id": "PV-TEST-0755",
+    "lobe": "LLL",
+    "diameter_mm": 66.7,
+    "hu": -503,
+    "spiculation": 0.12,
+    "fev1_percent": 53.2
+  },
+  {
+    "id": "PV-TEST-0756",
+    "lobe": "RUL",
+    "diameter_mm": 50.7,
+    "hu": -367,
+    "spiculation": 0.59,
+    "fev1_percent": 75.0
+  },
+  {
+    "id": "PV-TEST-0757",
+    "lobe": "RUL",
+    "diameter_mm": 40.3,
+    "hu": -641,
+    "spiculation": 0.72,
+    "fev1_percent": 75.9
+  },
+  {
+    "id": "PV-TEST-0758",
+    "lobe": "LLL",
+    "diameter_mm": 67.7,
+    "hu": -160,
+    "spiculation": 0.34,
+    "fev1_percent": 55.8
+  },
+  {
+    "id": "PV-TEST-0759",
+    "lobe": "LLL",
+    "diameter_mm": 21.5,
+    "hu": -811,
+    "spiculation": 1.0,
+    "fev1_percent": 106.2
+  },
+  {
+    "id": "PV-TEST-0760",
+    "lobe": "RUL",
+    "diameter_mm": 55.0,
+    "hu": 100,
+    "spiculation": 0.62,
+    "fev1_percent": 93.0
+  },
+  {
+    "id": "PV-TEST-0761",
+    "lobe": "RUL",
+    "diameter_mm": 33.8,
+    "hu": -715,
+    "spiculation": 0.45,
+    "fev1_percent": 51.8
+  },
+  {
+    "id": "PV-TEST-0762",
+    "lobe": "RLL",
+    "diameter_mm": 14.7,
+    "hu": -693,
+    "spiculation": 0.08,
+    "fev1_percent": 117.9
+  },
+  {
+    "id": "PV-TEST-0763",
+    "lobe": "RLL",
+    "diameter_mm": 54.6,
+    "hu": -376,
+    "spiculation": 0.81,
+    "fev1_percent": 126.5
+  },
+  {
+    "id": "PV-TEST-0764",
+    "lobe": "RLL",
+    "diameter_mm": 40.2,
+    "hu": -54,
+    "spiculation": 0.64,
+    "fev1_percent": 60.4
+  },
+  {
+    "id": "PV-TEST-0765",
+    "lobe": "LLL",
+    "diameter_mm": 42.3,
+    "hu": -829,
+    "spiculation": 0.68,
+    "fev1_percent": 120.0
+  },
+  {
+    "id": "PV-TEST-0766",
+    "lobe": "LLL",
+    "diameter_mm": 20.1,
+    "hu": 16,
+    "spiculation": 0.58,
+    "fev1_percent": 115.3
+  },
+  {
+    "id": "PV-TEST-0767",
+    "lobe": "LLL",
+    "diameter_mm": 63.7,
+    "hu": -38,
+    "spiculation": 0.59,
+    "fev1_percent": 50.3
+  },
+  {
+    "id": "PV-TEST-0768",
+    "lobe": "LUL",
+    "diameter_mm": 26.2,
+    "hu": -518,
+    "spiculation": 0.21,
+    "fev1_percent": 96.9
+  },
+  {
+    "id": "PV-TEST-0769",
+    "lobe": "RLL",
+    "diameter_mm": 24.3,
+    "hu": -62,
+    "spiculation": 0.2,
+    "fev1_percent": 81.0
+  },
+  {
+    "id": "PV-TEST-0770",
+    "lobe": "RML",
+    "diameter_mm": 61.8,
+    "hu": -128,
+    "spiculation": 0.72,
+    "fev1_percent": 51.7
+  },
+  {
+    "id": "PV-TEST-0771",
+    "lobe": "LLL",
+    "diameter_mm": 33.7,
+    "hu": -650,
+    "spiculation": 0.31,
+    "fev1_percent": 109.4
+  },
+  {
+    "id": "PV-TEST-0772",
+    "lobe": "RUL",
+    "diameter_mm": 33.2,
+    "hu": -688,
+    "spiculation": 1.0,
+    "fev1_percent": 106.5
+  },
+  {
+    "id": "PV-TEST-0773",
+    "lobe": "RLL",
+    "diameter_mm": 62.8,
+    "hu": -761,
+    "spiculation": 0.03,
+    "fev1_percent": 37.0
+  },
+  {
+    "id": "PV-TEST-0774",
+    "lobe": "RLL",
+    "diameter_mm": 20.8,
+    "hu": -698,
+    "spiculation": 0.31,
+    "fev1_percent": 63.7
+  },
+  {
+    "id": "PV-TEST-0775",
+    "lobe": "RLL",
+    "diameter_mm": 69.6,
+    "hu": -50,
+    "spiculation": 0.16,
+    "fev1_percent": 109.4
+  },
+  {
+    "id": "PV-TEST-0776",
+    "lobe": "RML",
+    "diameter_mm": 58.3,
+    "hu": -368,
+    "spiculation": 0.87,
+    "fev1_percent": 97.5
+  },
+  {
+    "id": "PV-TEST-0777",
+    "lobe": "RML",
+    "diameter_mm": 44.9,
+    "hu": -425,
+    "spiculation": 0.27,
+    "fev1_percent": 108.1
+  },
+  {
+    "id": "PV-TEST-0778",
+    "lobe": "RML",
+    "diameter_mm": 21.8,
+    "hu": -124,
+    "spiculation": 0.56,
+    "fev1_percent": 45.1
+  },
+  {
+    "id": "PV-TEST-0779",
+    "lobe": "RUL",
+    "diameter_mm": 31.1,
+    "hu": -258,
+    "spiculation": 0.09,
+    "fev1_percent": 75.1
+  },
+  {
+    "id": "PV-TEST-0780",
+    "lobe": "LUL",
+    "diameter_mm": 13.0,
+    "hu": -131,
+    "spiculation": 0.37,
+    "fev1_percent": 100.0
+  },
+  {
+    "id": "PV-TEST-0781",
+    "lobe": "RUL",
+    "diameter_mm": 42.0,
+    "hu": -463,
+    "spiculation": 0.72,
+    "fev1_percent": 119.2
+  },
+  {
+    "id": "PV-TEST-0782",
+    "lobe": "RUL",
+    "diameter_mm": 39.6,
+    "hu": 2,
+    "spiculation": 0.43,
+    "fev1_percent": 103.7
+  },
+  {
+    "id": "PV-TEST-0783",
+    "lobe": "RML",
+    "diameter_mm": 16.2,
+    "hu": -592,
+    "spiculation": 0.35,
+    "fev1_percent": 112.7
+  },
+  {
+    "id": "PV-TEST-0784",
+    "lobe": "RML",
+    "diameter_mm": 37.3,
+    "hu": -34,
+    "spiculation": 0.64,
+    "fev1_percent": 103.4
+  },
+  {
+    "id": "PV-TEST-0785",
+    "lobe": "LUL",
+    "diameter_mm": 23.0,
+    "hu": -806,
+    "spiculation": 0.08,
+    "fev1_percent": 116.2
+  },
+  {
+    "id": "PV-TEST-0786",
+    "lobe": "RLL",
+    "diameter_mm": 19.7,
+    "hu": -455,
+    "spiculation": 0.02,
+    "fev1_percent": 51.5
+  },
+  {
+    "id": "PV-TEST-0787",
+    "lobe": "LLL",
+    "diameter_mm": 40.1,
+    "hu": 16,
+    "spiculation": 0.86,
+    "fev1_percent": 38.8
+  },
+  {
+    "id": "PV-TEST-0788",
+    "lobe": "LLL",
+    "diameter_mm": 22.9,
+    "hu": -523,
+    "spiculation": 0.75,
+    "fev1_percent": 37.4
+  },
+  {
+    "id": "PV-TEST-0789",
+    "lobe": "RUL",
+    "diameter_mm": 59.9,
+    "hu": -452,
+    "spiculation": 0.89,
+    "fev1_percent": 91.8
+  },
+  {
+    "id": "PV-TEST-0790",
+    "lobe": "RLL",
+    "diameter_mm": 64.6,
+    "hu": -77,
+    "spiculation": 0.35,
+    "fev1_percent": 89.9
+  },
+  {
+    "id": "PV-TEST-0791",
+    "lobe": "RLL",
+    "diameter_mm": 51.8,
+    "hu": -836,
+    "spiculation": 0.67,
+    "fev1_percent": 70.6
+  },
+  {
+    "id": "PV-TEST-0792",
+    "lobe": "LUL",
+    "diameter_mm": 41.4,
+    "hu": -23,
+    "spiculation": 0.23,
+    "fev1_percent": 92.5
+  },
+  {
+    "id": "PV-TEST-0793",
+    "lobe": "RML",
+    "diameter_mm": 57.2,
+    "hu": 107,
+    "spiculation": 0.53,
+    "fev1_percent": 70.5
+  },
+  {
+    "id": "PV-TEST-0794",
+    "lobe": "RUL",
+    "diameter_mm": 38.1,
+    "hu": -151,
+    "spiculation": 0.39,
+    "fev1_percent": 71.1
+  },
+  {
+    "id": "PV-TEST-0795",
+    "lobe": "LLL",
+    "diameter_mm": 6.9,
+    "hu": -723,
+    "spiculation": 0.51,
+    "fev1_percent": 36.6
+  },
+  {
+    "id": "PV-TEST-0796",
+    "lobe": "LLL",
+    "diameter_mm": 61.1,
+    "hu": -423,
+    "spiculation": 0.51,
+    "fev1_percent": 85.5
+  },
+  {
+    "id": "PV-TEST-0797",
+    "lobe": "RUL",
+    "diameter_mm": 29.8,
+    "hu": -278,
+    "spiculation": 0.76,
+    "fev1_percent": 116.2
+  },
+  {
+    "id": "PV-TEST-0798",
+    "lobe": "RUL",
+    "diameter_mm": 35.5,
+    "hu": 41,
+    "spiculation": 0.5,
+    "fev1_percent": 62.8
+  },
+  {
+    "id": "PV-TEST-0799",
+    "lobe": "RUL",
+    "diameter_mm": 40.1,
+    "hu": -281,
+    "spiculation": 0.54,
+    "fev1_percent": 72.7
+  },
+  {
+    "id": "PV-TEST-0800",
+    "lobe": "RML",
+    "diameter_mm": 55.2,
+    "hu": -193,
+    "spiculation": 0.3,
+    "fev1_percent": 107.0
+  },
+  {
+    "id": "PV-TEST-0801",
+    "lobe": "RML",
+    "diameter_mm": 52.1,
+    "hu": -288,
+    "spiculation": 0.81,
+    "fev1_percent": 129.0
+  },
+  {
+    "id": "PV-TEST-0802",
+    "lobe": "LUL",
+    "diameter_mm": 15.0,
+    "hu": -633,
+    "spiculation": 0.23,
+    "fev1_percent": 80.6
+  },
+  {
+    "id": "PV-TEST-0803",
+    "lobe": "RUL",
+    "diameter_mm": 6.6,
+    "hu": -786,
+    "spiculation": 0.75,
+    "fev1_percent": 41.6
+  },
+  {
+    "id": "PV-TEST-0804",
+    "lobe": "RUL",
+    "diameter_mm": 11.3,
+    "hu": -513,
+    "spiculation": 0.5,
+    "fev1_percent": 96.7
+  },
+  {
+    "id": "PV-TEST-0805",
+    "lobe": "RML",
+    "diameter_mm": 51.6,
+    "hu": -380,
+    "spiculation": 0.79,
+    "fev1_percent": 80.6
+  },
+  {
+    "id": "PV-TEST-0806",
+    "lobe": "LLL",
+    "diameter_mm": 46.4,
+    "hu": -494,
+    "spiculation": 0.51,
+    "fev1_percent": 101.0
+  },
+  {
+    "id": "PV-TEST-0807",
+    "lobe": "LUL",
+    "diameter_mm": 28.9,
+    "hu": -530,
+    "spiculation": 0.58,
+    "fev1_percent": 39.8
+  },
+  {
+    "id": "PV-TEST-0808",
+    "lobe": "RLL",
+    "diameter_mm": 29.8,
+    "hu": -182,
+    "spiculation": 0.62,
+    "fev1_percent": 37.0
+  },
+  {
+    "id": "PV-TEST-0809",
+    "lobe": "RLL",
+    "diameter_mm": 19.5,
+    "hu": -134,
+    "spiculation": 0.74,
+    "fev1_percent": 50.5
+  },
+  {
+    "id": "PV-TEST-0810",
+    "lobe": "RLL",
+    "diameter_mm": 22.6,
+    "hu": -288,
+    "spiculation": 0.79,
+    "fev1_percent": 126.0
+  },
+  {
+    "id": "PV-TEST-0811",
+    "lobe": "LUL",
+    "diameter_mm": 29.8,
+    "hu": -456,
+    "spiculation": 0.25,
+    "fev1_percent": 45.1
+  },
+  {
+    "id": "PV-TEST-0812",
+    "lobe": "RUL",
+    "diameter_mm": 52.0,
+    "hu": -751,
+    "spiculation": 0.31,
+    "fev1_percent": 84.4
+  },
+  {
+    "id": "PV-TEST-0813",
+    "lobe": "LLL",
+    "diameter_mm": 20.7,
+    "hu": -182,
+    "spiculation": 0.12,
+    "fev1_percent": 88.6
+  },
+  {
+    "id": "PV-TEST-0814",
+    "lobe": "RUL",
+    "diameter_mm": 16.4,
+    "hu": -260,
+    "spiculation": 0.44,
+    "fev1_percent": 127.4
+  },
+  {
+    "id": "PV-TEST-0815",
+    "lobe": "LLL",
+    "diameter_mm": 58.4,
+    "hu": -812,
+    "spiculation": 0.32,
+    "fev1_percent": 42.2
+  },
+  {
+    "id": "PV-TEST-0816",
+    "lobe": "LLL",
+    "diameter_mm": 58.8,
+    "hu": -831,
+    "spiculation": 0.1,
+    "fev1_percent": 71.4
+  },
+  {
+    "id": "PV-TEST-0817",
+    "lobe": "RUL",
+    "diameter_mm": 18.1,
+    "hu": -715,
+    "spiculation": 0.19,
+    "fev1_percent": 49.1
+  },
+  {
+    "id": "PV-TEST-0818",
+    "lobe": "LUL",
+    "diameter_mm": 67.2,
+    "hu": 9,
+    "spiculation": 0.3,
+    "fev1_percent": 78.5
+  },
+  {
+    "id": "PV-TEST-0819",
+    "lobe": "RUL",
+    "diameter_mm": 33.6,
+    "hu": -263,
+    "spiculation": 0.9,
+    "fev1_percent": 99.3
+  },
+  {
+    "id": "PV-TEST-0820",
+    "lobe": "RLL",
+    "diameter_mm": 38.3,
+    "hu": -687,
+    "spiculation": 0.3,
+    "fev1_percent": 87.2
+  },
+  {
+    "id": "PV-TEST-0821",
+    "lobe": "RLL",
+    "diameter_mm": 13.9,
+    "hu": -84,
+    "spiculation": 0.59,
+    "fev1_percent": 96.9
+  },
+  {
+    "id": "PV-TEST-0822",
+    "lobe": "RLL",
+    "diameter_mm": 59.1,
+    "hu": -406,
+    "spiculation": 0.9,
+    "fev1_percent": 52.0
+  },
+  {
+    "id": "PV-TEST-0823",
+    "lobe": "RUL",
+    "diameter_mm": 59.1,
+    "hu": -35,
+    "spiculation": 0.04,
+    "fev1_percent": 117.2
+  },
+  {
+    "id": "PV-TEST-0824",
+    "lobe": "LLL",
+    "diameter_mm": 63.7,
+    "hu": -334,
+    "spiculation": 0.74,
+    "fev1_percent": 64.4
+  },
+  {
+    "id": "PV-TEST-0825",
+    "lobe": "RLL",
+    "diameter_mm": 20.6,
+    "hu": -536,
+    "spiculation": 0.59,
+    "fev1_percent": 81.2
+  },
+  {
+    "id": "PV-TEST-0826",
+    "lobe": "LLL",
+    "diameter_mm": 16.1,
+    "hu": -306,
+    "spiculation": 0.82,
+    "fev1_percent": 121.3
+  },
+  {
+    "id": "PV-TEST-0827",
+    "lobe": "RUL",
+    "diameter_mm": 43.0,
+    "hu": -575,
+    "spiculation": 0.5,
+    "fev1_percent": 36.8
+  },
+  {
+    "id": "PV-TEST-0828",
+    "lobe": "LLL",
+    "diameter_mm": 10.9,
+    "hu": 16,
+    "spiculation": 0.46,
+    "fev1_percent": 58.3
+  },
+  {
+    "id": "PV-TEST-0829",
+    "lobe": "LLL",
+    "diameter_mm": 20.3,
+    "hu": -362,
+    "spiculation": 0.8,
+    "fev1_percent": 75.0
+  },
+  {
+    "id": "PV-TEST-0830",
+    "lobe": "RLL",
+    "diameter_mm": 10.3,
+    "hu": -686,
+    "spiculation": 0.47,
+    "fev1_percent": 49.4
+  },
+  {
+    "id": "PV-TEST-0831",
+    "lobe": "LLL",
+    "diameter_mm": 23.3,
+    "hu": -513,
+    "spiculation": 0.96,
+    "fev1_percent": 119.4
+  },
+  {
+    "id": "PV-TEST-0832",
+    "lobe": "RLL",
+    "diameter_mm": 14.3,
+    "hu": -3,
+    "spiculation": 0.14,
+    "fev1_percent": 93.0
+  },
+  {
+    "id": "PV-TEST-0833",
+    "lobe": "RUL",
+    "diameter_mm": 8.4,
+    "hu": -254,
+    "spiculation": 0.68,
+    "fev1_percent": 50.3
+  },
+  {
+    "id": "PV-TEST-0834",
+    "lobe": "LUL",
+    "diameter_mm": 30.9,
+    "hu": -237,
+    "spiculation": 0.32,
+    "fev1_percent": 127.1
+  },
+  {
+    "id": "PV-TEST-0835",
+    "lobe": "LLL",
+    "diameter_mm": 12.6,
+    "hu": -669,
+    "spiculation": 0.01,
+    "fev1_percent": 67.1
+  },
+  {
+    "id": "PV-TEST-0836",
+    "lobe": "RLL",
+    "diameter_mm": 10.7,
+    "hu": -337,
+    "spiculation": 0.97,
+    "fev1_percent": 66.1
+  },
+  {
+    "id": "PV-TEST-0837",
+    "lobe": "RLL",
+    "diameter_mm": 6.9,
+    "hu": -141,
+    "spiculation": 0.82,
+    "fev1_percent": 96.3
+  },
+  {
+    "id": "PV-TEST-0838",
+    "lobe": "RML",
+    "diameter_mm": 51.4,
+    "hu": 120,
+    "spiculation": 0.86,
+    "fev1_percent": 41.9
+  },
+  {
+    "id": "PV-TEST-0839",
+    "lobe": "LUL",
+    "diameter_mm": 4.9,
+    "hu": -534,
+    "spiculation": 0.84,
+    "fev1_percent": 93.7
+  },
+  {
+    "id": "PV-TEST-0840",
+    "lobe": "LLL",
+    "diameter_mm": 12.2,
+    "hu": -434,
+    "spiculation": 0.18,
+    "fev1_percent": 97.3
+  },
+  {
+    "id": "PV-TEST-0841",
+    "lobe": "LUL",
+    "diameter_mm": 19.5,
+    "hu": -170,
+    "spiculation": 0.5,
+    "fev1_percent": 63.7
+  },
+  {
+    "id": "PV-TEST-0842",
+    "lobe": "LLL",
+    "diameter_mm": 29.2,
+    "hu": 52,
+    "spiculation": 0.33,
+    "fev1_percent": 129.3
+  },
+  {
+    "id": "PV-TEST-0843",
+    "lobe": "LLL",
+    "diameter_mm": 7.9,
+    "hu": -850,
+    "spiculation": 0.62,
+    "fev1_percent": 35.3
+  },
+  {
+    "id": "PV-TEST-0844",
+    "lobe": "LUL",
+    "diameter_mm": 45.5,
+    "hu": -33,
+    "spiculation": 0.49,
+    "fev1_percent": 107.3
+  },
+  {
+    "id": "PV-TEST-0845",
+    "lobe": "LUL",
+    "diameter_mm": 29.5,
+    "hu": -80,
+    "spiculation": 0.46,
+    "fev1_percent": 71.6
+  },
+  {
+    "id": "PV-TEST-0846",
+    "lobe": "LUL",
+    "diameter_mm": 63.2,
+    "hu": -131,
+    "spiculation": 0.72,
+    "fev1_percent": 40.7
+  },
+  {
+    "id": "PV-TEST-0847",
+    "lobe": "LLL",
+    "diameter_mm": 43.9,
+    "hu": -199,
+    "spiculation": 0.65,
+    "fev1_percent": 55.2
+  },
+  {
+    "id": "PV-TEST-0848",
+    "lobe": "RUL",
+    "diameter_mm": 49.2,
+    "hu": -471,
+    "spiculation": 0.94,
+    "fev1_percent": 40.7
+  },
+  {
+    "id": "PV-TEST-0849",
+    "lobe": "RML",
+    "diameter_mm": 11.1,
+    "hu": -91,
+    "spiculation": 0.53,
+    "fev1_percent": 44.3
+  },
+  {
+    "id": "PV-TEST-0850",
+    "lobe": "RLL",
+    "diameter_mm": 50.4,
+    "hu": -494,
+    "spiculation": 0.04,
+    "fev1_percent": 66.2
+  },
+  {
+    "id": "PV-TEST-0851",
+    "lobe": "RLL",
+    "diameter_mm": 34.9,
+    "hu": -263,
+    "spiculation": 0.66,
+    "fev1_percent": 50.2
+  },
+  {
+    "id": "PV-TEST-0852",
+    "lobe": "LUL",
+    "diameter_mm": 65.3,
+    "hu": 67,
+    "spiculation": 0.27,
+    "fev1_percent": 83.8
+  },
+  {
+    "id": "PV-TEST-0853",
+    "lobe": "RLL",
+    "diameter_mm": 53.1,
+    "hu": -512,
+    "spiculation": 0.91,
+    "fev1_percent": 71.3
+  },
+  {
+    "id": "PV-TEST-0854",
+    "lobe": "LLL",
+    "diameter_mm": 49.3,
+    "hu": -430,
+    "spiculation": 0.02,
+    "fev1_percent": 114.1
+  },
+  {
+    "id": "PV-TEST-0855",
+    "lobe": "RLL",
+    "diameter_mm": 58.9,
+    "hu": -195,
+    "spiculation": 0.67,
+    "fev1_percent": 112.7
+  },
+  {
+    "id": "PV-TEST-0856",
+    "lobe": "RML",
+    "diameter_mm": 62.2,
+    "hu": -7,
+    "spiculation": 0.26,
+    "fev1_percent": 103.1
+  },
+  {
+    "id": "PV-TEST-0857",
+    "lobe": "RML",
+    "diameter_mm": 32.2,
+    "hu": 22,
+    "spiculation": 0.41,
+    "fev1_percent": 98.5
+  },
+  {
+    "id": "PV-TEST-0858",
+    "lobe": "RLL",
+    "diameter_mm": 61.9,
+    "hu": -758,
+    "spiculation": 0.87,
+    "fev1_percent": 120.4
+  },
+  {
+    "id": "PV-TEST-0859",
+    "lobe": "RUL",
+    "diameter_mm": 66.5,
+    "hu": -440,
+    "spiculation": 0.38,
+    "fev1_percent": 68.4
+  },
+  {
+    "id": "PV-TEST-0860",
+    "lobe": "LLL",
+    "diameter_mm": 29.7,
+    "hu": -656,
+    "spiculation": 0.66,
+    "fev1_percent": 129.7
+  },
+  {
+    "id": "PV-TEST-0861",
+    "lobe": "RML",
+    "diameter_mm": 40.9,
+    "hu": 36,
+    "spiculation": 0.59,
+    "fev1_percent": 116.4
+  },
+  {
+    "id": "PV-TEST-0862",
+    "lobe": "RUL",
+    "diameter_mm": 13.1,
+    "hu": -799,
+    "spiculation": 0.74,
+    "fev1_percent": 112.6
+  },
+  {
+    "id": "PV-TEST-0863",
+    "lobe": "LUL",
+    "diameter_mm": 33.3,
+    "hu": 67,
+    "spiculation": 0.45,
+    "fev1_percent": 59.0
+  },
+  {
+    "id": "PV-TEST-0864",
+    "lobe": "RML",
+    "diameter_mm": 22.0,
+    "hu": -247,
+    "spiculation": 0.65,
+    "fev1_percent": 121.4
+  },
+  {
+    "id": "PV-TEST-0865",
+    "lobe": "LLL",
+    "diameter_mm": 62.9,
+    "hu": -646,
+    "spiculation": 0.27,
+    "fev1_percent": 118.3
+  },
+  {
+    "id": "PV-TEST-0866",
+    "lobe": "LUL",
+    "diameter_mm": 31.4,
+    "hu": -609,
+    "spiculation": 0.69,
+    "fev1_percent": 63.5
+  },
+  {
+    "id": "PV-TEST-0867",
+    "lobe": "RUL",
+    "diameter_mm": 35.7,
+    "hu": -381,
+    "spiculation": 0.27,
+    "fev1_percent": 93.6
+  },
+  {
+    "id": "PV-TEST-0868",
+    "lobe": "RLL",
+    "diameter_mm": 13.3,
+    "hu": -258,
+    "spiculation": 0.26,
+    "fev1_percent": 62.1
+  },
+  {
+    "id": "PV-TEST-0869",
+    "lobe": "LLL",
+    "diameter_mm": 25.2,
+    "hu": -465,
+    "spiculation": 0.6,
+    "fev1_percent": 89.9
+  },
+  {
+    "id": "PV-TEST-0870",
+    "lobe": "LUL",
+    "diameter_mm": 12.1,
+    "hu": -274,
+    "spiculation": 0.64,
+    "fev1_percent": 81.9
+  },
+  {
+    "id": "PV-TEST-0871",
+    "lobe": "LLL",
+    "diameter_mm": 62.4,
+    "hu": -307,
+    "spiculation": 0.01,
+    "fev1_percent": 60.8
+  },
+  {
+    "id": "PV-TEST-0872",
+    "lobe": "RUL",
+    "diameter_mm": 64.1,
+    "hu": -471,
+    "spiculation": 0.12,
+    "fev1_percent": 128.3
+  },
+  {
+    "id": "PV-TEST-0873",
+    "lobe": "LUL",
+    "diameter_mm": 32.2,
+    "hu": 98,
+    "spiculation": 0.96,
+    "fev1_percent": 103.0
+  },
+  {
+    "id": "PV-TEST-0874",
+    "lobe": "RML",
+    "diameter_mm": 46.6,
+    "hu": -386,
+    "spiculation": 0.01,
+    "fev1_percent": 79.7
+  },
+  {
+    "id": "PV-TEST-0875",
+    "lobe": "RLL",
+    "diameter_mm": 56.6,
+    "hu": -35,
+    "spiculation": 0.74,
+    "fev1_percent": 99.3
+  },
+  {
+    "id": "PV-TEST-0876",
+    "lobe": "RML",
+    "diameter_mm": 66.5,
+    "hu": -518,
+    "spiculation": 0.59,
+    "fev1_percent": 124.2
+  },
+  {
+    "id": "PV-TEST-0877",
+    "lobe": "RLL",
+    "diameter_mm": 62.3,
+    "hu": -12,
+    "spiculation": 0.74,
+    "fev1_percent": 55.3
+  },
+  {
+    "id": "PV-TEST-0878",
+    "lobe": "RLL",
+    "diameter_mm": 7.1,
+    "hu": -648,
+    "spiculation": 0.37,
+    "fev1_percent": 104.8
+  },
+  {
+    "id": "PV-TEST-0879",
+    "lobe": "LLL",
+    "diameter_mm": 6.6,
+    "hu": -712,
+    "spiculation": 0.73,
+    "fev1_percent": 43.2
+  },
+  {
+    "id": "PV-TEST-0880",
+    "lobe": "RUL",
+    "diameter_mm": 65.6,
+    "hu": 93,
+    "spiculation": 0.37,
+    "fev1_percent": 91.1
+  },
+  {
+    "id": "PV-TEST-0881",
+    "lobe": "LLL",
+    "diameter_mm": 38.6,
+    "hu": -510,
+    "spiculation": 0.93,
+    "fev1_percent": 103.3
+  },
+  {
+    "id": "PV-TEST-0882",
+    "lobe": "RLL",
+    "diameter_mm": 21.8,
+    "hu": -669,
+    "spiculation": 0.27,
+    "fev1_percent": 103.2
+  },
+  {
+    "id": "PV-TEST-0883",
+    "lobe": "RLL",
+    "diameter_mm": 23.5,
+    "hu": -51,
+    "spiculation": 0.45,
+    "fev1_percent": 91.5
+  },
+  {
+    "id": "PV-TEST-0884",
+    "lobe": "RML",
+    "diameter_mm": 47.8,
+    "hu": -526,
+    "spiculation": 0.97,
+    "fev1_percent": 95.7
+  },
+  {
+    "id": "PV-TEST-0885",
+    "lobe": "LLL",
+    "diameter_mm": 23.6,
+    "hu": -458,
+    "spiculation": 0.52,
+    "fev1_percent": 43.0
+  },
+  {
+    "id": "PV-TEST-0886",
+    "lobe": "LLL",
+    "diameter_mm": 27.7,
+    "hu": -279,
+    "spiculation": 0.9,
+    "fev1_percent": 118.3
+  },
+  {
+    "id": "PV-TEST-0887",
+    "lobe": "LUL",
+    "diameter_mm": 21.9,
+    "hu": -30,
+    "spiculation": 0.34,
+    "fev1_percent": 112.4
+  },
+  {
+    "id": "PV-TEST-0888",
+    "lobe": "RLL",
+    "diameter_mm": 35.2,
+    "hu": -361,
+    "spiculation": 0.65,
+    "fev1_percent": 89.1
+  },
+  {
+    "id": "PV-TEST-0889",
+    "lobe": "LUL",
+    "diameter_mm": 24.1,
+    "hu": -87,
+    "spiculation": 0.79,
+    "fev1_percent": 90.8
+  },
+  {
+    "id": "PV-TEST-0890",
+    "lobe": "RUL",
+    "diameter_mm": 20.9,
+    "hu": -641,
+    "spiculation": 0.24,
+    "fev1_percent": 77.4
+  },
+  {
+    "id": "PV-TEST-0891",
+    "lobe": "LUL",
+    "diameter_mm": 23.8,
+    "hu": -483,
+    "spiculation": 0.14,
+    "fev1_percent": 51.1
+  },
+  {
+    "id": "PV-TEST-0892",
+    "lobe": "RLL",
+    "diameter_mm": 52.8,
+    "hu": 43,
+    "spiculation": 0.28,
+    "fev1_percent": 88.8
+  },
+  {
+    "id": "PV-TEST-0893",
+    "lobe": "RML",
+    "diameter_mm": 24.4,
+    "hu": -284,
+    "spiculation": 0.59,
+    "fev1_percent": 94.7
+  },
+  {
+    "id": "PV-TEST-0894",
+    "lobe": "RML",
+    "diameter_mm": 12.3,
+    "hu": -535,
+    "spiculation": 0.27,
+    "fev1_percent": 104.8
+  },
+  {
+    "id": "PV-TEST-0895",
+    "lobe": "LUL",
+    "diameter_mm": 28.8,
+    "hu": -758,
+    "spiculation": 0.46,
+    "fev1_percent": 99.6
+  },
+  {
+    "id": "PV-TEST-0896",
+    "lobe": "RLL",
+    "diameter_mm": 54.3,
+    "hu": -136,
+    "spiculation": 0.74,
+    "fev1_percent": 73.7
+  },
+  {
+    "id": "PV-TEST-0897",
+    "lobe": "RML",
+    "diameter_mm": 60.0,
+    "hu": -776,
+    "spiculation": 0.91,
+    "fev1_percent": 48.3
+  },
+  {
+    "id": "PV-TEST-0898",
+    "lobe": "LLL",
+    "diameter_mm": 6.1,
+    "hu": -718,
+    "spiculation": 0.18,
+    "fev1_percent": 77.9
+  },
+  {
+    "id": "PV-TEST-0899",
+    "lobe": "RUL",
+    "diameter_mm": 54.5,
+    "hu": -776,
+    "spiculation": 0.1,
+    "fev1_percent": 71.9
+  },
+  {
+    "id": "PV-TEST-0900",
+    "lobe": "RLL",
+    "diameter_mm": 6.3,
+    "hu": -120,
+    "spiculation": 0.67,
+    "fev1_percent": 113.4
+  },
+  {
+    "id": "PV-TEST-0901",
+    "lobe": "LLL",
+    "diameter_mm": 18.5,
+    "hu": -272,
+    "spiculation": 0.27,
+    "fev1_percent": 74.9
+  },
+  {
+    "id": "PV-TEST-0902",
+    "lobe": "RML",
+    "diameter_mm": 60.9,
+    "hu": -20,
+    "spiculation": 0.62,
+    "fev1_percent": 76.3
+  },
+  {
+    "id": "PV-TEST-0903",
+    "lobe": "LLL",
+    "diameter_mm": 14.8,
+    "hu": -313,
+    "spiculation": 0.97,
+    "fev1_percent": 60.7
+  },
+  {
+    "id": "PV-TEST-0904",
+    "lobe": "RLL",
+    "diameter_mm": 42.4,
+    "hu": -694,
+    "spiculation": 0.54,
+    "fev1_percent": 42.4
+  },
+  {
+    "id": "PV-TEST-0905",
+    "lobe": "LLL",
+    "diameter_mm": 58.5,
+    "hu": -113,
+    "spiculation": 0.98,
+    "fev1_percent": 124.9
+  },
+  {
+    "id": "PV-TEST-0906",
+    "lobe": "RLL",
+    "diameter_mm": 50.8,
+    "hu": -555,
+    "spiculation": 0.89,
+    "fev1_percent": 47.7
+  },
+  {
+    "id": "PV-TEST-0907",
+    "lobe": "LUL",
+    "diameter_mm": 66.6,
+    "hu": 31,
+    "spiculation": 0.55,
+    "fev1_percent": 38.6
+  },
+  {
+    "id": "PV-TEST-0908",
+    "lobe": "LUL",
+    "diameter_mm": 65.5,
+    "hu": 25,
+    "spiculation": 0.04,
+    "fev1_percent": 79.1
+  },
+  {
+    "id": "PV-TEST-0909",
+    "lobe": "RUL",
+    "diameter_mm": 36.9,
+    "hu": -143,
+    "spiculation": 0.62,
+    "fev1_percent": 128.7
+  },
+  {
+    "id": "PV-TEST-0910",
+    "lobe": "RUL",
+    "diameter_mm": 67.3,
+    "hu": -334,
+    "spiculation": 0.48,
+    "fev1_percent": 73.9
+  },
+  {
+    "id": "PV-TEST-0911",
+    "lobe": "RML",
+    "diameter_mm": 39.2,
+    "hu": -657,
+    "spiculation": 0.23,
+    "fev1_percent": 104.4
+  },
+  {
+    "id": "PV-TEST-0912",
+    "lobe": "RLL",
+    "diameter_mm": 51.0,
+    "hu": 88,
+    "spiculation": 0.33,
+    "fev1_percent": 82.0
+  },
+  {
+    "id": "PV-TEST-0913",
+    "lobe": "RML",
+    "diameter_mm": 15.0,
+    "hu": -33,
+    "spiculation": 0.74,
+    "fev1_percent": 38.5
+  },
+  {
+    "id": "PV-TEST-0914",
+    "lobe": "RUL",
+    "diameter_mm": 21.1,
+    "hu": -47,
+    "spiculation": 0.68,
+    "fev1_percent": 86.8
+  },
+  {
+    "id": "PV-TEST-0915",
+    "lobe": "RLL",
+    "diameter_mm": 15.6,
+    "hu": 81,
+    "spiculation": 0.56,
+    "fev1_percent": 78.9
+  },
+  {
+    "id": "PV-TEST-0916",
+    "lobe": "RUL",
+    "diameter_mm": 10.9,
+    "hu": -49,
+    "spiculation": 0.75,
+    "fev1_percent": 105.7
+  },
+  {
+    "id": "PV-TEST-0917",
+    "lobe": "RUL",
+    "diameter_mm": 10.7,
+    "hu": -493,
+    "spiculation": 0.42,
+    "fev1_percent": 102.6
+  },
+  {
+    "id": "PV-TEST-0918",
+    "lobe": "RUL",
+    "diameter_mm": 47.6,
+    "hu": -612,
+    "spiculation": 0.99,
+    "fev1_percent": 66.1
+  },
+  {
+    "id": "PV-TEST-0919",
+    "lobe": "RUL",
+    "diameter_mm": 23.2,
+    "hu": -365,
+    "spiculation": 0.41,
+    "fev1_percent": 106.9
+  },
+  {
+    "id": "PV-TEST-0920",
+    "lobe": "RML",
+    "diameter_mm": 51.0,
+    "hu": -818,
+    "spiculation": 0.53,
+    "fev1_percent": 83.0
+  },
+  {
+    "id": "PV-TEST-0921",
+    "lobe": "RLL",
+    "diameter_mm": 16.8,
+    "hu": -668,
+    "spiculation": 0.16,
+    "fev1_percent": 102.1
+  },
+  {
+    "id": "PV-TEST-0922",
+    "lobe": "RUL",
+    "diameter_mm": 57.0,
+    "hu": -602,
+    "spiculation": 0.09,
+    "fev1_percent": 54.4
+  },
+  {
+    "id": "PV-TEST-0923",
+    "lobe": "LLL",
+    "diameter_mm": 52.7,
+    "hu": 52,
+    "spiculation": 0.37,
+    "fev1_percent": 49.9
+  },
+  {
+    "id": "PV-TEST-0924",
+    "lobe": "LUL",
+    "diameter_mm": 31.4,
+    "hu": -807,
+    "spiculation": 0.33,
+    "fev1_percent": 76.8
+  },
+  {
+    "id": "PV-TEST-0925",
+    "lobe": "LLL",
+    "diameter_mm": 29.5,
+    "hu": -283,
+    "spiculation": 0.74,
+    "fev1_percent": 115.9
+  },
+  {
+    "id": "PV-TEST-0926",
+    "lobe": "LLL",
+    "diameter_mm": 15.4,
+    "hu": -361,
+    "spiculation": 0.66,
+    "fev1_percent": 41.4
+  },
+  {
+    "id": "PV-TEST-0927",
+    "lobe": "LLL",
+    "diameter_mm": 33.5,
+    "hu": -32,
+    "spiculation": 0.41,
+    "fev1_percent": 40.2
+  },
+  {
+    "id": "PV-TEST-0928",
+    "lobe": "RUL",
+    "diameter_mm": 28.8,
+    "hu": -242,
+    "spiculation": 0.76,
+    "fev1_percent": 95.3
+  },
+  {
+    "id": "PV-TEST-0929",
+    "lobe": "LUL",
+    "diameter_mm": 7.9,
+    "hu": 41,
+    "spiculation": 0.42,
+    "fev1_percent": 114.0
+  },
+  {
+    "id": "PV-TEST-0930",
+    "lobe": "LUL",
+    "diameter_mm": 36.6,
+    "hu": 118,
+    "spiculation": 0.7,
+    "fev1_percent": 123.5
+  },
+  {
+    "id": "PV-TEST-0931",
+    "lobe": "LUL",
+    "diameter_mm": 26.5,
+    "hu": -680,
+    "spiculation": 0.3,
+    "fev1_percent": 68.9
+  },
+  {
+    "id": "PV-TEST-0932",
+    "lobe": "RLL",
+    "diameter_mm": 60.4,
+    "hu": -486,
+    "spiculation": 0.91,
+    "fev1_percent": 95.2
+  },
+  {
+    "id": "PV-TEST-0933",
+    "lobe": "RUL",
+    "diameter_mm": 50.3,
+    "hu": -552,
+    "spiculation": 0.18,
+    "fev1_percent": 50.5
+  },
+  {
+    "id": "PV-TEST-0934",
+    "lobe": "LLL",
+    "diameter_mm": 10.6,
+    "hu": -424,
+    "spiculation": 0.73,
+    "fev1_percent": 91.3
+  },
+  {
+    "id": "PV-TEST-0935",
+    "lobe": "RML",
+    "diameter_mm": 10.9,
+    "hu": -720,
+    "spiculation": 0.99,
+    "fev1_percent": 63.4
+  },
+  {
+    "id": "PV-TEST-0936",
+    "lobe": "LUL",
+    "diameter_mm": 60.4,
+    "hu": -533,
+    "spiculation": 0.68,
+    "fev1_percent": 44.9
+  },
+  {
+    "id": "PV-TEST-0937",
+    "lobe": "LUL",
+    "diameter_mm": 47.7,
+    "hu": -387,
+    "spiculation": 0.3,
+    "fev1_percent": 119.5
+  },
+  {
+    "id": "PV-TEST-0938",
+    "lobe": "LUL",
+    "diameter_mm": 39.7,
+    "hu": -406,
+    "spiculation": 0.76,
+    "fev1_percent": 97.1
+  },
+  {
+    "id": "PV-TEST-0939",
+    "lobe": "LUL",
+    "diameter_mm": 29.1,
+    "hu": -251,
+    "spiculation": 0.79,
+    "fev1_percent": 105.3
+  },
+  {
+    "id": "PV-TEST-0940",
+    "lobe": "RML",
+    "diameter_mm": 46.8,
+    "hu": 104,
+    "spiculation": 0.33,
+    "fev1_percent": 39.6
+  },
+  {
+    "id": "PV-TEST-0941",
+    "lobe": "LUL",
+    "diameter_mm": 11.4,
+    "hu": -11,
+    "spiculation": 0.54,
+    "fev1_percent": 46.9
+  },
+  {
+    "id": "PV-TEST-0942",
+    "lobe": "RML",
+    "diameter_mm": 62.4,
+    "hu": -258,
+    "spiculation": 0.87,
+    "fev1_percent": 76.8
+  },
+  {
+    "id": "PV-TEST-0943",
+    "lobe": "RML",
+    "diameter_mm": 32.0,
+    "hu": 114,
+    "spiculation": 0.33,
+    "fev1_percent": 46.4
+  },
+  {
+    "id": "PV-TEST-0944",
+    "lobe": "RUL",
+    "diameter_mm": 58.6,
+    "hu": -138,
+    "spiculation": 0.65,
+    "fev1_percent": 37.5
+  },
+  {
+    "id": "PV-TEST-0945",
+    "lobe": "RML",
+    "diameter_mm": 5.1,
+    "hu": -190,
+    "spiculation": 0.32,
+    "fev1_percent": 101.7
+  },
+  {
+    "id": "PV-TEST-0946",
+    "lobe": "LUL",
+    "diameter_mm": 44.7,
+    "hu": -616,
+    "spiculation": 0.39,
+    "fev1_percent": 64.6
+  },
+  {
+    "id": "PV-TEST-0947",
+    "lobe": "RLL",
+    "diameter_mm": 27.1,
+    "hu": -45,
+    "spiculation": 0.5,
+    "fev1_percent": 82.8
+  },
+  {
+    "id": "PV-TEST-0948",
+    "lobe": "LUL",
+    "diameter_mm": 55.7,
+    "hu": -290,
+    "spiculation": 0.52,
+    "fev1_percent": 74.8
+  },
+  {
+    "id": "PV-TEST-0949",
+    "lobe": "RUL",
+    "diameter_mm": 57.9,
+    "hu": 14,
+    "spiculation": 0.77,
+    "fev1_percent": 42.0
+  },
+  {
+    "id": "PV-TEST-0950",
+    "lobe": "RLL",
+    "diameter_mm": 57.4,
+    "hu": -10,
+    "spiculation": 0.23,
+    "fev1_percent": 68.8
+  },
+  {
+    "id": "PV-TEST-0951",
+    "lobe": "RML",
+    "diameter_mm": 33.8,
+    "hu": -278,
+    "spiculation": 0.73,
+    "fev1_percent": 55.7
+  },
+  {
+    "id": "PV-TEST-0952",
+    "lobe": "LLL",
+    "diameter_mm": 14.1,
+    "hu": 39,
+    "spiculation": 0.47,
+    "fev1_percent": 52.6
+  },
+  {
+    "id": "PV-TEST-0953",
+    "lobe": "RML",
+    "diameter_mm": 41.2,
+    "hu": -635,
+    "spiculation": 0.08,
+    "fev1_percent": 50.5
+  },
+  {
+    "id": "PV-TEST-0954",
+    "lobe": "RUL",
+    "diameter_mm": 39.8,
+    "hu": -233,
+    "spiculation": 0.46,
+    "fev1_percent": 107.3
+  },
+  {
+    "id": "PV-TEST-0955",
+    "lobe": "RLL",
+    "diameter_mm": 15.1,
+    "hu": -829,
+    "spiculation": 0.49,
+    "fev1_percent": 38.8
+  },
+  {
+    "id": "PV-TEST-0956",
+    "lobe": "RML",
+    "diameter_mm": 40.4,
+    "hu": -825,
+    "spiculation": 0.22,
+    "fev1_percent": 71.7
+  },
+  {
+    "id": "PV-TEST-0957",
+    "lobe": "RLL",
+    "diameter_mm": 11.8,
+    "hu": -585,
+    "spiculation": 0.59,
+    "fev1_percent": 87.4
+  },
+  {
+    "id": "PV-TEST-0958",
+    "lobe": "LLL",
+    "diameter_mm": 50.7,
+    "hu": -625,
+    "spiculation": 0.65,
+    "fev1_percent": 119.3
+  },
+  {
+    "id": "PV-TEST-0959",
+    "lobe": "LLL",
+    "diameter_mm": 60.3,
+    "hu": -122,
+    "spiculation": 0.55,
+    "fev1_percent": 87.1
+  },
+  {
+    "id": "PV-TEST-0960",
+    "lobe": "RLL",
+    "diameter_mm": 42.6,
+    "hu": -341,
+    "spiculation": 0.01,
+    "fev1_percent": 36.3
+  },
+  {
+    "id": "PV-TEST-0961",
+    "lobe": "LLL",
+    "diameter_mm": 61.7,
+    "hu": -653,
+    "spiculation": 0.78,
+    "fev1_percent": 66.5
+  },
+  {
+    "id": "PV-TEST-0962",
+    "lobe": "RLL",
+    "diameter_mm": 35.6,
+    "hu": -743,
+    "spiculation": 0.12,
+    "fev1_percent": 83.5
+  },
+  {
+    "id": "PV-TEST-0963",
+    "lobe": "RUL",
+    "diameter_mm": 50.6,
+    "hu": -821,
+    "spiculation": 0.79,
+    "fev1_percent": 61.4
+  },
+  {
+    "id": "PV-TEST-0964",
+    "lobe": "LLL",
+    "diameter_mm": 36.4,
+    "hu": -399,
+    "spiculation": 0.49,
+    "fev1_percent": 119.2
+  },
+  {
+    "id": "PV-TEST-0965",
+    "lobe": "LUL",
+    "diameter_mm": 69.5,
+    "hu": -572,
+    "spiculation": 0.77,
+    "fev1_percent": 87.1
+  },
+  {
+    "id": "PV-TEST-0966",
+    "lobe": "LUL",
+    "diameter_mm": 43.5,
+    "hu": -67,
+    "spiculation": 0.23,
+    "fev1_percent": 107.9
+  },
+  {
+    "id": "PV-TEST-0967",
+    "lobe": "LUL",
+    "diameter_mm": 30.0,
+    "hu": -324,
+    "spiculation": 0.47,
+    "fev1_percent": 91.4
+  },
+  {
+    "id": "PV-TEST-0968",
+    "lobe": "RLL",
+    "diameter_mm": 51.3,
+    "hu": 35,
+    "spiculation": 0.32,
+    "fev1_percent": 68.6
+  },
+  {
+    "id": "PV-TEST-0969",
+    "lobe": "LUL",
+    "diameter_mm": 48.1,
+    "hu": -160,
+    "spiculation": 0.86,
+    "fev1_percent": 123.0
+  },
+  {
+    "id": "PV-TEST-0970",
+    "lobe": "LLL",
+    "diameter_mm": 23.6,
+    "hu": 53,
+    "spiculation": 0.4,
+    "fev1_percent": 39.8
+  },
+  {
+    "id": "PV-TEST-0971",
+    "lobe": "LUL",
+    "diameter_mm": 32.2,
+    "hu": -584,
+    "spiculation": 0.85,
+    "fev1_percent": 78.2
+  },
+  {
+    "id": "PV-TEST-0972",
+    "lobe": "RML",
+    "diameter_mm": 17.5,
+    "hu": -785,
+    "spiculation": 0.61,
+    "fev1_percent": 106.5
+  },
+  {
+    "id": "PV-TEST-0973",
+    "lobe": "RLL",
+    "diameter_mm": 24.8,
+    "hu": -642,
+    "spiculation": 0.08,
+    "fev1_percent": 64.9
+  },
+  {
+    "id": "PV-TEST-0974",
+    "lobe": "RML",
+    "diameter_mm": 42.1,
+    "hu": -221,
+    "spiculation": 0.9,
+    "fev1_percent": 94.0
+  },
+  {
+    "id": "PV-TEST-0975",
+    "lobe": "LLL",
+    "diameter_mm": 38.6,
+    "hu": -365,
+    "spiculation": 0.3,
+    "fev1_percent": 59.4
+  },
+  {
+    "id": "PV-TEST-0976",
+    "lobe": "RUL",
+    "diameter_mm": 21.8,
+    "hu": -169,
+    "spiculation": 0.23,
+    "fev1_percent": 116.2
+  },
+  {
+    "id": "PV-TEST-0977",
+    "lobe": "RUL",
+    "diameter_mm": 43.9,
+    "hu": -682,
+    "spiculation": 0.85,
+    "fev1_percent": 109.6
+  },
+  {
+    "id": "PV-TEST-0978",
+    "lobe": "LUL",
+    "diameter_mm": 51.0,
+    "hu": -194,
+    "spiculation": 0.1,
+    "fev1_percent": 106.1
+  },
+  {
+    "id": "PV-TEST-0979",
+    "lobe": "LUL",
+    "diameter_mm": 30.2,
+    "hu": -602,
+    "spiculation": 0.91,
+    "fev1_percent": 95.3
+  },
+  {
+    "id": "PV-TEST-0980",
+    "lobe": "LLL",
+    "diameter_mm": 40.9,
+    "hu": 110,
+    "spiculation": 0.93,
+    "fev1_percent": 89.3
+  },
+  {
+    "id": "PV-TEST-0981",
+    "lobe": "LUL",
+    "diameter_mm": 19.4,
+    "hu": 89,
+    "spiculation": 0.04,
+    "fev1_percent": 37.8
+  },
+  {
+    "id": "PV-TEST-0982",
+    "lobe": "RUL",
+    "diameter_mm": 6.3,
+    "hu": -208,
+    "spiculation": 0.98,
+    "fev1_percent": 37.5
+  },
+  {
+    "id": "PV-TEST-0983",
+    "lobe": "RML",
+    "diameter_mm": 17.8,
+    "hu": -780,
+    "spiculation": 0.1,
+    "fev1_percent": 72.8
+  },
+  {
+    "id": "PV-TEST-0984",
+    "lobe": "RLL",
+    "diameter_mm": 19.1,
+    "hu": -564,
+    "spiculation": 0.53,
+    "fev1_percent": 43.1
+  },
+  {
+    "id": "PV-TEST-0985",
+    "lobe": "RLL",
+    "diameter_mm": 27.8,
+    "hu": 44,
+    "spiculation": 0.54,
+    "fev1_percent": 42.5
+  },
+  {
+    "id": "PV-TEST-0986",
+    "lobe": "RML",
+    "diameter_mm": 63.6,
+    "hu": -701,
+    "spiculation": 0.16,
+    "fev1_percent": 76.2
+  },
+  {
+    "id": "PV-TEST-0987",
+    "lobe": "RML",
+    "diameter_mm": 11.0,
+    "hu": -787,
+    "spiculation": 0.43,
+    "fev1_percent": 107.1
+  },
+  {
+    "id": "PV-TEST-0988",
+    "lobe": "RUL",
+    "diameter_mm": 61.9,
+    "hu": 61,
+    "spiculation": 0.33,
+    "fev1_percent": 69.4
+  },
+  {
+    "id": "PV-TEST-0989",
+    "lobe": "LUL",
+    "diameter_mm": 53.0,
+    "hu": -794,
+    "spiculation": 0.77,
+    "fev1_percent": 85.0
+  },
+  {
+    "id": "PV-TEST-0990",
+    "lobe": "LLL",
+    "diameter_mm": 37.7,
+    "hu": -276,
+    "spiculation": 0.48,
+    "fev1_percent": 80.5
+  },
+  {
+    "id": "PV-TEST-0991",
+    "lobe": "RLL",
+    "diameter_mm": 67.8,
+    "hu": -27,
+    "spiculation": 0.13,
+    "fev1_percent": 71.5
+  },
+  {
+    "id": "PV-TEST-0992",
+    "lobe": "RML",
+    "diameter_mm": 20.4,
+    "hu": -817,
+    "spiculation": 0.71,
+    "fev1_percent": 110.5
+  },
+  {
+    "id": "PV-TEST-0993",
+    "lobe": "RUL",
+    "diameter_mm": 59.4,
+    "hu": -847,
+    "spiculation": 0.83,
+    "fev1_percent": 52.4
+  },
+  {
+    "id": "PV-TEST-0994",
+    "lobe": "RML",
+    "diameter_mm": 67.6,
+    "hu": -472,
+    "spiculation": 0.83,
+    "fev1_percent": 81.2
+  },
+  {
+    "id": "PV-TEST-0995",
+    "lobe": "RUL",
+    "diameter_mm": 26.0,
+    "hu": -28,
+    "spiculation": 0.05,
+    "fev1_percent": 88.4
+  },
+  {
+    "id": "PV-TEST-0996",
+    "lobe": "RML",
+    "diameter_mm": 34.0,
+    "hu": -767,
+    "spiculation": 0.92,
+    "fev1_percent": 123.7
+  },
+  {
+    "id": "PV-TEST-0997",
+    "lobe": "RML",
+    "diameter_mm": 58.3,
+    "hu": -276,
+    "spiculation": 0.2,
+    "fev1_percent": 38.7
+  },
+  {
+    "id": "PV-TEST-0998",
+    "lobe": "LLL",
+    "diameter_mm": 20.4,
+    "hu": -604,
+    "spiculation": 0.49,
+    "fev1_percent": 127.2
+  },
+  {
+    "id": "PV-TEST-0999",
+    "lobe": "RML",
+    "diameter_mm": 30.5,
+    "hu": -190,
+    "spiculation": 0.06,
+    "fev1_percent": 59.2
+  },
+  {
+    "id": "PV-TEST-1000",
+    "lobe": "LLL",
+    "diameter_mm": 30.0,
+    "hu": -516,
+    "spiculation": 0.97,
+    "fev1_percent": 52.3
+  },
+  {
+    "id": "PV-TEST-1001",
+    "lobe": "RLL",
+    "diameter_mm": 45.1,
+    "hu": -103,
+    "spiculation": 0.02,
+    "fev1_percent": 103.3
+  },
+  {
+    "id": "PV-TEST-1002",
+    "lobe": "LUL",
+    "diameter_mm": 65.5,
+    "hu": 43,
+    "spiculation": 0.4,
+    "fev1_percent": 121.9
+  },
+  {
+    "id": "PV-TEST-1003",
+    "lobe": "LLL",
+    "diameter_mm": 53.8,
+    "hu": -111,
+    "spiculation": 0.92,
+    "fev1_percent": 119.9
+  },
+  {
+    "id": "PV-TEST-1004",
+    "lobe": "RLL",
+    "diameter_mm": 29.6,
+    "hu": -14,
+    "spiculation": 0.32,
+    "fev1_percent": 76.2
+  },
+  {
+    "id": "PV-TEST-1005",
+    "lobe": "LUL",
+    "diameter_mm": 30.8,
+    "hu": -465,
+    "spiculation": 0.46,
+    "fev1_percent": 90.1
+  },
+  {
+    "id": "PV-TEST-1006",
+    "lobe": "RUL",
+    "diameter_mm": 40.8,
+    "hu": 97,
+    "spiculation": 0.12,
+    "fev1_percent": 129.8
+  },
+  {
+    "id": "PV-TEST-1007",
+    "lobe": "RUL",
+    "diameter_mm": 36.7,
+    "hu": -77,
+    "spiculation": 0.98,
+    "fev1_percent": 68.7
+  },
+  {
+    "id": "PV-TEST-1008",
+    "lobe": "LLL",
+    "diameter_mm": 33.2,
+    "hu": 63,
+    "spiculation": 0.95,
+    "fev1_percent": 120.9
+  },
+  {
+    "id": "PV-TEST-1009",
+    "lobe": "RLL",
+    "diameter_mm": 57.4,
+    "hu": -127,
+    "spiculation": 0.24,
+    "fev1_percent": 84.0
+  },
+  {
+    "id": "PV-TEST-1010",
+    "lobe": "LLL",
+    "diameter_mm": 50.9,
+    "hu": -278,
+    "spiculation": 0.1,
+    "fev1_percent": 39.8
+  },
+  {
+    "id": "PV-TEST-1011",
+    "lobe": "RUL",
+    "diameter_mm": 39.7,
+    "hu": -761,
+    "spiculation": 0.63,
+    "fev1_percent": 85.3
+  },
+  {
+    "id": "PV-TEST-1012",
+    "lobe": "LLL",
+    "diameter_mm": 20.4,
+    "hu": -660,
+    "spiculation": 0.18,
+    "fev1_percent": 61.8
+  },
+  {
+    "id": "PV-TEST-1013",
+    "lobe": "RUL",
+    "diameter_mm": 34.2,
+    "hu": -31,
+    "spiculation": 0.29,
+    "fev1_percent": 97.5
+  },
+  {
+    "id": "PV-TEST-1014",
+    "lobe": "RUL",
+    "diameter_mm": 61.6,
+    "hu": -13,
+    "spiculation": 0.04,
+    "fev1_percent": 110.1
+  },
+  {
+    "id": "PV-TEST-1015",
+    "lobe": "RML",
+    "diameter_mm": 18.1,
+    "hu": -536,
+    "spiculation": 0.69,
+    "fev1_percent": 65.7
+  },
+  {
+    "id": "PV-TEST-1016",
+    "lobe": "RUL",
+    "diameter_mm": 66.9,
+    "hu": -172,
+    "spiculation": 0.18,
+    "fev1_percent": 114.9
+  },
+  {
+    "id": "PV-TEST-1017",
+    "lobe": "LUL",
+    "diameter_mm": 25.3,
+    "hu": -250,
+    "spiculation": 0.39,
+    "fev1_percent": 92.7
+  },
+  {
+    "id": "PV-TEST-1018",
+    "lobe": "LUL",
+    "diameter_mm": 15.2,
+    "hu": 67,
+    "spiculation": 0.96,
+    "fev1_percent": 123.1
+  },
+  {
+    "id": "PV-TEST-1019",
+    "lobe": "RUL",
+    "diameter_mm": 35.9,
+    "hu": -713,
+    "spiculation": 0.65,
+    "fev1_percent": 56.3
+  },
+  {
+    "id": "PV-TEST-1020",
+    "lobe": "RUL",
+    "diameter_mm": 10.2,
+    "hu": -793,
+    "spiculation": 0.11,
+    "fev1_percent": 85.8
+  },
+  {
+    "id": "PV-TEST-1021",
+    "lobe": "RUL",
+    "diameter_mm": 8.3,
+    "hu": -681,
+    "spiculation": 0.34,
+    "fev1_percent": 112.3
+  },
+  {
+    "id": "PV-TEST-1022",
+    "lobe": "RML",
+    "diameter_mm": 23.3,
+    "hu": -727,
+    "spiculation": 0.61,
+    "fev1_percent": 83.5
+  },
+  {
+    "id": "PV-TEST-1023",
+    "lobe": "RUL",
+    "diameter_mm": 32.5,
+    "hu": -48,
+    "spiculation": 0.24,
+    "fev1_percent": 64.1
+  },
+  {
+    "id": "PV-TEST-1024",
+    "lobe": "RLL",
+    "diameter_mm": 62.1,
+    "hu": -799,
+    "spiculation": 0.55,
+    "fev1_percent": 111.1
+  },
+  {
+    "id": "PV-TEST-1025",
+    "lobe": "RLL",
+    "diameter_mm": 29.5,
+    "hu": -712,
+    "spiculation": 0.07,
+    "fev1_percent": 105.2
+  },
+  {
+    "id": "PV-TEST-1026",
+    "lobe": "LLL",
+    "diameter_mm": 16.1,
+    "hu": 84,
+    "spiculation": 0.69,
+    "fev1_percent": 74.2
+  },
+  {
+    "id": "PV-TEST-1027",
+    "lobe": "RML",
+    "diameter_mm": 7.8,
+    "hu": -755,
+    "spiculation": 0.62,
+    "fev1_percent": 81.9
+  },
+  {
+    "id": "PV-TEST-1028",
+    "lobe": "RML",
+    "diameter_mm": 66.1,
+    "hu": -764,
+    "spiculation": 0.39,
+    "fev1_percent": 78.6
+  },
+  {
+    "id": "PV-TEST-1029",
+    "lobe": "RUL",
+    "diameter_mm": 19.8,
+    "hu": -183,
+    "spiculation": 0.69,
+    "fev1_percent": 118.6
+  },
+  {
+    "id": "PV-TEST-1030",
+    "lobe": "RML",
+    "diameter_mm": 14.2,
+    "hu": -754,
+    "spiculation": 0.3,
+    "fev1_percent": 38.7
+  },
+  {
+    "id": "PV-TEST-1031",
+    "lobe": "RML",
+    "diameter_mm": 65.7,
+    "hu": -95,
+    "spiculation": 0.52,
+    "fev1_percent": 62.0
+  },
+  {
+    "id": "PV-TEST-1032",
+    "lobe": "LUL",
+    "diameter_mm": 60.1,
+    "hu": 106,
+    "spiculation": 0.76,
+    "fev1_percent": 60.2
+  },
+  {
+    "id": "PV-TEST-1033",
+    "lobe": "LLL",
+    "diameter_mm": 52.6,
+    "hu": -443,
+    "spiculation": 0.95,
+    "fev1_percent": 84.5
+  },
+  {
+    "id": "PV-TEST-1034",
+    "lobe": "RML",
+    "diameter_mm": 44.7,
+    "hu": -230,
+    "spiculation": 0.99,
+    "fev1_percent": 66.9
+  },
+  {
+    "id": "PV-TEST-1035",
+    "lobe": "RUL",
+    "diameter_mm": 20.8,
+    "hu": -195,
+    "spiculation": 0.4,
+    "fev1_percent": 62.1
+  },
+  {
+    "id": "PV-TEST-1036",
+    "lobe": "RML",
+    "diameter_mm": 19.1,
+    "hu": 14,
+    "spiculation": 0.05,
+    "fev1_percent": 51.4
+  },
+  {
+    "id": "PV-TEST-1037",
+    "lobe": "RML",
+    "diameter_mm": 29.8,
+    "hu": 3,
+    "spiculation": 0.61,
+    "fev1_percent": 54.3
+  },
+  {
+    "id": "PV-TEST-1038",
+    "lobe": "LLL",
+    "diameter_mm": 26.0,
+    "hu": -15,
+    "spiculation": 0.18,
+    "fev1_percent": 61.0
+  },
+  {
+    "id": "PV-TEST-1039",
+    "lobe": "LUL",
+    "diameter_mm": 18.9,
+    "hu": -630,
+    "spiculation": 0.99,
+    "fev1_percent": 87.9
+  },
+  {
+    "id": "PV-TEST-1040",
+    "lobe": "RLL",
+    "diameter_mm": 44.6,
+    "hu": -143,
+    "spiculation": 0.9,
+    "fev1_percent": 54.8
+  },
+  {
+    "id": "PV-TEST-1041",
+    "lobe": "RLL",
+    "diameter_mm": 69.0,
+    "hu": -348,
+    "spiculation": 0.18,
+    "fev1_percent": 97.4
+  },
+  {
+    "id": "PV-TEST-1042",
+    "lobe": "LLL",
+    "diameter_mm": 25.5,
+    "hu": -653,
+    "spiculation": 0.51,
+    "fev1_percent": 44.8
+  },
+  {
+    "id": "PV-TEST-1043",
+    "lobe": "LLL",
+    "diameter_mm": 12.8,
+    "hu": -270,
+    "spiculation": 0.65,
+    "fev1_percent": 91.7
+  },
+  {
+    "id": "PV-TEST-1044",
+    "lobe": "LLL",
+    "diameter_mm": 57.2,
+    "hu": 38,
+    "spiculation": 0.87,
+    "fev1_percent": 53.6
+  },
+  {
+    "id": "PV-TEST-1045",
+    "lobe": "LLL",
+    "diameter_mm": 67.9,
+    "hu": -119,
+    "spiculation": 0.04,
+    "fev1_percent": 70.0
+  },
+  {
+    "id": "PV-TEST-1046",
+    "lobe": "LUL",
+    "diameter_mm": 43.5,
+    "hu": -122,
+    "spiculation": 0.5,
+    "fev1_percent": 58.8
+  },
+  {
+    "id": "PV-TEST-1047",
+    "lobe": "RLL",
+    "diameter_mm": 29.0,
+    "hu": -659,
+    "spiculation": 0.08,
+    "fev1_percent": 125.5
+  },
+  {
+    "id": "PV-TEST-1048",
+    "lobe": "RLL",
+    "diameter_mm": 10.9,
+    "hu": -397,
+    "spiculation": 0.17,
+    "fev1_percent": 56.5
+  },
+  {
+    "id": "PV-TEST-1049",
+    "lobe": "LUL",
+    "diameter_mm": 19.5,
+    "hu": -544,
+    "spiculation": 0.98,
+    "fev1_percent": 37.5
+  },
+  {
+    "id": "PV-TEST-1050",
+    "lobe": "LLL",
+    "diameter_mm": 26.8,
+    "hu": 105,
+    "spiculation": 0.78,
+    "fev1_percent": 36.4
+  },
+  {
+    "id": "PV-TEST-1051",
+    "lobe": "LLL",
+    "diameter_mm": 69.1,
+    "hu": -148,
+    "spiculation": 0.52,
+    "fev1_percent": 117.0
+  },
+  {
+    "id": "PV-TEST-1052",
+    "lobe": "RML",
+    "diameter_mm": 5.1,
+    "hu": 106,
+    "spiculation": 0.88,
+    "fev1_percent": 120.6
+  },
+  {
+    "id": "PV-TEST-1053",
+    "lobe": "LLL",
+    "diameter_mm": 39.4,
+    "hu": -500,
+    "spiculation": 0.06,
+    "fev1_percent": 79.1
+  },
+  {
+    "id": "PV-TEST-1054",
+    "lobe": "RML",
+    "diameter_mm": 18.6,
+    "hu": -93,
+    "spiculation": 0.44,
+    "fev1_percent": 105.0
+  },
+  {
+    "id": "PV-TEST-1055",
+    "lobe": "LUL",
+    "diameter_mm": 13.4,
+    "hu": 108,
+    "spiculation": 0.92,
+    "fev1_percent": 46.4
+  },
+  {
+    "id": "PV-TEST-1056",
+    "lobe": "LUL",
+    "diameter_mm": 61.5,
+    "hu": -488,
+    "spiculation": 0.33,
+    "fev1_percent": 59.4
+  },
+  {
+    "id": "PV-TEST-1057",
+    "lobe": "LLL",
+    "diameter_mm": 37.7,
+    "hu": -22,
+    "spiculation": 0.07,
+    "fev1_percent": 65.1
+  },
+  {
+    "id": "PV-TEST-1058",
+    "lobe": "RML",
+    "diameter_mm": 45.4,
+    "hu": -295,
+    "spiculation": 0.86,
+    "fev1_percent": 109.7
+  },
+  {
+    "id": "PV-TEST-1059",
+    "lobe": "LUL",
+    "diameter_mm": 21.0,
+    "hu": -785,
+    "spiculation": 0.79,
+    "fev1_percent": 121.2
+  },
+  {
+    "id": "PV-TEST-1060",
+    "lobe": "LUL",
+    "diameter_mm": 52.2,
+    "hu": -621,
+    "spiculation": 0.68,
+    "fev1_percent": 55.7
+  },
+  {
+    "id": "PV-TEST-1061",
+    "lobe": "RML",
+    "diameter_mm": 24.9,
+    "hu": -619,
+    "spiculation": 0.59,
+    "fev1_percent": 94.6
+  },
+  {
+    "id": "PV-TEST-1062",
+    "lobe": "RUL",
+    "diameter_mm": 39.2,
+    "hu": -628,
+    "spiculation": 0.69,
+    "fev1_percent": 77.9
+  },
+  {
+    "id": "PV-TEST-1063",
+    "lobe": "LUL",
+    "diameter_mm": 47.9,
+    "hu": -222,
+    "spiculation": 0.33,
+    "fev1_percent": 71.0
+  },
+  {
+    "id": "PV-TEST-1064",
+    "lobe": "LUL",
+    "diameter_mm": 41.5,
+    "hu": -511,
+    "spiculation": 0.59,
+    "fev1_percent": 38.8
+  },
+  {
+    "id": "PV-TEST-1065",
+    "lobe": "LLL",
+    "diameter_mm": 4.9,
+    "hu": -509,
+    "spiculation": 0.41,
+    "fev1_percent": 93.7
+  },
+  {
+    "id": "PV-TEST-1066",
+    "lobe": "LLL",
+    "diameter_mm": 18.5,
+    "hu": -524,
+    "spiculation": 0.08,
+    "fev1_percent": 91.2
+  },
+  {
+    "id": "PV-TEST-1067",
+    "lobe": "RML",
+    "diameter_mm": 15.3,
+    "hu": -743,
+    "spiculation": 0.55,
+    "fev1_percent": 124.2
+  },
+  {
+    "id": "PV-TEST-1068",
+    "lobe": "LUL",
+    "diameter_mm": 37.2,
+    "hu": -200,
+    "spiculation": 0.85,
+    "fev1_percent": 51.3
+  },
+  {
+    "id": "PV-TEST-1069",
+    "lobe": "RUL",
+    "diameter_mm": 30.9,
+    "hu": -137,
+    "spiculation": 0.93,
+    "fev1_percent": 37.6
+  },
+  {
+    "id": "PV-TEST-1070",
+    "lobe": "LLL",
+    "diameter_mm": 55.5,
+    "hu": 102,
+    "spiculation": 0.15,
+    "fev1_percent": 73.9
+  },
+  {
+    "id": "PV-TEST-1071",
+    "lobe": "LUL",
+    "diameter_mm": 32.6,
+    "hu": -3,
+    "spiculation": 0.89,
+    "fev1_percent": 74.9
+  },
+  {
+    "id": "PV-TEST-1072",
+    "lobe": "RUL",
+    "diameter_mm": 50.0,
+    "hu": -162,
+    "spiculation": 0.78,
+    "fev1_percent": 121.0
+  },
+  {
+    "id": "PV-TEST-1073",
+    "lobe": "LLL",
+    "diameter_mm": 41.4,
+    "hu": -79,
+    "spiculation": 0.98,
+    "fev1_percent": 55.4
+  },
+  {
+    "id": "PV-TEST-1074",
+    "lobe": "RLL",
+    "diameter_mm": 36.9,
+    "hu": -102,
+    "spiculation": 0.26,
+    "fev1_percent": 53.2
+  },
+  {
+    "id": "PV-TEST-1075",
+    "lobe": "RUL",
+    "diameter_mm": 24.0,
+    "hu": -168,
+    "spiculation": 0.53,
+    "fev1_percent": 85.6
+  },
+  {
+    "id": "PV-TEST-1076",
+    "lobe": "LUL",
+    "diameter_mm": 58.4,
+    "hu": -302,
+    "spiculation": 0.09,
+    "fev1_percent": 91.7
+  },
+  {
+    "id": "PV-TEST-1077",
+    "lobe": "RLL",
+    "diameter_mm": 16.6,
+    "hu": -82,
+    "spiculation": 0.97,
+    "fev1_percent": 120.9
+  },
+  {
+    "id": "PV-TEST-1078",
+    "lobe": "RUL",
+    "diameter_mm": 23.6,
+    "hu": -187,
+    "spiculation": 0.6,
+    "fev1_percent": 48.2
+  },
+  {
+    "id": "PV-TEST-1079",
+    "lobe": "LUL",
+    "diameter_mm": 47.7,
+    "hu": 23,
+    "spiculation": 0.84,
+    "fev1_percent": 129.1
+  },
+  {
+    "id": "PV-TEST-1080",
+    "lobe": "LLL",
+    "diameter_mm": 9.7,
+    "hu": 16,
+    "spiculation": 0.5,
+    "fev1_percent": 80.4
+  },
+  {
+    "id": "PV-TEST-1081",
+    "lobe": "RML",
+    "diameter_mm": 9.3,
+    "hu": -433,
+    "spiculation": 0.47,
+    "fev1_percent": 44.6
+  },
+  {
+    "id": "PV-TEST-1082",
+    "lobe": "RUL",
+    "diameter_mm": 28.5,
+    "hu": -261,
+    "spiculation": 0.31,
+    "fev1_percent": 36.7
+  },
+  {
+    "id": "PV-TEST-1083",
+    "lobe": "RUL",
+    "diameter_mm": 25.5,
+    "hu": -685,
+    "spiculation": 0.71,
+    "fev1_percent": 67.2
+  },
+  {
+    "id": "PV-TEST-1084",
+    "lobe": "RML",
+    "diameter_mm": 17.0,
+    "hu": -289,
+    "spiculation": 0.75,
+    "fev1_percent": 69.7
+  },
+  {
+    "id": "PV-TEST-1085",
+    "lobe": "RML",
+    "diameter_mm": 67.3,
+    "hu": -813,
+    "spiculation": 0.02,
+    "fev1_percent": 75.8
+  },
+  {
+    "id": "PV-TEST-1086",
+    "lobe": "RLL",
+    "diameter_mm": 14.7,
+    "hu": -341,
+    "spiculation": 0.84,
+    "fev1_percent": 91.9
+  },
+  {
+    "id": "PV-TEST-1087",
+    "lobe": "LUL",
+    "diameter_mm": 22.1,
+    "hu": -145,
+    "spiculation": 0.06,
+    "fev1_percent": 96.9
+  },
+  {
+    "id": "PV-TEST-1088",
+    "lobe": "LLL",
+    "diameter_mm": 38.7,
+    "hu": -535,
+    "spiculation": 0.29,
+    "fev1_percent": 95.4
+  },
+  {
+    "id": "PV-TEST-1089",
+    "lobe": "LUL",
+    "diameter_mm": 39.7,
+    "hu": -372,
+    "spiculation": 0.71,
+    "fev1_percent": 95.6
+  },
+  {
+    "id": "PV-TEST-1090",
+    "lobe": "LUL",
+    "diameter_mm": 24.3,
+    "hu": -782,
+    "spiculation": 0.86,
+    "fev1_percent": 97.4
+  },
+  {
+    "id": "PV-TEST-1091",
+    "lobe": "LLL",
+    "diameter_mm": 43.1,
+    "hu": -326,
+    "spiculation": 0.99,
+    "fev1_percent": 112.2
+  },
+  {
+    "id": "PV-TEST-1092",
+    "lobe": "LLL",
+    "diameter_mm": 33.0,
+    "hu": -238,
+    "spiculation": 0.86,
+    "fev1_percent": 96.4
+  },
+  {
+    "id": "PV-TEST-1093",
+    "lobe": "RLL",
+    "diameter_mm": 32.1,
+    "hu": -49,
+    "spiculation": 0.03,
+    "fev1_percent": 108.8
+  },
+  {
+    "id": "PV-TEST-1094",
+    "lobe": "RML",
+    "diameter_mm": 34.1,
+    "hu": -786,
+    "spiculation": 0.86,
+    "fev1_percent": 57.6
+  },
+  {
+    "id": "PV-TEST-1095",
+    "lobe": "RUL",
+    "diameter_mm": 46.6,
+    "hu": -803,
+    "spiculation": 0.58,
+    "fev1_percent": 90.3
+  },
+  {
+    "id": "PV-TEST-1096",
+    "lobe": "LLL",
+    "diameter_mm": 36.3,
+    "hu": -474,
+    "spiculation": 0.09,
+    "fev1_percent": 79.8
+  },
+  {
+    "id": "PV-TEST-1097",
+    "lobe": "LLL",
+    "diameter_mm": 36.2,
+    "hu": -16,
+    "spiculation": 0.84,
+    "fev1_percent": 76.8
+  },
+  {
+    "id": "PV-TEST-1098",
+    "lobe": "LUL",
+    "diameter_mm": 36.7,
+    "hu": -588,
+    "spiculation": 0.67,
+    "fev1_percent": 129.5
+  },
+  {
+    "id": "PV-TEST-1099",
+    "lobe": "RUL",
+    "diameter_mm": 61.0,
+    "hu": -68,
+    "spiculation": 0.66,
+    "fev1_percent": 78.0
+  },
+  {
+    "id": "PV-TEST-1100",
+    "lobe": "RML",
+    "diameter_mm": 12.3,
+    "hu": -640,
+    "spiculation": 0.82,
+    "fev1_percent": 59.5
+  },
+  {
+    "id": "PV-TEST-1101",
+    "lobe": "LUL",
+    "diameter_mm": 59.1,
+    "hu": -359,
+    "spiculation": 0.76,
+    "fev1_percent": 111.8
+  },
+  {
+    "id": "PV-TEST-1102",
+    "lobe": "LLL",
+    "diameter_mm": 9.7,
+    "hu": -677,
+    "spiculation": 0.9,
+    "fev1_percent": 66.3
+  },
+  {
+    "id": "PV-TEST-1103",
+    "lobe": "LUL",
+    "diameter_mm": 5.6,
+    "hu": -163,
+    "spiculation": 0.85,
+    "fev1_percent": 64.5
+  },
+  {
+    "id": "PV-TEST-1104",
+    "lobe": "LUL",
+    "diameter_mm": 39.5,
+    "hu": -741,
+    "spiculation": 0.02,
+    "fev1_percent": 59.4
+  },
+  {
+    "id": "PV-TEST-1105",
+    "lobe": "LLL",
+    "diameter_mm": 69.1,
+    "hu": -295,
+    "spiculation": 0.81,
+    "fev1_percent": 46.6
+  },
+  {
+    "id": "PV-TEST-1106",
+    "lobe": "RLL",
+    "diameter_mm": 25.7,
+    "hu": -199,
+    "spiculation": 0.22,
+    "fev1_percent": 122.2
+  },
+  {
+    "id": "PV-TEST-1107",
+    "lobe": "LUL",
+    "diameter_mm": 46.8,
+    "hu": -466,
+    "spiculation": 0.57,
+    "fev1_percent": 98.4
+  },
+  {
+    "id": "PV-TEST-1108",
+    "lobe": "RLL",
+    "diameter_mm": 30.1,
+    "hu": -652,
+    "spiculation": 0.04,
+    "fev1_percent": 52.6
+  },
+  {
+    "id": "PV-TEST-1109",
+    "lobe": "LLL",
+    "diameter_mm": 62.4,
+    "hu": -350,
+    "spiculation": 0.66,
+    "fev1_percent": 58.9
+  },
+  {
+    "id": "PV-TEST-1110",
+    "lobe": "LUL",
+    "diameter_mm": 24.7,
+    "hu": -775,
+    "spiculation": 0.2,
+    "fev1_percent": 66.0
+  },
+  {
+    "id": "PV-TEST-1111",
+    "lobe": "RML",
+    "diameter_mm": 63.1,
+    "hu": -813,
+    "spiculation": 0.17,
+    "fev1_percent": 118.2
+  },
+  {
+    "id": "PV-TEST-1112",
+    "lobe": "RML",
+    "diameter_mm": 41.2,
+    "hu": -791,
+    "spiculation": 0.49,
+    "fev1_percent": 74.3
+  },
+  {
+    "id": "PV-TEST-1113",
+    "lobe": "RLL",
+    "diameter_mm": 38.4,
+    "hu": -110,
+    "spiculation": 0.87,
+    "fev1_percent": 123.4
+  },
+  {
+    "id": "PV-TEST-1114",
+    "lobe": "RLL",
+    "diameter_mm": 23.0,
+    "hu": -221,
+    "spiculation": 0.29,
+    "fev1_percent": 101.9
+  },
+  {
+    "id": "PV-TEST-1115",
+    "lobe": "RLL",
+    "diameter_mm": 46.3,
+    "hu": -581,
+    "spiculation": 0.56,
+    "fev1_percent": 84.0
+  },
+  {
+    "id": "PV-TEST-1116",
+    "lobe": "RLL",
+    "diameter_mm": 58.9,
+    "hu": -386,
+    "spiculation": 0.89,
+    "fev1_percent": 116.2
+  },
+  {
+    "id": "PV-TEST-1117",
+    "lobe": "LUL",
+    "diameter_mm": 61.1,
+    "hu": -161,
+    "spiculation": 0.06,
+    "fev1_percent": 106.7
+  },
+  {
+    "id": "PV-TEST-1118",
+    "lobe": "RLL",
+    "diameter_mm": 7.6,
+    "hu": -652,
+    "spiculation": 0.07,
+    "fev1_percent": 64.3
+  },
+  {
+    "id": "PV-TEST-1119",
+    "lobe": "LLL",
+    "diameter_mm": 60.0,
+    "hu": -801,
+    "spiculation": 0.86,
+    "fev1_percent": 94.3
+  },
+  {
+    "id": "PV-TEST-1120",
+    "lobe": "RUL",
+    "diameter_mm": 35.8,
+    "hu": 60,
+    "spiculation": 0.78,
+    "fev1_percent": 103.2
+  },
+  {
+    "id": "PV-TEST-1121",
+    "lobe": "LUL",
+    "diameter_mm": 17.0,
+    "hu": -768,
+    "spiculation": 0.48,
+    "fev1_percent": 118.3
+  },
+  {
+    "id": "PV-TEST-1122",
+    "lobe": "RLL",
+    "diameter_mm": 53.6,
+    "hu": -228,
+    "spiculation": 0.49,
+    "fev1_percent": 51.4
+  },
+  {
+    "id": "PV-TEST-1123",
+    "lobe": "RML",
+    "diameter_mm": 37.5,
+    "hu": -452,
+    "spiculation": 0.17,
+    "fev1_percent": 36.9
+  },
+  {
+    "id": "PV-TEST-1124",
+    "lobe": "LUL",
+    "diameter_mm": 22.8,
+    "hu": -731,
+    "spiculation": 0.97,
+    "fev1_percent": 81.9
+  },
+  {
+    "id": "PV-TEST-1125",
+    "lobe": "RLL",
+    "diameter_mm": 45.3,
+    "hu": -34,
+    "spiculation": 0.32,
+    "fev1_percent": 45.6
+  },
+  {
+    "id": "PV-TEST-1126",
+    "lobe": "RML",
+    "diameter_mm": 28.0,
+    "hu": -547,
+    "spiculation": 0.55,
+    "fev1_percent": 117.4
+  },
+  {
+    "id": "PV-TEST-1127",
+    "lobe": "RLL",
+    "diameter_mm": 13.8,
+    "hu": -187,
+    "spiculation": 0.35,
+    "fev1_percent": 61.1
+  },
+  {
+    "id": "PV-TEST-1128",
+    "lobe": "RUL",
+    "diameter_mm": 59.2,
+    "hu": -117,
+    "spiculation": 0.73,
+    "fev1_percent": 43.0
+  },
+  {
+    "id": "PV-TEST-1129",
+    "lobe": "RML",
+    "diameter_mm": 59.8,
+    "hu": -47,
+    "spiculation": 0.06,
+    "fev1_percent": 105.1
+  },
+  {
+    "id": "PV-TEST-1130",
+    "lobe": "LLL",
+    "diameter_mm": 54.1,
+    "hu": -348,
+    "spiculation": 0.5,
+    "fev1_percent": 120.4
+  },
+  {
+    "id": "PV-TEST-1131",
+    "lobe": "RML",
+    "diameter_mm": 40.6,
+    "hu": -433,
+    "spiculation": 0.58,
+    "fev1_percent": 66.2
+  },
+  {
+    "id": "PV-TEST-1132",
+    "lobe": "RLL",
+    "diameter_mm": 41.9,
+    "hu": -551,
+    "spiculation": 0.46,
+    "fev1_percent": 69.3
+  },
+  {
+    "id": "PV-TEST-1133",
+    "lobe": "RML",
+    "diameter_mm": 57.6,
+    "hu": -586,
+    "spiculation": 0.92,
+    "fev1_percent": 35.9
+  },
+  {
+    "id": "PV-TEST-1134",
+    "lobe": "RUL",
+    "diameter_mm": 5.7,
+    "hu": -274,
+    "spiculation": 0.71,
+    "fev1_percent": 35.1
+  },
+  {
+    "id": "PV-TEST-1135",
+    "lobe": "LLL",
+    "diameter_mm": 4.1,
+    "hu": -706,
+    "spiculation": 0.3,
+    "fev1_percent": 67.6
+  },
+  {
+    "id": "PV-TEST-1136",
+    "lobe": "RML",
+    "diameter_mm": 64.4,
+    "hu": -688,
+    "spiculation": 0.77,
+    "fev1_percent": 114.8
+  },
+  {
+    "id": "PV-TEST-1137",
+    "lobe": "LUL",
+    "diameter_mm": 52.2,
+    "hu": -525,
+    "spiculation": 0.93,
+    "fev1_percent": 106.1
+  },
+  {
+    "id": "PV-TEST-1138",
+    "lobe": "LUL",
+    "diameter_mm": 34.4,
+    "hu": -653,
+    "spiculation": 0.93,
+    "fev1_percent": 85.0
+  },
+  {
+    "id": "PV-TEST-1139",
+    "lobe": "RUL",
+    "diameter_mm": 50.2,
+    "hu": 119,
+    "spiculation": 0.59,
+    "fev1_percent": 92.1
+  },
+  {
+    "id": "PV-TEST-1140",
+    "lobe": "RML",
+    "diameter_mm": 65.5,
+    "hu": -839,
+    "spiculation": 0.86,
+    "fev1_percent": 97.7
+  },
+  {
+    "id": "PV-TEST-1141",
+    "lobe": "LUL",
+    "diameter_mm": 30.3,
+    "hu": -420,
+    "spiculation": 0.08,
+    "fev1_percent": 107.2
+  },
+  {
+    "id": "PV-TEST-1142",
+    "lobe": "LLL",
+    "diameter_mm": 14.5,
+    "hu": -641,
+    "spiculation": 0.7,
+    "fev1_percent": 108.5
+  },
+  {
+    "id": "PV-TEST-1143",
+    "lobe": "RLL",
+    "diameter_mm": 57.6,
+    "hu": 65,
+    "spiculation": 0.47,
+    "fev1_percent": 128.4
+  },
+  {
+    "id": "PV-TEST-1144",
+    "lobe": "RLL",
+    "diameter_mm": 31.9,
+    "hu": -586,
+    "spiculation": 0.74,
+    "fev1_percent": 56.3
+  },
+  {
+    "id": "PV-TEST-1145",
+    "lobe": "LUL",
+    "diameter_mm": 39.0,
+    "hu": -690,
+    "spiculation": 0.07,
+    "fev1_percent": 55.8
+  },
+  {
+    "id": "PV-TEST-1146",
+    "lobe": "RML",
+    "diameter_mm": 21.7,
+    "hu": -167,
+    "spiculation": 0.72,
+    "fev1_percent": 64.8
+  },
+  {
+    "id": "PV-TEST-1147",
+    "lobe": "RML",
+    "diameter_mm": 56.9,
+    "hu": -598,
+    "spiculation": 0.12,
+    "fev1_percent": 54.4
+  },
+  {
+    "id": "PV-TEST-1148",
+    "lobe": "RLL",
+    "diameter_mm": 68.6,
+    "hu": -417,
+    "spiculation": 0.37,
+    "fev1_percent": 61.8
+  },
+  {
+    "id": "PV-TEST-1149",
+    "lobe": "RLL",
+    "diameter_mm": 63.6,
+    "hu": -16,
+    "spiculation": 0.98,
+    "fev1_percent": 112.4
+  },
+  {
+    "id": "PV-TEST-1150",
+    "lobe": "LLL",
+    "diameter_mm": 60.5,
+    "hu": -822,
+    "spiculation": 0.69,
+    "fev1_percent": 49.3
+  },
+  {
+    "id": "PV-TEST-1151",
+    "lobe": "LUL",
+    "diameter_mm": 11.2,
+    "hu": -512,
+    "spiculation": 0.85,
+    "fev1_percent": 71.8
+  },
+  {
+    "id": "PV-TEST-1152",
+    "lobe": "RML",
+    "diameter_mm": 51.5,
+    "hu": -769,
+    "spiculation": 0.08,
+    "fev1_percent": 107.9
+  },
+  {
+    "id": "PV-TEST-1153",
+    "lobe": "RML",
+    "diameter_mm": 10.0,
+    "hu": -115,
+    "spiculation": 0.39,
+    "fev1_percent": 80.2
+  },
+  {
+    "id": "PV-TEST-1154",
+    "lobe": "RML",
+    "diameter_mm": 67.1,
+    "hu": -582,
+    "spiculation": 0.52,
+    "fev1_percent": 80.9
+  },
+  {
+    "id": "PV-TEST-1155",
+    "lobe": "LUL",
+    "diameter_mm": 19.3,
+    "hu": -6,
+    "spiculation": 0.96,
+    "fev1_percent": 81.2
+  },
+  {
+    "id": "PV-TEST-1156",
+    "lobe": "RUL",
+    "diameter_mm": 26.8,
+    "hu": -57,
+    "spiculation": 0.93,
+    "fev1_percent": 48.5
+  },
+  {
+    "id": "PV-TEST-1157",
+    "lobe": "RUL",
+    "diameter_mm": 52.2,
+    "hu": -753,
+    "spiculation": 0.98,
+    "fev1_percent": 119.3
+  },
+  {
+    "id": "PV-TEST-1158",
+    "lobe": "LLL",
+    "diameter_mm": 12.5,
+    "hu": 118,
+    "spiculation": 0.54,
+    "fev1_percent": 94.1
+  },
+  {
+    "id": "PV-TEST-1159",
+    "lobe": "RUL",
+    "diameter_mm": 13.6,
+    "hu": -288,
+    "spiculation": 0.51,
+    "fev1_percent": 50.1
+  },
+  {
+    "id": "PV-TEST-1160",
+    "lobe": "LLL",
+    "diameter_mm": 69.8,
+    "hu": -230,
+    "spiculation": 0.4,
+    "fev1_percent": 91.2
+  },
+  {
+    "id": "PV-TEST-1161",
+    "lobe": "RUL",
+    "diameter_mm": 10.0,
+    "hu": -493,
+    "spiculation": 0.26,
+    "fev1_percent": 85.2
+  },
+  {
+    "id": "PV-TEST-1162",
+    "lobe": "RML",
+    "diameter_mm": 4.3,
+    "hu": -285,
+    "spiculation": 0.72,
+    "fev1_percent": 95.3
+  },
+  {
+    "id": "PV-TEST-1163",
+    "lobe": "RML",
+    "diameter_mm": 33.7,
+    "hu": -75,
+    "spiculation": 0.85,
+    "fev1_percent": 42.2
+  },
+  {
+    "id": "PV-TEST-1164",
+    "lobe": "RML",
+    "diameter_mm": 44.5,
+    "hu": -373,
+    "spiculation": 0.79,
+    "fev1_percent": 66.1
+  },
+  {
+    "id": "PV-TEST-1165",
+    "lobe": "LLL",
+    "diameter_mm": 25.3,
+    "hu": -395,
+    "spiculation": 0.77,
+    "fev1_percent": 55.5
+  },
+  {
+    "id": "PV-TEST-1166",
+    "lobe": "LLL",
+    "diameter_mm": 57.1,
+    "hu": -539,
+    "spiculation": 0.15,
+    "fev1_percent": 70.9
+  },
+  {
+    "id": "PV-TEST-1167",
+    "lobe": "LUL",
+    "diameter_mm": 34.6,
+    "hu": -178,
+    "spiculation": 0.98,
+    "fev1_percent": 91.3
+  },
+  {
+    "id": "PV-TEST-1168",
+    "lobe": "RUL",
+    "diameter_mm": 18.3,
+    "hu": -625,
+    "spiculation": 0.79,
+    "fev1_percent": 40.8
+  },
+  {
+    "id": "PV-TEST-1169",
+    "lobe": "LUL",
+    "diameter_mm": 32.1,
+    "hu": -348,
+    "spiculation": 0.58,
+    "fev1_percent": 91.4
+  },
+  {
+    "id": "PV-TEST-1170",
+    "lobe": "RML",
+    "diameter_mm": 28.9,
+    "hu": -43,
+    "spiculation": 0.45,
+    "fev1_percent": 65.3
+  },
+  {
+    "id": "PV-TEST-1171",
+    "lobe": "RML",
+    "diameter_mm": 51.5,
+    "hu": -245,
+    "spiculation": 0.51,
+    "fev1_percent": 40.7
+  },
+  {
+    "id": "PV-TEST-1172",
+    "lobe": "LUL",
+    "diameter_mm": 33.3,
+    "hu": -150,
+    "spiculation": 0.48,
+    "fev1_percent": 86.9
+  },
+  {
+    "id": "PV-TEST-1173",
+    "lobe": "RLL",
+    "diameter_mm": 54.3,
+    "hu": -318,
+    "spiculation": 0.34,
+    "fev1_percent": 83.9
+  },
+  {
+    "id": "PV-TEST-1174",
+    "lobe": "LLL",
+    "diameter_mm": 57.2,
+    "hu": -795,
+    "spiculation": 0.8,
+    "fev1_percent": 95.7
+  },
+  {
+    "id": "PV-TEST-1175",
+    "lobe": "RLL",
+    "diameter_mm": 28.6,
+    "hu": 2,
+    "spiculation": 0.77,
+    "fev1_percent": 102.7
+  },
+  {
+    "id": "PV-TEST-1176",
+    "lobe": "LUL",
+    "diameter_mm": 45.1,
+    "hu": 90,
+    "spiculation": 0.66,
+    "fev1_percent": 54.5
+  },
+  {
+    "id": "PV-TEST-1177",
+    "lobe": "RLL",
+    "diameter_mm": 7.3,
+    "hu": -404,
+    "spiculation": 0.18,
+    "fev1_percent": 91.4
+  },
+  {
+    "id": "PV-TEST-1178",
+    "lobe": "RUL",
+    "diameter_mm": 19.7,
+    "hu": -341,
+    "spiculation": 0.39,
+    "fev1_percent": 113.1
+  },
+  {
+    "id": "PV-TEST-1179",
+    "lobe": "LLL",
+    "diameter_mm": 41.8,
+    "hu": -754,
+    "spiculation": 0.01,
+    "fev1_percent": 85.5
+  },
+  {
+    "id": "PV-TEST-1180",
+    "lobe": "RML",
+    "diameter_mm": 44.6,
+    "hu": -346,
+    "spiculation": 0.77,
+    "fev1_percent": 90.0
+  },
+  {
+    "id": "PV-TEST-1181",
+    "lobe": "LLL",
+    "diameter_mm": 61.4,
+    "hu": -34,
+    "spiculation": 0.82,
+    "fev1_percent": 129.3
+  },
+  {
+    "id": "PV-TEST-1182",
+    "lobe": "LUL",
+    "diameter_mm": 27.2,
+    "hu": -111,
+    "spiculation": 0.93,
+    "fev1_percent": 37.9
+  },
+  {
+    "id": "PV-TEST-1183",
+    "lobe": "LLL",
+    "diameter_mm": 47.9,
+    "hu": 34,
+    "spiculation": 0.38,
+    "fev1_percent": 58.6
+  },
+  {
+    "id": "PV-TEST-1184",
+    "lobe": "RLL",
+    "diameter_mm": 35.6,
+    "hu": -204,
+    "spiculation": 0.28,
+    "fev1_percent": 45.3
+  },
+  {
+    "id": "PV-TEST-1185",
+    "lobe": "LLL",
+    "diameter_mm": 15.6,
+    "hu": -524,
+    "spiculation": 0.15,
+    "fev1_percent": 100.9
+  },
+  {
+    "id": "PV-TEST-1186",
+    "lobe": "LLL",
+    "diameter_mm": 69.4,
+    "hu": 101,
+    "spiculation": 0.36,
+    "fev1_percent": 62.8
+  },
+  {
+    "id": "PV-TEST-1187",
+    "lobe": "LLL",
+    "diameter_mm": 68.3,
+    "hu": 39,
+    "spiculation": 0.79,
+    "fev1_percent": 70.2
+  },
+  {
+    "id": "PV-TEST-1188",
+    "lobe": "RML",
+    "diameter_mm": 53.4,
+    "hu": -411,
+    "spiculation": 0.48,
+    "fev1_percent": 107.7
+  },
+  {
+    "id": "PV-TEST-1189",
+    "lobe": "RLL",
+    "diameter_mm": 28.6,
+    "hu": -645,
+    "spiculation": 0.27,
+    "fev1_percent": 126.8
+  },
+  {
+    "id": "PV-TEST-1190",
+    "lobe": "RML",
+    "diameter_mm": 32.7,
+    "hu": -94,
+    "spiculation": 0.26,
+    "fev1_percent": 80.6
+  },
+  {
+    "id": "PV-TEST-1191",
+    "lobe": "LLL",
+    "diameter_mm": 44.2,
+    "hu": -818,
+    "spiculation": 0.27,
+    "fev1_percent": 64.2
+  },
+  {
+    "id": "PV-TEST-1192",
+    "lobe": "RML",
+    "diameter_mm": 20.8,
+    "hu": -416,
+    "spiculation": 0.91,
+    "fev1_percent": 127.5
+  },
+  {
+    "id": "PV-TEST-1193",
+    "lobe": "LUL",
+    "diameter_mm": 41.2,
+    "hu": -198,
+    "spiculation": 0.47,
+    "fev1_percent": 80.5
+  },
+  {
+    "id": "PV-TEST-1194",
+    "lobe": "RUL",
+    "diameter_mm": 15.0,
+    "hu": 103,
+    "spiculation": 0.91,
+    "fev1_percent": 47.3
+  },
+  {
+    "id": "PV-TEST-1195",
+    "lobe": "RML",
+    "diameter_mm": 37.2,
+    "hu": -646,
+    "spiculation": 0.8,
+    "fev1_percent": 88.5
+  },
+  {
+    "id": "PV-TEST-1196",
+    "lobe": "RLL",
+    "diameter_mm": 60.3,
+    "hu": -548,
+    "spiculation": 0.13,
+    "fev1_percent": 54.7
+  },
+  {
+    "id": "PV-TEST-1197",
+    "lobe": "RUL",
+    "diameter_mm": 49.2,
+    "hu": -89,
+    "spiculation": 0.59,
+    "fev1_percent": 56.4
+  },
+  {
+    "id": "PV-TEST-1198",
+    "lobe": "LLL",
+    "diameter_mm": 32.0,
+    "hu": -48,
+    "spiculation": 0.46,
+    "fev1_percent": 109.7
+  },
+  {
+    "id": "PV-TEST-1199",
+    "lobe": "LUL",
+    "diameter_mm": 38.5,
+    "hu": -621,
+    "spiculation": 0.41,
+    "fev1_percent": 51.3
+  },
+  {
+    "id": "PV-TEST-1200",
+    "lobe": "RML",
+    "diameter_mm": 15.1,
+    "hu": -760,
+    "spiculation": 0.48,
+    "fev1_percent": 115.6
+  }
+]
