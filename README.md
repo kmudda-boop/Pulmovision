@@ -93,18 +93,9 @@ python3 -m unittest discover -s tests -v
 
 Generation uses a fixed seed (`20261026`) and writes 1,200 records to each split in both formats. Running the generator again recreates the same files.
 
-## Tests
-
-The unit tests check minimum row counts, CSV/JSON pair consistency, split identifier separation, and the expected importer-compatible field set. The validator additionally checks parsing, required fields, lobe values, numeric types, documented ranges, and identifier uniqueness. See [docs/VALIDATION_REPORT.md](docs/VALIDATION_REPORT.md) for the recorded run results.
-
-## Limitations and intended use
-
-PulmoVision is a visualization and research-prototype interface, not a medical device or a substitute for professional medical evaluation. Its heuristic score, growth curves, treatment scenarios, proposed solutions, and displayed metrics are illustrative. The synthetic example records exist only to exercise software import and display paths. They cannot establish diagnostic performance, clinical efficacy, treatment benefit, patient outcomes, or scientific conclusions. Do not use these files for patient care, model training intended for clinical use, or clinical inference.
-
 ## Contribution guidelines
 
 - Preserve the original application and embedded resources unless a change is necessary and documented.
-- Keep sample records synthetic and clearly labeled as demonstration data.
 - Update the data dictionary and validation tests when changing the import schema.
 - Run the generator, validator, and unit tests before submitting changes.
 - Do not add patient-identifying information, credentials, or secrets.
